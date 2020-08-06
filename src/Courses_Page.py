@@ -6,31 +6,51 @@ from bs4 import BeautifulSoup
 class Courses_Page:
     def __init__(self, url):
         self.page = requests.get(url)
+        self.soup = BeautifulSoup(self.page.content, 'html.parser')
         
         self.raw_html_str = self.page.text
         self.title = self.get_title()
-#         print(self.title)
+        self.class_l = self.build_class_l()
         
         
         
     def get_title(self):
-#         return self.raw_html_str.split('<title>')[1].split('</title>')[0]
-
-        soup = BeautifulSoup(self.page.content, 'html.parser')
-#         print(soup.prettify())
-#         results = soup.find(id='title')
-#         results = soup.t
-        raw_title = soup.find('title').get_text()
-#         print(raw_title)
-#         job_elems = soup.find_all('section', class_='title')
-#         job_elems = soup.find_all('title')
+        raw_title = self.soup.find('title').get_text()
         return raw_title.split(' | ')[0]
         
-#         job_elems = results.find_all('section', class_='card-content')
-    
     
     def print_me(self):
         print(self.title)
+        
+        
+    def build_class_l(self):
+        course_dl = []
+#         strong_l = self.soup.find_all('strong')
+#         
+#         for strong_ in strong_l
+#         
+#         
+#         print(p_l)
+        p_attr_l = self.soup.find_all('p')
+        
+        for p_attr in p_attr_l:
+            
+            
+            em_attr = p_attr.find('em')
+            
+            # if this then its a real course
+            if em_attr != None and ' hours)' in str(em_attr):
+                course_d = {}
+                course_d['hours'] = em_attr.get_text()
+            
+#             if em_attr.get_
+#             print(hours)
+            
+                print('------------------------------\n', course_d)
+            
+        return course_dl
+        
+#         print(p_l)
 
 
 if __name__ == '__main__':
