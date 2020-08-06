@@ -35,7 +35,13 @@ class Courses_Page:
             
             # if this then its a real course
             if em_attr != None and ' hours)' in str(em_attr):
-                course_d = {}
+                course_d = {'hours'     : None,
+                            'num'       : None,
+                            'name'      : None,
+                            'gen_ed'    : None,
+                            'core_curr' : None,
+                            'descrip'   : None,
+                            'prereqs'   : None}
                 
                 # hours
                 course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
@@ -59,8 +65,14 @@ class Courses_Page:
                     course_d['core_curr'] = core_curr_attr.get_text().split('Core Curr. ')[1]
                     
                 # descrip / prereqs
-                course_d['description'] = p_attr.get_text().split('\n')[-1]#[-1]#.split('<p>')[0]
-#                 real_descrip_str = p_attr.get_text().split('<br/>')[-1]#.split('<p>')[0]
+#                 course_d['description'] = p_attr.get_text().split('\n')[-1]#[-1]#.split('<p>')[0]
+                real_descrip_str = p_attr.get_text().split('\n')[-1]#[-1]#.split('<p>')[0]
+                
+                if ' Prerequisite: ' in real_descrip_str:
+                    course_d['descrip'], course_d['prereqs'] = real_descrip_str.split(' Prerequisite: ')
+                else:
+                    course_d['descrip'] = real_descrip_str
+#                  = p_attr.get_text().split('<br/>')[-1]#.split('<p>')[0]
                 
 #                 for strong_dot_attr in gen_ed_attr:
 #                     if 'Gen. Ed. ' in str(strong_dot_attr):
