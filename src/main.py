@@ -1,4 +1,6 @@
-import requests 
+import requests
+
+import Courses_Page 
 
 from sms.testing_utils import testing_utlils as tu
 from sms.logger        import txt_logger
@@ -19,24 +21,38 @@ def get_url_l():
         if line != "":
             url_l.append(line)
     return url_l
+
+
+def get_course_page_l(url_l):
+    courses_page_l = []
+    
+    for url in url_l:
+        courses_page_l.append(Courses_Page.Courses_Page(url))
+        
+    return courses_page_l
+    
+    
+def print_courses_page_l(courses_page_l):
+    for cp in courses_page_l:
+        cp.print_me()
    
    
    
-if __name__ == '__main__':
+def main():
     
     url_l = get_url_l()
     tu.p_print(url_l)
     
+    courses_page_l = get_course_page_l(url_l)
+#     tu.p_print(courses_page_l)
+    print_courses_page_l(courses_page_l)
     
-    
-    
-    
-    
-    
-# Making a get request 
-# response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/cfa-artcourses.dot') 
-# response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/turner-entrepreneur-courses.dot') 
-#     
+
+
+# # Making a get request 
+# response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/las-mthcourses.dot') 
+# # response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/turner-entrepreneur-courses.dot') 
+#      
 # # prinitng request text 
 # print(type(response.text)) 
 # print(response.text) 
@@ -50,3 +66,7 @@ if __name__ == '__main__':
 # soup = BeautifulSoup(page.content, 'html.parser')
 # 
 # div class="row-color-bWhite row-padding-below-breadcrumbs"
+
+
+if __name__ == '__main__':
+    main()    
