@@ -25,12 +25,7 @@ class Courses_Page:
         
     def build_class_l(self):
         course_dl = []
-#         strong_l = self.soup.find_all('strong')
-#         
-#         for strong_ in strong_l
-#         
-#         
-#         print(p_l)
+
         p_attr_l = self.soup.find_all('p')
         
         for p_attr in p_attr_l:
@@ -41,7 +36,8 @@ class Courses_Page:
             # if this then its a real course
             if em_attr != None and ' hours)' in str(em_attr):
                 course_d = {}
-                course_d['hours'] = em_attr.get_text()
+                
+                course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
             
 #             if em_attr.get_
 #             print(hours)
