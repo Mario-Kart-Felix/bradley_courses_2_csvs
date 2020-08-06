@@ -2,7 +2,7 @@ import requests
    
 # Making a get request 
 # response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/cfa-artcourses.dot') 
-response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/las-soccourses.dot') 
+response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/turner-entrepreneur-courses.dot') 
     
 # prinitng request text 
 print(type(response.text)) 
