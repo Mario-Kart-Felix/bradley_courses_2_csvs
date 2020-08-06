@@ -57,6 +57,10 @@ class Courses_Page:
                 
                 if core_curr_attr != None:
                     course_d['core_curr'] = core_curr_attr.get_text().split('Core Curr. ')[1]
+                    
+                # descrip / prereqs
+                course_d['description'] = p_attr.get_text().split('\n')[-1]#[-1]#.split('<p>')[0]
+#                 real_descrip_str = p_attr.get_text().split('<br/>')[-1]#.split('<p>')[0]
                 
 #                 for strong_dot_attr in gen_ed_attr:
 #                     if 'Gen. Ed. ' in str(strong_dot_attr):
