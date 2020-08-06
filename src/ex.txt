@@ -1,0 +1,2014 @@
+pydev debugger: starting (pid: 25080)
+<!DOCTYPE html>
+
+<html lang="en" xml:lang="en">
+
+<head>
+
+
+
+
+
+<link rel="preconnect" href="https://www.googletagmanager.com">
+
+<link rel="preconnect" href="https://connect.facebook.net">
+
+<link rel="preconnect" href="https://mx.technolutions.net">
+
+<link rel="preconnect" href="https://kit-pro.fontawesome.com">
+
+<link rel="preconnect" href="https://siteimproveanalytics.com">
+
+<link rel="preconnect" href="https://stats.g.doubleclick.net">
+
+<link rel="preconnect" href="https://www.google.com">
+
+<link rel="preconnect" href="https://www.googleadservices.com">
+
+<link rel="preconnect" href="https://googleads.g.doubleclick.net">
+
+<link rel="preconnect" href="https://cx.atdmt.com">
+
+<link rel="preconnect" href="https://www.facebook.com">
+
+<link rel="preconnect" href="https://67771434.global.siteimproveanalytics.io">
+
+<link rel="preconnect" href="https://bid.g.doubleclick.net">
+
+
+
+<link rel="canonical" href="https://www.bradley.edu/academic/undergradcat/20202021/cfa-artcourses.dot" />
+
+
+
+
+
+
+
+<meta charset="utf-8">
+
+<meta content="width=device-width, initial-scale=1" name="viewport">
+
+
+
+<meta property="og:image" content="https://www.bradley.edu/global/images/facebook_defaultPreview_v2.png" />
+
+<meta property="og:image:width" content="1200" />
+
+<meta property="og:image:height" content="630" />
+
+<meta property="og:image:type" content="image/png" />
+
+<meta property="fb:app_id" content="257589315653" />
+
+<meta property="og:type" content="website" />
+
+<meta property="og:url" content="https://www.bradley.edu/academic/undergradcat/20202021/cfa-artcourses.dot" />
+
+
+
+
+
+<meta name="google-site-verification" content="IJIZeLbbFAUgJZ88624M8hJVeAuHFsKop6HlWkD96F4" />
+
+
+
+
+
+
+
+	
+
+			     		     		     	          
+
+	                                                                
+
+							<title>Art  and Design Courses | 2020-2021 | Undergraduate Catalog | Academics | Bradley University</title>
+
+
+
+    <link rel="stylesheet" href="/asset/css/bootstrap.min.css" type="text/css" /> 
+
+    <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:500,800">-->
+
+    <style type="text/css" media="screen">
+
+        @font-face {
+
+            font-family: 'Raleway',sans-serif;
+
+            font-display: block;
+
+            src: url(https://fonts.googleapis.com/css?family=Raleway:500,800);
+
+            font-weight: 500;
+
+        }
+
+    </style>
+
+    <link rel="stylesheet" href="/asset/css/animate.css" type="text/css" /><!-- for additional animation functions -->
+
+    <link rel="stylesheet" href="/asset/css/mainStyles.min.css?v=20200427064400" type="text/css" /><!-- main university stylesheet -->
+
+    <link rel="stylesheet" href="/asset/css/nivo-slider.css" type="text/css" /><!-- for Nivo Slider -->
+
+    <link rel="stylesheet" href="/asset/css/theme-nivo.css" type="text/css" /><!-- for Nivo Slider -->
+
+
+
+    <link rel="icon" href="/home/favicon.ico" type="image/x-icon">
+
+
+
+    <script src="/asset/js/jquery.min.js" type="text/javascript"></script>
+
+    <script src="/asset/js/bootstrap.min.js" type="text/javascript"></script>
+
+    <script src="https://kit.fontawesome.com/56822513b0.js" crossorigin="anonymous" integrity="sha384-OdlNKjSohokL5z1jQue71XrlXrqoIO6V6VHiON+qZPPCBH2/R7wVTPEQAwafp18n"></script>
+
+    <script defer src="/asset/js/jquery.matchHeight-min.js" type="text/javascript"></script><!-- squares/columns to match heights -->
+
+    <script defer src="/asset/js/countUp.js" type="text/javascript"></script><!-- count up -->
+
+    <script defer src="/asset/js/jquery.waypoints.min.js" type="text/javascript"></script><!-- do stuff when hits certain points -->
+
+    <script defer src="/asset/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script defer src="/asset/js/hoverDropdown.js" type="text/javascript"></script><!-- navbar animations & other stuff -->
+
+    <script defer src="/asset/js/jPushMenu.js" type="text/javascript"></script><!-- mobile nav push in -->
+
+    <!--<script src="/asset/js/v2p.js" type="text/javascript"></script>--><!-- old mobile nav push in -->
+
+    
+
+    <!-- STICKY NAV JS -->
+
+    <script type="text/javascript">
+
+    (function($) {
+
+    $(document).ready(function() {
+
+      $(window).scroll(function() {
+
+        if ($(this).scrollTop() > 120) {
+
+          $('.stickyNav').fadeIn(250);
+
+        } else {
+
+          $('.stickyNav').fadeOut(250);
+
+        }
+
+      });
+
+    });
+
+    })(jQuery);
+
+    </script>
+
+    
+
+    <!-- MATCH HEIGHT -->
+
+	<script type="text/javascript">
+
+	(function($) {
+
+		$(document).ready(function() {
+
+			$('.bWhite-square-matchHeight').matchHeight();
+
+		});
+
+	})(jQuery);
+
+	(function($) {
+
+		$(document).ready(function() {
+
+			$('.transparent-black-square-matchHeight').matchHeight();
+
+		});
+
+	})(jQuery);
+
+	(function($) {
+
+		$(document).ready(function() {
+
+			$('.matchHeight').matchHeight();
+
+		});
+
+	})(jQuery);
+
+	</script>
+
+
+
+    <!-- HAMBURGER OPEN/CLOSE -->
+
+	<script type="text/javascript">
+
+	(function($) {
+
+	$(document).ready(function () {
+
+	  var trigger = $('.hamburger'),
+
+		  overlay = $('.overlay'),
+
+		 isClosed = false;
+
+
+
+		trigger.click(function () {
+
+		  hamburger_cross();      
+
+		});
+
+
+
+		function hamburger_cross() {
+
+
+
+		  if (isClosed == true) {          
+
+			overlay.hide();
+
+			trigger.removeClass('is-open');
+
+			trigger.addClass('is-closed');
+
+			isClosed = false;
+
+		  } else {   
+
+			overlay.show();
+
+			trigger.removeClass('is-closed');
+
+			trigger.addClass('is-open');
+
+			isClosed = true;
+
+		  }
+
+	  }
+
+	});
+
+	})(jQuery);
+
+	</script>
+
+
+
+	<!-- MOBILE MENU PUSH PAGE -->
+
+	<script type="text/javascript">
+
+	  //<![CDATA[
+
+	  $(document).ready(function(){
+
+		$('.toggle-menu').jPushMenu({closeOnClickLink: false});
+
+		$('.dropdown-toggle').dropdown();
+
+	  });
+
+	  //]]>
+
+	</script>
+
+	
+
+	<!-- NIVO SLIDER -->
+
+	<script type="text/javascript"> 
+
+    $(window).load(function() {
+
+		$('#slider').nivoSlider({ 
+
+			effect: 'slideInLeft',            // Specify sets like: 'fold,fade,sliceDown' 
+
+			animSpeed: 500,                   // Slide transition speed 
+
+			pauseTime: 3000,                  // How long each slide will show 
+
+			startSlide: 0,                    // Set starting Slide (0 index) 
+
+			directionNav: true,               // Next & Prev navigation 
+
+			controlNav: false,                // 1,2,3... navigation 
+
+			controlNavThumbs: false,          // Use thumbnails for Control Nav 
+
+			pauseOnHover: true,               // Stop animation while hovering
+
+			manualAdvance: true, 
+
+		});
+
+    }); 
+
+    </script>
+
+    
+
+<script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-6234493-1']);
+
+  _gaq.push(['_setDomainName', '.bradley.edu']);
+
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['_trackPageLoadTime']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+
+
+</script>
+
+
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-K2NX5B3');</script>
+
+<!-- End Google Tag Manager -->
+
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+
+
+fbq('init', '1666421876940157');
+
+fbq('track', "PageView");</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=1666421876940157&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script type="text/javascript">
+
+/*<![CDATA[*/
+
+(function() {
+
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_67771434.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+
+})();
+
+/*]]>*/
+
+</script>
+
+
+
+<!--Begin Slate Ping Script-->
+
+<script async="async" src="https://apply.bradley.edu/ping">/**/</script>
+
+<!--End Slate Ping Script-->
+
+
+
+
+
+</head>
+
+
+
+<body id="no-image">
+
+
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2NX5B3"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<style>
+
+@media screen and (max-width: 991px) {
+
+    .emergency-alert {
+
+        margin-top: 50px;
+
+    }
+
+}
+
+</style>
+
+<div class="row-color-bWhite emergency-alert">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <p style="font-size: 16px; padding-top: 5px; margin-bottom: 4px !important;"><span class="text-uppercase" style="font-weight:bold; color:#a50000;">Coronavirus Information:</span> Bradley plans to resume on-campus classes in fall, summer classes will be online. <a href="/coronavirus/">More Information &raquo;</a></p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+    <a href="#main-content" class="skip">Skip to main content</a>
+
+    <!-- MAIN MENU/MOBILE MENU -->
+
+    <header>
+
+        <div class="header-top header-primary hidden-xs hidden-sm">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-5"></div><!-- .col-md-5 -->
+
+                    <div class="col-md-7">
+
+                        <nav class="navbar">
+
+                            <ul class="nav navbar-nav pull-right text-uppercase">
+
+                                <li class="nav-apply"><a href="/apply/"><i class="fas fa-file-alt" aria-hidden="true"></i> Apply</a></li>
+
+                                <li class="nav-visit"><a href="/admissions/freshman/visit/"><i class="fas fa-car" aria-hidden="true"></i> Visit</a></li>
+
+                                <li class="nav-give"><a href="/giving/"><i class="fas fa-gift" aria-hidden="true"></i> Give</a></li>
+
+                                <li class="top-audience"><a href="#" title="Audience"><span class="sr-only">Audience</span> <i class="fas fa-lg fa-users" aria-hidden="true"></i></a></li>
+
+                                <li class="top-tools"><a href="#" title="Tools"><span class="sr-only">Tools</span> <i class="fas fa-lg fa-th" aria-hidden="true"></i></a></li>
+
+                                <li class="top-search"><a href="#" title="Search"><span class="sr-only">Search</span> <i class="fas fa-lg fa-search" aria-hidden="true"></i></a></li>
+
+                            </ul>
+
+                        </nav>
+
+                    </div><!-- .col-md-7 -->
+
+                </div><!-- .row -->
+
+            </div><!-- .container -->
+
+            <div class="top-tools-container">
+
+                <div class="container">
+
+                    <div class="row">
+
+                        <nav>
+
+                            <ul class="nav nav-justified">
+
+                                <li><a href="/atoz/"><i class="fas fa-list" aria-hidden="true"></i> A-Z Index</a></li>
+
+                                <li><a href="/directory/"><i class="fas fa-phone" aria-hidden="true"></i> Directory</a></li>
+
+                                <li><a href="/about/visiting/virtual_tour/"><i class="fas fa-map" aria-hidden="true"></i> Campus Map</a></li>
+
+                                <li><a href="https://mail.bradley.edu/"><i class="far fa-envelope" aria-hidden="true"></i> BMail</a></li>
+
+                                <li><a href="https://fsmail.bradley.edu/"><i class="fas fa-envelope" aria-hidden="true"></i> FSMail</a></li>
+
+                                <li><a href="https://mybu.bradley.edu/"><i class="fas fa-desktop" aria-hidden="true"></i> MyBU</a></li>
+
+                                <li><a href="https://sakai.bradley.edu/"><i class="far fa-clipboard" aria-hidden="true"></i> Sakai</a></li>
+
+                                <li><a href="https://sentry.bradley.edu/"><i class="fas fa-user-plus" aria-hidden="true"></i> Sentry</a></li>
+
+                                <li><a href="https://webster.bradley.edu/"><i class="fas fa-laptop" aria-hidden="true"></i> Webster</a></li>
+
+                            </ul>
+
+                        </nav>
+
+                    </div><!-- .row -->
+
+                </div><!-- .container -->
+
+            </div><!-- .top-tools-container -->
+
+            <div class="top-search-container">
+
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-lg-4 col-md-6 col-md-offset-6 col-lg-offset-0">
+
+                            <form method="get" action="/sitesearch/" id="siteSearch">
+
+                                <label class="sr-only" for="search-site">
+
+                                    welcome to Bradley, how can we help you?
+
+                                </label>
+
+                                <div class="input-group">
+
+                                    <input id="search-site" type="text" class="form-control" autocomplete="off" placeholder="welcome to Bradley, how can we help you?" name="q" />
+
+                                    <span class="input-group-btn">
+
+                                        <button class="btn btn-light" type="submit">Go</button>
+
+                                    </span>
+
+                                </div> <!-- .input-group -->
+
+                            </form>
+
+                        </div><!-- .col-md-4 -->
+
+                        <div class="col-md-8">
+
+                            <ul class="list-inline">
+
+                                <li><h5 class="text-uppercase">Common Searches:</h5></li>
+
+                                <li><a href="/offices/other/sfs/costpay/tuition/"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Tuition</a></li>
+
+                                <li><a href="/calendar/"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Calendar</a></li>
+
+                                <li><a href="/offices/other/sfs/"><i class="far fa-money-bill-alt" aria-hidden="true"></i> Financial Aid</a></li>
+
+                                <li><a href="/academic/classes/"><i class="far fa-list-alt" aria-hidden="true"></i> Schedule of Classes</a></li>
+
+                                <li><a href="http://bradley.bncollege.com/"><i class="fas fa-book" aria-hidden="true"></i> Bookstore</a></li>
+
+                            </ul>
+
+                        </div><!-- .col-md-8 -->
+
+                    </div><!-- .row -->
+
+                </div><!-- .container -->
+
+            </div><!-- .top-search-container -->
+
+            <div class="top-audience-container">
+
+                <div class="container">
+
+                    <div class="row">
+
+                        <nav>
+
+                            <ul class="nav nav-justified">
+
+                                <li><a href="/admissions/"><i class="fas fa-child" aria-hidden="true"></i> Future Students</a></li>
+
+                                <li><a href="/currentstudents/"><i class="fas fa-users-class" aria-hidden="true"></i> Current Students</a></li>
+
+                                <li><a href="/parent/"><i class="fas fa-user-friends" aria-hidden="true"></i> Parents</a></li>
+
+                                <li><a href="/facultyorstaff/"><i class="fas fa-university" aria-hidden="true"></i> Faculty/Staff</a></li>
+
+                                <li><a href="/alumni/"><i class="fas fa-user-graduate" aria-hidden="true"></i> Alumni</a></li>
+
+                            </ul>
+
+                        </nav>
+
+                    </div><!-- .row -->
+
+                </div><!-- .container -->
+
+            </div><!-- .top-audience-container -->
+
+        </div><!-- .header-top .header-primary -->
+
+            
+
+        <nav class="header-main header-transparent navbar navbar-fixed-top" role="navigation" id="slide-nav">
+
+        <div class="container">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+
+            <div class="navbar-header">
+
+                <a class="navbar-toggle toggle-menu menu-right push-body visible-xs visible-sm hamburger is-closed" data-toggle="collapse" data-target="#slidemenu">
+
+                    <span class="sr-only">Toggle navigation</span>
+
+                    <span class="hamb-top"></span>
+
+                    <span class="hamb-middle"></span>
+
+                    <span class="hamb-bottom"></span>
+
+                </a>
+
+                <a class="navbar-brand main-logo" href="/" rel="home" title="Bradley University"><span class="sr-only">Bradley University</span> <img alt="Bradley University Logo" class="img-responsive" src="/asset/img/logo_v2.svg"></a>
+
+                <a class="navbar-brand visible-xs visible-sm bradley-logo-link" href="/"><span class="sr-only">Bradley University</span><img alt="Bradley University Logo" class="bradley-logo" src="/asset/img/Bshield_rgb.svg"></a>
+
+            </div>
+
+
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+            <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="slidemenu">
+
+                <ul class="nav navbar-nav text-uppercase">
+
+                    <li class="visible-sm visible-xs">
+
+                        <div class="mobile-nav-logo">
+
+                            <a href="/"><span class="sr-only">Bradley University</span><img alt="Bradley University Logo" class="bradley-logo" src="/asset/img/Bshield_rgb.svg"></a>
+
+                        </div>
+
+                        <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle text-center mobile-quicklinks-icon" data-toggle="dropdown" href="#" role="button"><span class="sr-only">Tools</span> <i class="fas fa-th fa-lg tools-btn"></i></a>
+
+                        <ul class="dropdown-menu">
+
+                            <li><a href="/atoz/"><i class="fas fa-list" aria-hidden="true"></i> A-Z Index</a></li>
+
+                            <li><a href="/directory/"><i class="fas fa-phone" aria-hidden="true"></i> Directory</a></li>
+
+                            <li><a href="/about/visiting/virtual_tour/"><i class="fas fa-map" aria-hidden="true"></i> Campus Map</a></li>
+
+                            <li><a href="https://mail.bradley.edu/"><i class="far fa-envelope" aria-hidden="true"></i> BMail</a></li>
+
+                            <li><a href="https://fsmail.bradley.edu/"><i class="fas fa-envelope" aria-hidden="true"></i> FSMail</a></li>
+
+                            <li><a href="https://mybu.bradley.edu/"><i class="fas fa-desktop" aria-hidden="true"></i> MyBU</a></li>
+
+                            <li><a href="https://sakai.bradley.edu/"><i class="far fa-clipboard" aria-hidden="true"></i> Sakai</a></li>
+
+                            <li><a href="https://sentry.bradley.edu/"><i class="fas fa-user-plus" aria-hidden="true"></i> Sentry</a></li>
+
+                            <li><a href="https://webster.bradley.edu/"><i class="fas fa-laptop" aria-hidden="true"></i> Webster</a></li>
+
+                        </ul>
+
+                    </li>
+
+                    <div class="clearfix"></div>
+
+                    <li class="visible-sm visible-xs">
+
+                        <div class="mobile-search">
+
+                            <form method="get" action="/sitesearch/" id="siteSearch">
+
+                                <label class="sr-only" for="search-site-2">Search Bradley.edu</label>
+
+                                <div class="input-group">
+
+                                    <input id="search-site-2" type="text" class="form-control" autocomplete="off" placeholder="search Bradley.edu" name="q" />
+
+                                    <span class="input-group-btn">
+
+                                        <button class="btn btn-bRed" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+
+                                    </span>
+
+                                </div>
+
+                            </form>
+
+                        </div>
+
+                    </li>
+
+                    <li><a href="/about/">About</a></li>
+
+                    <li><a href="/admissions/">Admission</a></li>
+
+                    <li><a href="/academic/">Academics</a></li>
+
+                    <li><a href="/campuslife/">Campus Life</a></li>
+
+                    <li><a href="/alumni/">Alumni</a></li>
+
+                    <li><a href="http://www.bradleybraves.com/">Athletics</a></li>
+
+                    <li class="visible-xs visible-sm dropdown">
+
+                        <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Information for <b class="caret"></b></a>
+
+                        <ul class="dropdown-menu nav-info-for">
+
+                            <li><a href="/admissions/"><i class="fas fa-child" aria-hidden="true"></i> Future Students</a></li>
+
+                            <li><a href="/currentstudents/"><i class="fas fa-users-class" aria-hidden="true"></i> Current Students</a></li>
+
+                            <li><a href="/parent/"><i class="fas fa-user-friends" aria-hidden="true"></i> Parents</a></li>
+
+                            <li><a href="/facultyorstaff/"><i class="fas fa-university" aria-hidden="true"></i> Faculty/Staff</a></li>
+
+                            <li><a href="/alumni/"><i class="fas fa-user-graduate" aria-hidden="true"></i> Alumni</a></li>
+
+                        </ul>
+
+                    </li>
+
+                    <li class="visible-xs visible-sm">
+
+                        <ul class="nav nav-mobile-action-items">
+
+                            <li class="col-xs-12">
+
+                                <a class="btn btn-bRed" href="/apply/"><i class="far fa-file-alt" aria-hidden="true"></i> Apply</a>
+
+                            </li>
+
+                            <li class="col-xs-12">
+
+                                <a class="btn btn-bRed" href="/admissions/freshman/visit/"><i class="fas fa-car" aria-hidden="true"></i> Visit</a>
+
+                            </li>
+
+                            <li class="col-xs-12">
+
+                                <a class="btn btn-bRed" href="/giving/"><i class="fas fa-gift" aria-hidden="true"></i> Give</a>
+
+                            </li>
+
+                        </ul>
+
+                    </li>
+
+                </ul>
+
+            </div><!-- /.navbar-collapse -->
+
+        </div><!-- /.container-fluid -->
+
+    </nav>
+
+    </header>
+
+    <!-- end MAIN MENU/MOBILE MENU -->
+
+    
+
+    <!-- STICKY NAVIGATION -->
+
+    <div class="stickyNav">
+
+        <div class="container-fluid row-color-bRed row-padding-sm">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-1 shieldLogo">
+
+                        <a class="bradley-logo-link" href="/"><img class="bradley-logo" alt="Bradley University Shield Logo" src="/asset/img/Bshield_rgb.svg"></a>
+
+                    </div>
+
+                    <div class="col-md-9 stickyNavLinks">
+
+                        <ul class="list-inline text-uppercase">
+
+                            <li><a href="/about/">About</a></li>
+
+                            <li><a href="/admissions/">Admission</a></li>
+
+                            <li><a href="/academic/">Academics</a></li>
+
+                            <li><a href="/campuslife/">Campus Life</a></li>
+
+                            <li><a href="/alumni/">Alumni</a></li>
+
+                            <li><a href="http://www.bradleybraves.com/">Athletics</a></li>
+
+                        </ul>
+
+                    </div> <!-- col-md-9 stickyNavLinks -->
+
+                    <div class="col-md-2">
+
+                        <ul class="list-inline icon-only text-right">
+
+                            <li class="sticky-audience"><a href="#" title="Audience"><span class="sr-only">Audience</span> <i class="fas fa-lg fa-users" aria-hidden="true"></i></a></li>
+
+                            <li class="sticky-tools"><a href="#" title="Tools"><span class="sr-only">Tools</span> <i class="fas fa-lg fa-th" aria-hidden="true"></i></a></li>
+
+                            <li class="sticky-search"><a href="#" title="Search"><span class="sr-only">Search</span> <i class="fas fa-lg fa-search" aria-hidden="true"></i></a></li>
+
+                        </ul>
+
+                    </div><!--col-md-2-->
+
+                </div><!-- row -->
+
+            </div><!-- container -->
+
+        </div><!-- container-fluid row-color-bRed row-padding-sm -->
+
+        <div class="sticky-tools-container">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <nav>
+
+                        <ul class="nav nav-justified">
+
+                            <li><a href="/atoz/"><i class="fas fa-list" aria-hidden="true"></i> A-Z Index</a></li>
+
+                            <li><a href="/directory/"><i class="fas fa-phone" aria-hidden="true"></i> Directory</a></li>
+
+                            <li><a href="/about/visiting/virtual_tour/"><i class="fas fa-map" aria-hidden="true"></i> Campus Map</a></li>
+
+                            <li><a href="https://mail.bradley.edu/"><i class="far fa-envelope" aria-hidden="true"></i> BMail</a></li>
+
+                            <li><a href="https://fsmail.bradley.edu/"><i class="fas fa-envelope" aria-hidden="true"></i> FSMail</a></li>
+
+                            <li><a href="https://mybu.bradley.edu/"><i class="fas fa-desktop" aria-hidden="true"></i> MyBU</a></li>
+
+                            <li><a href="https://sakai.bradley.edu/"><i class="far fa-clipboard" aria-hidden="true"></i> Sakai</a></li>
+
+                            <li><a href="https://sentry.bradley.edu/"><i class="fas fa-user-plus" aria-hidden="true"></i> Sentry</a></li>
+
+                            <li><a href="https://webster.bradley.edu/"><i class="fas fa-laptop" aria-hidden="true"></i> Webster</a></li>
+
+                        </ul>
+
+                    </nav>
+
+                </div><!-- .row -->
+
+            </div><!-- .container -->
+
+        </div><!-- .sticky-tools-container -->
+
+        <div class="sticky-search-container">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 col-md-offset-6 col-lg-offset-0">
+
+                        <form method="get" action="/sitesearch/" id="siteSearch">
+
+                            <label class="sr-only" for="search-site-sticky">welcome to Bradley, how can we help you?</label>
+
+                              <div class="input-group">
+
+                                <input id="search-site-sticky" type="text" class="form-control" autocomplete="off" placeholder="welcome to Bradley, how can we help you?" name="q" />
+
+                                <span class="input-group-btn"><button class="btn btn-light" type="submit">Go</button></span>
+
+                              </div> <!-- .input-group -->
+
+                        </form>
+
+                    </div> <!-- .col-md-4 -->
+
+                    <div class="col-md-8">
+
+                        <ul class="list-inline">
+
+                            <li><h5 class="text-uppercase">Common Searches:</h5></li>
+
+                            <li><a href="/offices/other/sfs/costpay/tuition/"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Tuition</a></li>
+
+                            <li><a href="/calendar/"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Calendar</a></li>
+
+                            <li><a href="/offices/other/sfs/"><i class="far fa-money-bill-alt" aria-hidden="true"></i> Financial Aid</a></li>
+
+                            <li><a href="/academic/classes/"><i class="far fa-list-alt" aria-hidden="true"></i> Schedule of Classes</a></li>
+
+                            <li><a href="http://bradley.bncollege.com/"><i class="fas fa-book" aria-hidden="true"></i> Bookstore</a></li>
+
+                        </ul>
+
+                    </div> <!-- .col-md-8 -->
+
+                </div> <!-- .row -->
+
+            </div> <!-- .container -->
+
+        </div> <!-- .sticky-search-container -->
+
+        <div class="sticky-audience-container">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <nav>
+
+                        <ul class="nav nav-justified">
+
+                            <li><a href="/admissions/"><i class="fas fa-child" aria-hidden="true"></i> Future Students</a></li>
+
+                            <li><a href="/currentstudents/"><i class="fas fa-users-class" aria-hidden="true"></i> Current Students</a></li>
+
+                            <li><a href="/parent/"><i class="fas fa-user-friends" aria-hidden="true"></i> Parents</a></li>
+
+                            <li><a href="/facultyorstaff/"><i class="fas fa-university" aria-hidden="true"></i> Faculty/Staff</a></li>
+
+                            <li><a href="/alumni/"><i class="fas fa-user-graduate" aria-hidden="true"></i> Alumni</a></li>
+
+                        </ul>
+
+                    </nav>
+
+                </div><!-- .row -->
+
+            </div><!-- .container -->
+
+        </div><!-- .sticky-audience-container -->
+
+    </div><!-- stickyNav -->
+
+    <!-- end STICKY NAVIGATION -->
+
+    <!-- BASIC PAGE NAVIGATION BAR -->
+
+    <div class="secondary-nav navbar-default">
+
+        <div class="container">
+
+            <nav class="navbar">
+
+                <div class="navbar-header">
+
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+
+                        <span class="icon-bar"></span>
+
+                        <span class="icon-bar"></span>
+
+                        <span class="icon-bar"></span>
+
+                    </button>
+
+                    
+
+                            
+
+          <a class="navbar-brand" href='/academic/undergradcat/20202021'><span class="glyphicon glyphicon-home icons-padding"></span> <span class="text-uppercase secondary-nav-title">2020-2021</span></a>
+
+                                                                                
+
+                </div>
+
+                <div class="collapse navbar-collapse" id="myNavbar">
+
+                    
+
+                                
+
+
+
+<ul class="nav navbar-nav">
+
+          <li class="dropdown"><a href='/academic/undergradcat/20202021/archives' class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"  >Archives <span class="caret"></span></a>
+
+        <ul class="dropdown-menu">
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20202021/'  >2020-2021 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20192020/'  >2019-2020 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20182019/'  >2018-2019 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20172018/'  >2017-2018 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20162017/'  >2016-2017 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20152016/'  >2015-2016 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20142015/'  >2014-2015 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20132014/'  >2013-2014 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20122013/'  >2012-2013 Undergraduate Catalog</a></li>
+
+                      <li><a href='https://www.bradley.edu/academic/undergradcat/20112012/'  >2011-2012 Undergraduate Catalog</a></li>
+
+                  </ul>
+
+    </li>
+
+      </ul>
+
+                    
+
+                </div>
+
+            </nav>
+
+        </div>
+
+    </div>
+
+    <!-- end BASIC PAGE NAVIGATION BAR -->
+
+
+
+                         
+
+    <!-- BASIC PAGE BREADCRUMBS -->
+
+    <div class="row-color-bWhite row-padding-breadcrumbs">
+
+        <div class="container">
+
+            <div class="row">
+
+            <ol class="breadcrumb">
+
+                <li><a href="/">Home</a></li>
+
+                                                        <li><a href="/academic">Academics</a></li>
+
+                                                                            <li><a href="/academic/undergradcat">Undergraduate Catalog</a></li>
+
+                                                                            <li><a href="/academic/undergradcat/20202021">2020-2021</a></li>
+
+                                                    <li class="active"></li>
+
+            </ol>
+
+            </div>
+
+        </div>
+
+    </div><!--row row-color-bWhite-->
+
+    <!-- end BASIC PAGE BREADCRUMBS -->
+
+<div id="main-content">
+
+    <!-- BASIC PAGE SECTION -->
+
+    <div class="row-color-bWhite row-padding-below-breadcrumbs">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12">
+
+                    
+
+
+
+                    <h1 class="text-uppercase">Art  and Design Courses</h1>
+
+
+
+    
+
+
+
+			 <p><strong>ART 101 - Drawing I</strong>
+
+     <em>(3 hours)</em>
+
+<br>Fundamental concepts and techniques in drawing, using a variety of media and tools. Develop skills based on drawing from observation and invention.</p>
+
+			 <p><strong>ART 102 - Drawing II</strong>
+
+     <em>(3 hours)</em>
+
+<br>Second part of a year-long course on developing fundamental concepts and techniques in drawing using a variety of media and tools. Developing objective and subjective use of imagery. Introduction to the human figure. Prerequisite: ART 101 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 105 - Two-Dimensional Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>A studio course exploring the fundamentals of the formal systems and basic elements of visual organization through two-dimensional design principles and theories using a variety of media.</p>
+
+			 <p><strong>ART 106 - Three-Dimensional Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>A studio course exploring the fundamentals of the formal systems and basic elements of visual organization through three-dimensional design principles and theories using a variety of media. Prerequisite: ART 105 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 107 - Introduction to Studio Art</strong>
+
+     <em>(3 hours)</em>
+
+<br><strong>Gen. Ed. FA</strong>
+
+<br><strong>Core Curr. FA</strong>
+
+<br>Two- and three-dimensional visual arts including drawing, painting, photography, printmaking, and sculpture. Designed to enhance the student's understanding of art mediums and their cultural significance. Prerequisite: Open for non-Art majors only.</p>
+
+			 <p><strong>ART 109 - Photographic Appreciation (Online)</strong>
+
+     <em>(3 hours)</em>
+
+<br><strong>Core Curr. FA</strong>
+
+<br>Fundamentals of photographic processes, the history of the medium, as well as basic image manipulation and critique methods.  An emphasis on the development of visual literacy skills necessary for analyzing and critiquing our image-saturated culture. Prerequisite: Open for non-Art majors only.</p>
+
+			 <p><strong>ART 131 - Art Appreciation</strong>
+
+     <em>(3 hours)</em>
+
+<br><strong>Gen. Ed. FA</strong>
+
+<br><strong>Core Curr. FA,WI</strong>
+
+<br>Visual art: its significance today and in history. Designed to enhance the student's understanding and enjoyment of painting, sculpture, and architecture. Prerequisite: Non-art major.</p>
+
+			 <p><strong>ART 140 - Survey of Art History I</strong>
+
+     <em>(3 hours)</em>
+
+<br>Western and non-Western art from 4000 B.C. to 1400 A.D.: Ancient, Classic, and Medieval.</p>
+
+			 <p><strong>ART 142 - Survey of Art History II</strong>
+
+     <em>(3 hours)</em>
+
+<br>Western art from 1400 A.D. to present: Renaissance, Baroque and Rococo, 19th and 20th century art.</p>
+
+			 <p><strong>ART 201 - Introduction to Ceramics</strong>
+
+     <em>(3 hours)</em>
+
+<br>An introduction to the fabrication of ceramic objects and the mechanical functions of the ceramic studio including clay mixing, hand building, throwing, glazing and kiln firing with a focus on stoneware.</p>
+
+			 <p><strong>ART 202 - High & Low Fire Ceramics</strong>
+
+     <em>(3 hours)</em>
+
+<br>Technical and design concepts for the forming, glazing, and firing of ceramics with a focus on the aesthetic development of high and low fire ceramics.</p>
+
+			 <p><strong>ART 203 - Drawing Studio I</strong>
+
+     <em>(3 hours)</em>
+
+<br>Visual perception and analysis through drawing in development of direct observation with various subject areas of interest, i.e., still-life, landscape, human figure, non-objective, and abstraction. Traditional drawing media, methods of instrumentation, exploration of composition, and conceptual strategies are included. Prerequisite: Art 101, 102, 105, 106,  140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 204 - Drawing Studio II</strong>
+
+     <em>(3 hours)</em>
+
+<br>Visual perception and analysis through drawing in variety of techniques involving line, area, and ground. Figure, still-life, and landscape drawing from direct observation and from imagination. Prerequisite: Art 101, 102, 105, 106, 140, 142, 203, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 205 - Typographic Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>The study of typographic communication and the principles of design composition through hand-rendered and digital forms Prerequisite: Art 105 or consent of Art Department chair</p>
+
+			 <p><strong>ART 206 - Graphic Design Methods and Processes</strong>
+
+     <em>(3 hours)</em>
+
+<br>Exploration of the creative thought process, leading to innovative and original solutions to visual communication problems. Concepts are developed using a variety of media ranging from hand-rendering to digital production. Emphasis is placed on creative thinking and professional presentation through all stages. Prerequisite: ART 205, IM 113, or consent of Art Department Chair.</p>
+
+			 <p><strong>ART 209 - Beginning Painting I</strong>
+
+     <em>(3 hours)</em>
+
+<br>Basic painting techniques with traditional and non-traditional media, i.e., oil, acrylic, collage, and mixed media with emphasis on studio problems in composition, representation, design, color and concept. Prerequisite: Art 101, 102, 105, 106, 140, 142 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 210 - Beginning Painting II</strong>
+
+     <em>(3 hours)</em>
+
+<br>Development of techniques in traditional and non-traditional painting media. Exploration and experimentation using painting problems in still life, the human figure, abstraction, landscape, and non-objective composition. Emphasis on critical analysis and aesthetic awareness. Prerequisite: ART 209 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 211 - Relief Printmaking</strong>
+
+     <em>(3 hours)</em>
+
+<br>Relief printing from wood and linoleum blocks. Basic cutting and printing techniques, including black and white, color reduction and multi-block color editioning. Students provide paper, wood, linoleum, brayers, and cutting tools. Prerequisite: Art 101, 102, 105, 106, 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 212 - Intaglio Printmaking</strong>
+
+     <em>(3 hours)</em>
+
+<br>Etching and engraving on zinc and copper plates for printings in the intaglio method. Introduction to methods including drypoint, line etch, aquatint, and softground techniques. Black and white printing with a multi-plate, color edition as final project. Students provide paper, metal plates, burnishers, scrapers, burins, and drawing needles. Prerequisite: ART 211 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 213 - Beginning Sculpture I</strong>
+
+     <em>(3 hours)</em>
+
+<br>Introduction to sculpture including 3-d design principles, aesthetics, and basic techniques of additive and reductive manipulation of materials. Processes include carving and welding, cutting and joining and various materials-steel, stone, and/or wood. Prerequisite: Art 101, 102, 105, 106, 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 214 - Beginning Sculpture II</strong>
+
+     <em>(3 hours)</em>
+
+<br>Introduction to sculpture including 3-d design principles, aesthetics, and basic techniques of casting including pattern making, modeling in wax, clay, and transfer of the image to bronze and aluminum. Processes will involve cope and drag casting, transfer mold making and investment mold making, pouring molten non-ferrous metals, and finishing cast metal works through chasing and other surface cleanup, patination and sealing. Prerequisite: Art 101, 102, 105, 106, 140, and 142; or consent of Art Department chair.</p>
+
+			 <p><strong>ART 220 - Professional Lecture Series/Studio Visits I</strong>
+
+     <em>(0.5 hours)</em>
+
+<br>Visiting lectures with studio discussions, seminars, and demonstrations from professionals with national and international reputations in the fine and applied arts, art history, criticism, and philosophy. May be repeated to a maximum of 1 semester hour. Prerequisite: Art 101, 102, 105, 106, 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 221 - Professional Lecture Series/Studio Visits II</strong>
+
+     <em>(0.5 hours)</em>
+
+<br>Visiting lectures with studio discussions, seminars, and demonstrations from professionals with national and international reputations in the fine and applied arts, art history, criticism, and philosophy. May be repeated to a maximum of 1 semester hour. Prerequisite: Art 101, 102, 105, 106, 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 225 - Basic Black and White Photography</strong>
+
+     <em>(3 hours)</em>
+
+<br>Camera types, controls, and exposures; selection of sensitized materials; camera handling. Darkroom techniques: processing, proofing, adjusting, printing, presentation of work. Students supply film, paper, and a manually adjustable single lens reflex (SLR) camera.</p>
+
+			 <p><strong>ART 227 - Basic Graphic Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>Survey of essential studio methods and techniques in graphic design to give non-art majors the ability to appreciate and communicate through basic graphic design. For non-art majors only.</p>
+
+			 <p><strong>ART 228 - Basic Digital Photographic Imaging</strong>
+
+     <em>(3 hours)</em>
+
+<br>Introduction to basic digital image creation. Familiarization with processing, enhancement, manipulation, compositing, and asset management. Aesthetic, ethical, and technical implications of digital photographic imaging. Emphasis on creative image-making. Items required: DSLR camera, laptop computer, storage media for camera and computer.</p>
+
+			 <p><strong>ART 230 - Life Drawing</strong>
+
+     <em>(3 hours)</em>
+
+<br>Drawing the figure from observation; learning anatomy to describe the dynamic qualities of the human form employing basic drawing elements, methods, and materials. Prerequisite: ART 101, 102, 105, 106, 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 243 - Non-Western Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>Principal art forms of the non-Western world: India, China, Japan, Indochina, and Indonesia. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 245 - American Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>Survey of art in U.S. from Colonial period to present. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 300 - Advanced Studio Topics</strong>
+
+     <em>(1-3 hours)</em>
+
+<br>Topics of special interest which may vary each time course is offered. Topic stated in current Schedule of Classes. May be repeated under different topics for a maximum of six hours credit. Prerequisite: junior standing and consent of instructor. See current Schedule of Classes.</p>
+
+			 <p><strong>ART 301 - Ceramics Production</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>The production and design of functional ceramics. Repeatable up to 6 semester hours. Prerequisite: ART 202, 230 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 302 - Advanced Ceramics</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Kiln design, glaze formulation, and individual aesthetic development of techniques and concepts. May be repeated up to 6 hours. Prerequisite: ART 301 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 303 - Intermediate Drawing I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>In-depth exploration of drawing processes, concepts, media and supports with projects designed to increase visual awareness and personal experience with subject matter and drawing content. Repeatable up to 6 semester hours. Prerequisite: ART 204, 230, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 304 - Intermediate Drawing II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Study of drawing processes, building and refining individual concepts with emphasis on contemporary approaches to pictorial design and composition. Repeatable up to 6 semester hours. Prerequisite: ART 303 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 305 - Editorial Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>The creation, layout, and design of multi-page documents such as magazines, brochures, business-to-business direct mail, and catalogs, with emphasis on modular and scalable systems for both the printed and digital environment. Prerequisite: ART 206 and IM 113, or consent of Department Chair.</p>
+
+			 <p><strong>ART 306 - Designing for a Brand Experience</strong>
+
+     <em>(3 hours)</em>
+
+<br>Identifying specific target audiences and designing brand experiences around them using traditional and social media environments. Including the design and implementation of visual identity systems, packaging, point of purchase, and promotional materials. Prerequisite: ART 305 or consent of Art Department Chair</p>
+
+			 <p><strong>ART 309 - Intermediate Painting I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Exploration of subject matter useful toward personal development and artistic growth. Emphasis on the study of painting media, critical analysis, aesthetic awareness, and creative expression. Repeatable up to 6 semester hours. Prerequisite: ART 210, 230, IM 113, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 310 - Intermediate Painting II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Independent work in painting emphasizing aesthetic research and concentrated studio production. Emphasis on the study of painting media, creative expression, critical analysis, and aesthetic awareness. Repeatable up to 6 semester hours. Prerequisite: ART 309 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 311 - Basic Lithography</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Lithographic printmaking from limestone and ball-grained aluminum matrices. Basic drawing and printing techniques for color and black and white editions. Students provide paper, metal plates, lithographic crayons. Repeatable up to 6 semester hours. Prerequisite: ART 220, 230, ART 211 or 212, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 312 - Intermediate Printmaking</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Exploration of technical and creative concepts in preparation for advanced printmaking coursework; emphasis on content-oriented imagery and discussion. Introduction to collagraphy, monotypes, photographic and digital techniques, and registration for printing with multiple techniques. Repeatable up to 6 semester hours. Prerequisite: ART 230. At least two courses from ART 211, 212, and 311, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 313 - Intermediate Sculpture I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Intermediate sculpture with emphasis on refinement of the processes of casting, mold making, welding, cutting, joining, and the creation of sculpture in a variety of materials. Design principles, aesthetic considerations, and techniques of working are reviewed with application of principles and materials most appropriate for the development of individual student work. Repeatable up to 6 semester hours. Prerequisite: ART 213 or ART 214 or consent of the department chair</p>
+
+			 <p><strong>ART 314 - Intermediate Sculpture II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Intermediate sculpture with emphasis on the refinement of sculptural concepts and the processes of casting, mold making, welding, cutting, joining, and the creation of sculpture in a variety of materials with continuing emphasis on the development of individual student work. Repeatable up to 6 semester hours. Prerequisite: ART 313 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 315 - Rapid Prototyping</strong>
+
+     <em>(3 hours)</em>
+
+<br>Explorations into 3-D modeling using software, scanning, and rapid prototyping. May be repeated up to a total of 6 hrs.</p>
+
+			 <p><strong>ART 316 - Independent Study in Studio Arts</strong>
+
+     <em>(1-3 hours)</em>
+
+<br>Independent study in studio arts. Repeatable for a total of 6 hours credit. Prerequisite: Junior standing; consent of instructor, and Art Department chair.</p>
+
+			 <p><strong>ART 317 - Color: Perception and Practice</strong>
+
+     <em>(3 hours)</em>
+
+<br><strong>Core Curr. EL</strong>
+
+<br>Perception, relationships, and interaction of color. Studio experience leads from a visual realization of color relationships to an awareness of the interdependence of color with form and placement. Prerequisite: ART 101, 102, 105, 106,  140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 320 - The Artists' Book & Bookmaking</strong>
+
+     <em>(3 hours)</em>
+
+<br>An introduction to the altered book, book as structure and book as image. Includes bookbinding basics, pamphlet stitch, basic codex, stitches, stab bindings, fold books, combination books and unusual bindings. Emphasis will be placed on craft and conceptual considerations that form the foundation of the book as personal, expressive, unconventional, surprising, beautiful, and thought provoking. Prerequisite: Art 101, 102, 105, 106, 140, 142, 230, IM 113, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 323 - Art and The Environment</strong>
+
+     <em>(3 hours)</em>
+
+<br>An introduction to the history of land and environmental art through readings, research, lectures, and making.  Students will be asked to consider contemporary environmental issues as the content of their work as well as the effects of art-making on the environment.  Course projects will include individual and collaborative art-making in non-traditional exhibition spaces and with non-traditional materials.</p>
+
+			 <p><strong>ART 324 - Photographic Concepts</strong>
+
+     <em>(3 hours)</em>
+
+<br>The study of major photographic genres including landscape, portrait, street photography and still life.  Students will analyze these genres through theoretical writings, the study of historical and contemporary image-makers, and their own personal studio practice. Prerequisite: Art 225 and 228</p>
+
+			 <p><strong>ART 326 - Manipulated Image</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Manipulative photographic printing. Imagery developed by varying cameras, films, papers, and chemicals. Introduction to toners, hand-coloring, camera construction and modification. Repeatable up to six semester hours. Prerequisite: Art 225 and 228; or consent of Art Department chair</p>
+
+			 <p><strong>ART 327 - Studio Lighting and Illustration Photography</strong>
+
+     <em>(3 hours)</em>
+
+<br>Aesthetics and techniques of studio lighting as used by photographers in illustration, advertising, and fine art photography. Use of special equipment; fashion, and still-life image-making. Prerequisite: Art 225 and 228; or consent of Art Department chair</p>
+
+			 <p><strong>ART 332 - History of Graphic Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>History of typography, graphic communication, and design. Cause and effect analysis involving cultural forces and design as well as the exploration of major historical movements leading to the emergence of contemporary design. Prerequisite: ART 140, 142, or consent of Art Department Chair</p>
+
+			 <p><strong>ART 335 - Medieval Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>A study of Early Christian, Byzantine, Romanesque and Gothic Art. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 340 - Renaissance Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>Art of Europe from ca. 1400 to 1600: Early, High, and Late Renaissance periods; Mannerism. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 350 - 17th and 18th Century Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>Art of Europe, ca. 1600 to 1800, including a study of Baroque, Rococo, and Neo-Classical art. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 360 - 19th Century Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>Art of the 19th century in Europe, America, and elsewhere; Neo-Classicism through Post-Impressionism. Prerequisite: ART 140, 142 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 365 - Interactive Media Publishing Platforms</strong>
+
+     <em>(3 hours)</em>
+
+<br>A studio course exploring creative strategies and techniques associated with online publishing platforms. Students will install, configure, and customize a web-based content management system. Additional topics will include: search engine optimization, information architecture, content modeling, social networking, media preparation, and customization of site themes. Cross-listed as IM 365. Prerequisite: IM 110 and Animation, Game Design, or Interaction Design major; IM 113 and ART 205; or consent of Department Chair.</p>
+
+			 <p><strong>ART 375 - 20th Century Art</strong>
+
+     <em>(3 hours)</em>
+
+<br>A study of the major movements in 20th-century art. Prerequisite: ART 140, 142, junior or senior, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 380 - Topics:  Specified</strong>
+
+     <em>(3 hours)</em>
+
+<br>Topics of special interest which may vary each time course is offered. Topic stated in current Schedule of Classes. Prerequisite: ART 140, 142, junior standing, or consent of Art Department chair. May be repeated under different topics to a maximum of 12 hours. Emphasis on individual research.</p>
+
+			 <p><strong>ART 390 - History of Photography</strong>
+
+     <em>(3 hours)</em>
+
+<br>An overview of the history of photography from its invention in 1839 through the modern period of the 20th century. This course will explore the evolution of photography as an art form. Prerequisite: ART 140, 142, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 401 - Ceramic Portfolio Design Studio</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Portfolio development, studio design and equipment as they relate to the individual artist. Repeatable up to 6 semester hours. Prerequisite: ART 302, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 402 - Ceramic Sculpture</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Design concepts and production techniques as they apply to ceramics sculpture. Repeatable up to 6 semester hours. Prerequisite: ART 302, or consent of Art Department chair.</p>
+
+			 <p><strong>ART 403 - Advanced Drawing I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Advanced projects in drawing with emphasis on refinement of concepts and materials leading to an independent body of work. Repeatable up to 6 semester hours. Prerequisite: ART 304 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 404 - Advanced Drawing II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Emphasis on individual growth and development of a body of work reflecting clear understanding of drawing concepts, and mastery of skills and materials. Repeatable up to 6 semester hours. Prerequisite: ART 304 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 405 - Graphic Information Systems</strong>
+
+     <em>(3 hours)</em>
+
+<br>Exploration of standard and experimental methods for conveying information for business, government, and entertainment including quantitative, qualitative, spatial analysis and application. Prerequisite: ART 306 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 406 - Graphic Design Portfolio</strong>
+
+     <em>(3 hours)</em>
+
+<br><strong>Core Curr. EL</strong>
+
+<br>The capstone course for the graphic design program, involving organizing and producing an effective professional design portfolio along with sharpening professional presentation and interviewing skills. Students create a print and digital portfolio, résumé package, and other promotional materials. The process of developing the portfolio may include reworking previous projects or developing new material. Prerequisite: Art 405, or consent of the Art Department Chair</p>
+
+			 <p><strong>ART 409 - Advanced Painting I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Thematic development of a body of work in painting with special emphasis on the refinement and exploration of personal concept and content. Repeatable up to 6 semester hours. Prerequisite: ART 310 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 410 - Advanced Painting II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br><strong>Core Curr. EL</strong>
+
+<br>Special projects in painting which may include competitions, exhibitions, installations, commissions, and portfolio development. Repeatable up to 6 semester hours. Prerequisite: ART 310 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 411 - Advanced Printmaking Studio</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Advanced printmaking concepts and techniques in preparation for exhibitions, application to graduate programs, and other professional pursuits. Emphasis on ideas and finishing skills required for the production of a professional portfolio. Repeatable up to 6 semester hours. Prerequisite: ART 311, 312 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 412 - Advanced Printmaking Studio</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Advanced printmaking concepts and techniques in preparation for exhibitions, application to graduate programs, and other professional pursuits. Emphasis on ideas and finishing skills required for the production of a professional portfolio. Repeatable up to 6 semester hours. Prerequisite: ART 311, 312 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 413 - Advanced Sculpture I</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Thematic development of a body of work in sculpture with special emphasis on topics of portfolio and the refinement and exploration of materials and methods. Repeatable up to 6 semester hours. Prerequisite: ART 314 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 414 - Advanced Sculpture II</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Special projects in sculpture which may include works for competitions, specific sites, scale, materials and/or portfolio development. Repeatable up to 6 semester hours. Prerequisite: ART 314 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 416 - Independent Study in Studio Arts</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Independent study in studio arts. May be repeated in more than one area of art, for a total of 6 hours of credit. Prerequisite: Declared art major; senior standing; consent of Art Department chair.</p>
+
+			 <p><strong>ART 417 - Independent Study in Art History</strong>
+
+     <em>(3 hours)</em>
+
+<br>Program of directed readings: analysis, synthesis, and interpretation of materials. Research paper required. May be repeated in more than one area of art history, for a total of 6 credit hours. Prerequisite: Art history major; senior standing; consent of instructor, and Art Department chair.</p>
+
+			 <p><strong>ART 420 - BFA Seminar I</strong>
+
+     <em>(2 hours)</em>
+
+<br>Professional orientation and career preparation through concentrated studio production, exhibition management, creative media research, critique analysis, on-site visitation of artists' studios, formulation of artist thesis statement and resume. Prerequisite: BFA candidacy; senior standing.</p>
+
+			 <p><strong>ART 421 - BFA Seminar II</strong>
+
+     <em>(1 hour)</em>
+
+<br><strong>Core Curr. EL</strong>
+
+<br>Continuation of ART 420; resume and portfolio preparation, exhibition design management, culminating B.F.A. exhibition. Prerequisite: ART 420</p>
+
+			 <p><strong>ART 426 - Photographic Portfolio</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Preparation of photographic portfolio for the fine arts or for publication photography. Research into successful photographers' works; selection; development of personal aesthetic. Archival and professional presentation of the prints or other media. Prerequisite: Art 225, 228 and 327; or consent of Art Department chair</p>
+
+			 <p><strong>ART 427 - Advanced Photographic Digital Imaging</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>A studio course focusing on the cutting edge of fine art digital photography, from shooting to image editing and printing. Color calibration, advanced digital imaging techniques, output options, substrate choices, and design concepts are discussed in depth. Using the students' own images to create individual portfolios, students learn how to produce high-quality digital input and output. Prerequisite: Art 225, Art 228, Art 327 or consent of Art Department chair</p>
+
+			 <p><strong>ART 465 - Advanced Web Design</strong>
+
+     <em>(3 hours)</em>
+
+<br>A studio course exploring advanced and experimental web design strategies, with an emphasis on extended or applied projects. Discussion focuses on the future of the web media and improved human-computer interaction. Topics include: motion graphics, user response, audio, video, and virtual-reality technologies. Prerequisite: IM 160; ART 365/IM 365 or consent of Art Department chair.</p>
+
+			 <p><strong>ART 480 - Seminar in Art History</strong>
+
+     <em>(3 hours)</em>
+
+<br>Advanced study of a particular artist, period, movement or methodology. Topics stated in current Schedule of Classes. May be repeated under different topics up to 12 semester hours. Prerequisite: ART 140, 142; Art History major or minor, or consent of instructor, and junior or senior standing.</p>
+
+			 <p><strong>ART 490 - Art Seminar</strong>
+
+     <em>(3 hours)</em>
+
+<br>Art history and theory seminar.  May be repeated under different topics for a maximum of twelve credit hours.  Cross-listed under ART 590. Prerequisite: Senior art or art history major.</p>
+
+			 <p><strong>ART 494 - Visual Art Expedition</strong>
+
+     <em>(1-3 hours)</em>
+
+<br>Students travel to observe or engage in artistic production making use of the resources of the particular location. Advanced study and/or experiences in art and design. May be repeated up to 9 hrs. Topics, destinations, and prerequisites stated in current Schedule of Classes.</p>
+
+			 <p><strong>ART 496 - BFA Design Senior Project</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Senior BFA students in graphic design, working closely with an instructor, select and execute a visual communication project; researching and defining the scope, documenting the process of problem-solving, and placing the project in an appropriate historical and theoretical context. Prerequisite: ART 305, ART 306, declared graphic design concentration, BFA candidacy, senior standing, and consent of instructor.</p>
+
+			 <p><strong>ART 500 - Advanced Studio</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Advanced work in printmaking, drawing, photography, ceramics, sculpture, interdisciplinary studio or painting.   Repeatable to a maximum of 6 hours. Prerequisite: Graduate standing or completion of corresponding senior level course.</p>
+
+			 <p><strong>ART 590 - Art Seminar</strong>
+
+     <em>(3 hours)</em>
+
+<br>Art history and theory seminar.  May be repeated under different topics for a maximum of twelve credit hours. Cross-listed under 490. Prerequisite: Graduate standing or qualified undergraduate art history major.</p>
+
+			 <p><strong>ART 600 - Photography Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Development of advanced technical, aesthetic and conceptual concerns through experimentation within the photographic media relating to appropriate historical and contemporary references.  Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 605 - Critique Seminar</strong>
+
+     <em>(1 hour)</em>
+
+<br>Critique seminar, repeatable to a maximum of six hours. Prerequisite: Graduate standing.</p>
+
+			 <p><strong>ART 610 - Drawing Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Analytical and conceptual evaluation of individual style and content emphasizing technical, creative, and digital competencies on a professional level. Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 620 - Printmaking Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Technical and conceptual development with intaglio, relief, and planographic printing.  Etching, engraving, wood, paper, and plastic relief printing, serigraphy and lithography.  Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 630 - Ceramics Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Techniques and material used in stoneware earthenware and porcelain production.  Emphasis on creative development and technical competence. Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 640 - Sculpture Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Technical and conceptual information about wood and stone carving and construction, welding and metal fabrication, foundry practice, emphasizing individual development.  Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 650 - Pedagogy</strong>
+
+     <em>(3 hours)</em>
+
+<br>Focus of this course is the teaching practice of artistic concepts, foundations of art and subject matter of technical, historical and conceptual content in art curricula.  Students will be exposed to the many issues of conveying ideas, and motivating students to make the educational experience meaningful.  Practical issues of : teaching philosophy, resources, syllabi creation, assessment and course planning will be part of the discussion. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 660 - Interdisciplinary  Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Advanced work in more than one concentration.  May include two- or three-dimensional media; may incorporate installation work, performance, construction, and creative expression with interrelated forms of fine arts and design.  Repeatable to maximum of 9 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 670 - Painting Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Advanced painting in the medium and direction of the student's choice.  Emphasis on creative development and technical competence.  Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 680 - Special Problems</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Problems in area of students interest as advised by instructor.  Repeatable to a maximum of 18 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 689 - Design Research and Collaboration</strong>
+
+     <em>(3 hours)</em>
+
+<br>A design problem that responds to social, economic, and environmental concerns created in consultation and collaboration with a corporation, institution, or government agency under the supervision of the faculty.  Repeatable to a maximum of 9 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 690 - Seminar</strong>
+
+     <em>(3 hours)</em>
+
+<br>Research and presentation of art topics ranging from history to contemporary concerns of the artist, to interdisciplinary courses consisting of an organized sequence of guest speakers.  May be repeated under different topics to a maximum accumulated credit of 18 hours.</p>
+
+			 <p><strong>ART 694 - Visual Communications and Design Studio</strong>
+
+     <em>(1-6 hours)</em>
+
+<br>Working with hypothetical environments and data, focuses on design development, problem-solving skills, visualization and invention.  Concept, exploration emphasized while developing a personal creative vision and understanding of current graphic design practices and technology.  Repeatable to a maximum of 33 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 695 - Theory and Criticism</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Research, discussion and presentation on topics in fine arts and design, including contemporary trends, philosophies, literature and history. Repeatable to a maximum of 6 semester hours Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 696 - Advanced Digital Design</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Advanced work in applied software for web design, animation, rapid prototyping, interactive design and experience design.  Repeatable to 9 semester hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 697 - Design Management</strong>
+
+     <em>(3-6 hours)</em>
+
+<br>Development phases of real-world project execution, including: research, problem definition, planning, cost and budget analysis, organization,and presentation of information for business, public institutions, government and the entertainment industry.  Repeatable to 9 hours. Prerequisite: Graduate Standing</p>
+
+			 <p><strong>ART 698 - Thesis Exhibition</strong>
+
+     <em>(0-3 hours)</em>
+
+<br>At the beginning of their second semester, studio art M.A. candidates must submit a proposal that defines their evolving work.  Full time M.A. candidates register for Art 698 for the third semester. At this time candidates present thesis exhibitions for review by the graduate faculty and other invited participants.  A written comprehensive exam also supplements the exhibition. Upon successful completion of all academic and exhibition requirements, students may be invited to continue toward completion of the M.F.A. requirements. Prerequisite: Candidacy for M.A.</p>
+
+			 <p><strong>ART 699 - Thesis Exhibition M.F.A.</strong>
+
+     <em>(0-3 hours)</em>
+
+<br>At the beginning of the second semester, M.F.A. candidates submit a proposal that defines their evolving thesis work.  During the last semester of their final year, all M.F.A. candidates will be registered for Art 699 and will present thesis exhibitions for review by graduate faculty and other invited guests.  A written comprehensive exam done in consultation with the student's graduate committee supplements the exhibition. Prerequisite: M.A. and candidacy for M.F.A.</p>
+
+	         
+
+<p style="border-top: 1px solid #000; padding-top: 30px; margin-top: 30px;"><em>This is the official catalog for the 2020-2021 academic year. This catalog serves as a contract between a student and Bradley University. Should changes in a program of study become necessary prior to the next academic year every effort will be made to keep students advised of any such changes via the Dean of the College or Chair of the Department concerned, the Registrar's Office, u.Achieve degree audit system, and the Schedule of Classes. It is the responsibility of each student to be aware of the current program and graduation requirements for particular degree programs.</em></p>
+
+                    
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div><!--row-->
+
+    <!--end BASIC PAGE SECTION-->
+
+</div>
+
+
+
+<!-- FOOTER -->
+
+    <footer class="footer">
+
+        <div class="social-media row-color-charcoal row-padding-lrg-noH1 text-center">
+
+            <div class="container">
+
+                <div class="col-md-7 col-md-offset-3">
+
+                    <ul class="footer-bttns list-inline text-uppercase">
+
+                        <li><a href="/apply/"><div><i class="fas fa-file-alt fa-2x" aria-hidden="true"></i> <span class="hide-mobile">Apply</span></div></a></li>
+
+                        <li><a href="/admissions/freshman/visit/"><div><i class="fas fa-car fa-2x" aria-hidden="true"></i> <span class="hide-mobile">Visit</span></div></a></li>
+
+                        <li><a href="/giving/"><div><i class="fas fa-gift fa-2x" aria-hidden="true"></i> <span class="hide-mobile">Give</span></div></a></li>
+
+                    </ul>
+
+                </div>
+
+            </div><!--container-->
+
+        </div><!--end social media row-->
+
+        <div class="row-color-charcoal row-padding-footer">
+
+            <div class="container hidden-xs hidden-sm hidden-md">
+
+                <div class="col-md-2">
+
+                    <h5 class="text-uppercase">Information For</h5>
+
+                    <ul class="list-unstyled">
+
+                        <li><a href="/admissions/">Prospective Students</a></li>
+
+                        <li><a href="/currentstudents/">Current Students</a></li>
+
+                        <li><a href="/facultyorstaff/">Faculty/Staff</a></li>
+
+                        <li><a href="/parent/">Parents</a></li>
+
+                        <li><a href="/alumni/">Alumni</a></li>
+
+                    </ul>
+
+                </div><!--end footer 1st col-->
+
+                <div class="col-md-2">
+
+                    <h5 class="text-uppercase">Getting Around</h5>
+
+                    <ul class="list-unstyled">
+
+                        <li><a href="/atoz/">A - Z index</a></li>
+
+                        <li><a href="/about/visiting/virtual_tour/">Campus Map</a></li>
+
+                        <li><a href="/parking/">Parking</a></li>
+
+                        <li><a href="/about/visiting/">Visit Information</a></li>
+
+                    </ul>
+
+                </div><!--end footer 2nd col-->
+
+                <div class="col-md-2">
+
+                    <h5 class="text-uppercase">Public Safety</h5>
+
+                    <ul class="list-unstyled">
+
+                        <li><a href="/emergency/">Emergency</a></li>
+
+                        <li><a href="/police/">Police Department</a></li>
+
+                        <li><a href="/offices/other/police/safetycruiser/">Hilltop Safety Cruiser</a></li>
+
+                    </ul>
+
+                </div><!--end footer 3rd col-->
+
+                <div class="col-md-2">
+
+                    <h5 class="text-uppercase">Campus Tools</h5>
+
+                    <ul class="list-unstyled">
+
+                        <li><a href="https://mail.bradley.edu/">Bmail</a></li>
+
+                        <li><a href="https://fsmail.bradley.edu/">FSmail</a></li>
+
+                        <li><a href="https://sakai.bradley.edu/">Sakai</a></li>
+
+                        <li><a href="https://mybu.bradley.edu/">MyBU</a></li>
+
+                        <li><a href="/directory/">Directory</a></li>
+
+                    </ul>
+
+                </div><!--end footer 4th col-->
+
+                <div class="col-md-4 contact-table">
+
+                    <div class="row row-padding-sm">
+
+                        <div class="col-md-3 text-uppercase">Phone</div>
+
+                        <div class="col-md-1"><i aria-hidden="true" class="fas fa-lg fa-phone"></i></div>
+
+                        <div class="col-md-8"> (309) 676-7611 </div>
+
+                    </div>
+
+                    <div class="row row-padding-sm">
+
+                        <div class="col-md-3 text-uppercase">Email</div>
+
+                        <div class="col-md-1"><i aria-hidden="true" class="fas fa-lg fa-envelope"></i></div>
+
+                        <div class="col-md-8"><a href="mailto:webmaster@bradley.edu">webmaster@bradley.edu</a></div>
+
+                    </div>
+
+                    <div class="row row-padding-sm">
+
+                        <div class="col-md-3 text-uppercase">Location</div>
+
+                        <div class="col-md-1"><i aria-hidden="true" class="fas fa-lg fa-map-marker-alt"></i></div>
+
+                        <div class="col-md-8">1501 W Bradley Ave | Peoria, IL 61625</div>
+
+                    </div>
+
+                    <div class="row row-padding-sm">
+
+                        <div class="col-md-3 text-uppercase">Connect</div>
+
+                        <div class="col-md-1"><a href="https://www.facebook.com/BradleyUniversity" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-facebook-f"></i><span class="sr-only">Facebook</span></a></div>
+
+                        <div class="col-md-1"><a href="https://twitter.com/bradleyu" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-twitter"></i><span class="sr-only">Twitter</span></a></div>
+
+                        <div class="col-md-1"><a href="https://instagram.com/bradleyuniversity/" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-instagram"></i><span class="sr-only">Instagram</span></a></div>
+
+                        <div class="col-md-1"><a href="https://www.youtube.com/bradleyuniversity" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-youtube"></i><span class="sr-only">Youtube</span></a></div>
+
+                        <div class="col-md-1"><a href="https://www.linkedin.com/school/bradley-university/" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-linkedin"></i><span class="sr-only">LinkedIn</span></a></div>
+
+                    </div>
+
+                </div><!--end footer 5th col-->
+
+            </div><!--end container for links-->
+
+            <div class="container hidden-lg visible-xs-block visible-sm-block visible-md-block text-center">
+
+                <div class="footer-logo">
+
+                    <p><img src="/asset/img/Blogo_white_Center.svg"></p>
+
+                </div>
+
+                <p><i aria-hidden="true" class="fas fa-lg fa-phone"></i>  (309) 676-7611 </p>
+
+                <p><i aria-hidden="true" class="fas fa-lg fa-envelope"></i> <a href="mailto:webmaster@bradley.edu">webmaster@bradley.edu</a></p>
+
+                <p><i aria-hidden="true" class="fas fa-lg fa-map-marker-alt"></i> 1501 W Bradley Ave | Peoria, IL 61625</p>
+
+                <div class="col-xs-12">
+
+                    <ul class="list-inline">
+
+                        <li><a href="https://www.facebook.com/BradleyUniversity" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-facebook-f"></i><span class="sr-only">Facebook</span></a></li>
+
+                        <li><a href="https://twitter.com/bradleyu" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-twitter"></i><span class="sr-only">Twitter</span></a></li>
+
+                        <li><a href="https://instagram.com/bradleyuniversity/" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-instagram"></i><span class="sr-only">Instagram</span></a></li>
+
+                        <li><a href="https://www.youtube.com/bradleyuniversity" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-youtube"></i><span class="sr-only">Youtube</span></a></li>
+
+                        <li><a href="https://www.linkedin.com/school/bradley-university/" target="_blank"><i aria-hidden="true" class="fab fa-2x fa-linkedin"></i><span class="sr-only">LinkedIn</span></a></li>
+
+                    </ul>
+
+                </div>
+
+            </div><!--container hidden-md visible-xs-block visible-sm-block text-center-->
+
+        </div><!--row row-color-charcoal-->
+
+        <div class="row-color-charcoal copyright text-center row-padding-sm">
+
+            <div class="container">
+
+                <p><span aria-hidden="true" class="glyphicon glyphicon-copyright-mark"></span> 2020 Bradley University | <a href="/legal/accessibility/">Accessibility</a> | <a href="/legal/privacy/">Privacy Policy</a> | <a href="/legal/nondiscrimination/">Non-Discrimination Statement</a> | <a href="/legal/consumerinfo/">Consumer Information</a> | <a href="/legal/complaint-resolution/">Student Complaint Resolution</a> | <a href="http://complaints.ibhe.org/" target="_blank">IBHE Online Complaint System</a></p>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+    <!-- end FOOTER -->
+
+
+
+
+
+</body>
+
+</html>
