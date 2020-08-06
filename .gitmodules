@@ -1,0 +1,6 @@
+[submodule "src/sms/logger"]
+	path = src/sms/logger
+	url = https://github.com/Brandon-Valley/logger
+[submodule "src/sms/testing_utils"]
+	path = src/sms/testing_utils
+	url = https://github.com/Brandon-Valley/testing_utils.git
