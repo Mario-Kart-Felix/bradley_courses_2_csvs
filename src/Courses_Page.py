@@ -45,23 +45,20 @@ class Courses_Page:
                 # name / num
                 real_course_name_str = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
                 course_d['num'], course_d['name'] = real_course_name_str.split(' - ')
-                
-#                 # Gen. Ed. / Core Curr
-#                 strong_dot_attr_l = p_attr.find_all('strong', string = lambda text: '. ' in text.lower())
-#                 
-#                 for strong_dot_attr in strong_dot_attr_l:
-#                     if 'Gen. Ed. ' in str(strong_dot_attr):
-#                         course_d['Gen. Ed.'] = strong_dot_attr.get_text().split('Gen. Ed. ')[1]
 
-
-                # Gen. Ed. / Core Curr
-                strong_dot_attr_l = p_attr.find('strong', string = lambda text: 'Gen. Ed. ' in text)
+                # Gen. Ed.
+                gen_ed_attr = p_attr.find('strong', string = lambda text: 'Gen. Ed. ' in text)
                 
-                if strong_dot_attr_l != None:
-                    print(strong_dot_attr_l.get_text().split('Gen. Ed. ')[1])
-                    course_d['gen_ed'] = strong_dot_attr_l.get_text().split('Gen. Ed. ')[1]
+                if gen_ed_attr != None:
+                    course_d['gen_ed'] = gen_ed_attr.get_text().split('Gen. Ed. ')[1]
+                    
+                # Core Curr.
+                core_curr_attr = p_attr.find('strong', string = lambda text: 'Core Curr. ' in text)
                 
-#                 for strong_dot_attr in strong_dot_attr_l:
+                if core_curr_attr != None:
+                    course_d['core_curr'] = core_curr_attr.get_text().split('Core Curr. ')[1]
+                
+#                 for strong_dot_attr in gen_ed_attr:
 #                     if 'Gen. Ed. ' in str(strong_dot_attr):
 #                         course_d['Gen. Ed.'] = strong_dot_attr.get_text().split('Gen. Ed. ')[1]
                 
