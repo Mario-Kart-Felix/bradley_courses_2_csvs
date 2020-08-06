@@ -1,6 +1,8 @@
 import requests 
 from bs4 import BeautifulSoup
 
+# from 
+
 
 
 class Courses_Page:
@@ -10,7 +12,9 @@ class Courses_Page:
         
         self.raw_html_str = self.page.text
         self.title = self.get_title()
-        self.class_l = self.build_class_l()
+        self.course_dl = self.build_course_dl()
+        
+        print(self.course_dl)
         
         
         
@@ -23,7 +27,7 @@ class Courses_Page:
         print(self.title)
         
         
-    def build_class_l(self):
+    def build_course_dl(self):
         course_dl = []
 
         p_attr_l = self.soup.find_all('p')
@@ -72,20 +76,11 @@ class Courses_Page:
                     course_d['descrip'], course_d['prereqs'] = real_descrip_str.split(' Prerequisite: ')
                 else:
                     course_d['descrip'] = real_descrip_str
-#                  = p_attr.get_text().split('<br/>')[-1]#.split('<p>')[0]
-                
-#                 for strong_dot_attr in gen_ed_attr:
-#                     if 'Gen. Ed. ' in str(strong_dot_attr):
-#                         course_d['Gen. Ed.'] = strong_dot_attr.get_text().split('Gen. Ed. ')[1]
-                
-
                     
-                
-            
-#             if em_attr.get_
-#             print(hours)
-            
                 print('------------------------------\n', course_d)
+                    
+                course_dl.append(course_d)
+                
             
         return course_dl
         
