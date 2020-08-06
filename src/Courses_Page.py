@@ -41,12 +41,19 @@ class Courses_Page:
                 course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
                 
                 # strong
-#                 course_d['name'] = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
+                
+                # name / num
                 real_course_name_str = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
                 course_d['num'], course_d['name'] = real_course_name_str.split(' - ')
-#                 print(st)
                 
-#                 for strong_attr in strong_attr_l:
+                # Gen. Ed. / Core Curr
+                strong_dot_attr_l = p_attr.find_all('strong', string = lambda text: '. ' in text.lower())
+                
+                for strong_dot_attr in strong_dot_attr_l:
+                    if 'Gen. Ed. ' in str(strong_dot_attr):
+                        course_d['Gen. Ed.'] = strong_dot_attr.get_text().split('Gen. Ed. ')[1]
+                
+
                     
                 
             
