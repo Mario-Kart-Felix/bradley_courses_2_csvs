@@ -37,7 +37,18 @@ class Courses_Page:
             if em_attr != None and ' hours)' in str(em_attr):
                 course_d = {}
                 
+                # hours
                 course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
+                
+                # strong
+#                 course_d['name'] = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
+                real_course_name_str = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
+                course_d['num'], course_d['name'] = real_course_name_str.split(' - ')
+#                 print(st)
+                
+#                 for strong_attr in strong_attr_l:
+                    
+                
             
 #             if em_attr.get_
 #             print(hours)
