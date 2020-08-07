@@ -53,13 +53,14 @@ def main():
     
     # get courses_page_title_courses_dl_d
     # will only do all the requests again if you delete the json file
+    courses_page_title_courses_dl_d = {}
     if not os.path.isfile(COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH):
         courses_page_title_courses_dl_d = get_courses_page_title_courses_dl_d(url_l)
 #         tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
         
         json_logger.write(courses_page_title_courses_dl_d, COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH)
     else:
-        courses_page_title_courses_dl_d = json_logger.read(courses_page_title_courses_dl_d)
+        courses_page_title_courses_dl_d = json_logger.read(COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH)
     
     tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
 
