@@ -82,6 +82,10 @@ class Courses_Page:
                 
                 if ' Prerequisite: ' in real_descrip_str:
                     course_d['descrip'], course_d['prereqs'] = real_descrip_str.split(' Prerequisite: ')
+                    
+                    # trim trailing .
+                    if len(course_d['prereqs']) > 0 and course_d['prereqs'][-1] == '.':
+                        course_d['prereqs'] = course_d['prereqs'][0:-1]
                 else:
                     course_d['descrip'] = real_descrip_str
                     

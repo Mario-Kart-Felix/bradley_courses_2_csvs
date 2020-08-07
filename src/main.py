@@ -16,6 +16,15 @@ COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH = 'courses_page_title_courses_dl_d.jso
 OUTPUTS_DIR_PATH = '..//outputs'
 COURSES_PAGES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//courses_page_CSVs'
 COURSES_PAGES_CSVS_HEADER_L = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+COURSES_PAGES_CSVS_HEADER_RENAME_D = {
+                                       'num'         : 'Num.',
+                                       'name'        : 'Course Name',
+                                       'hours'       : 'Hours',
+                                       'gen_ed'      : 'Gen. Ed.',
+                                       'core_curr'   : 'Core. Curr.',
+                                       'prereqs'     : 'Prerequisites',
+                                       'descrip'     : 'Description' 
+                                     }
 # COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip', ]
 # COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
 
@@ -53,7 +62,7 @@ def log_courses_pages_csvs(courses_page_title_courses_dl_d):
     for title, courses_dl in courses_page_title_courses_dl_d.items():
         csv_path = COURSES_PAGES_CSVS_DIR_PATH + '//{}.csv'.format(title)
         print('logging to ', csv_path)#``````````````````````````````````````````````````````````````````
-        logger.write2CSV(courses_dl, csv_path, headerList = COURSES_PAGES_CSVS_HEADER_L)
+        logger.write2CSV(courses_dl, csv_path, headerList = COURSES_PAGES_CSVS_HEADER_L, headerReplaceDict = COURSES_PAGES_CSVS_HEADER_RENAME_D)
    
    
 def main():
