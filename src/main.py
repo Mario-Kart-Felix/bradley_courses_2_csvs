@@ -13,6 +13,12 @@ from sms.logger        import json_logger
    
 URL_TXT_FILE_PATH = 'URLs.txt'
 COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH = 'courses_page_title_courses_dl_d.json'   
+OUTPUTS_DIR_PATH = '..//outputs'
+COURSES_PAGES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//courses_page_CSVs'
+COURSES_PAGES_CSVS_HEADER_L = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+# COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip', ]
+# COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+
    
    
 def get_url_l():   
@@ -43,7 +49,11 @@ def get_courses_page_title_courses_dl_d(url_l):
     return courses_page_title_courses_dl_d
 
 
-    
+def log_courses_pages_csvs(courses_page_title_courses_dl_d):    
+    for title, courses_dl in courses_page_title_courses_dl_d.items():
+        csv_path = COURSES_PAGES_CSVS_DIR_PATH + '//{}.csv'.format(title)
+        print('logging to ', csv_path)#``````````````````````````````````````````````````````````````````
+        logger.write2CSV(courses_dl, csv_path, headerList = COURSES_PAGES_CSVS_HEADER_L)
    
    
 def main():
@@ -64,6 +74,7 @@ def main():
     
     tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
 
+    log_courses_pages_csvs(courses_page_title_courses_dl_d)
         
 
 # # Making a get request 
