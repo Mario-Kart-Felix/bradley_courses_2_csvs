@@ -53,7 +53,16 @@ class Courses_Page:
                 
                 # name / num
                 real_course_name_str = p_attr.find('strong', string = lambda text: ' - ' in text.lower()).get_text()
-                course_d['num'], course_d['name'] = real_course_name_str.split(' - ')
+                split_name_str_l = real_course_name_str.split(' - ')
+                
+                # in case of something like:  ATG 157 - Accounting Principles - Financial
+                if len(split_name_str_l) > 2:
+                    course_d['num'] = split_name_str_l[0]
+                    
+                    name_only_delim = course_d['num'] + ' - '
+                    course_d['name'] = real_course_name_str.split(name_only_delim)[1]
+                else:                    
+                    course_d['num'], course_d['name'] = real_course_name_str.split(' - ')
 
                 # Gen. Ed.
                 gen_ed_attr = p_attr.find('strong', string = lambda text: 'Gen. Ed. ' in text)
