@@ -6,3 +6,6 @@ https://www.bradley.edu/academic/undergradcat/20202021/cfa-artcourses.dot
 probably wont need for this one:  https://www.bradley.edu/sites/bcc/approved-courses/
 
 will only do all the requests again if you delete the json file
+
+
+BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'

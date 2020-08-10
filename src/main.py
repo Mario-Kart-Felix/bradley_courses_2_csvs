@@ -1,7 +1,9 @@
-import requests
 import os
+import requests 
+from bs4 import BeautifulSoup
 
 import Courses_Page 
+import bcc_approved_courses_to_csv_utils
 
 
 from sms.testing_utils import testing_utlils as tu
@@ -52,7 +54,10 @@ def get_courses_page_title_courses_dl_d(url_l):
 
     
     for url in url_l:
-        cp = Courses_Page.Courses_Page(url)
+        
+        soup = BeautifulSoup(requests.get(url).content, 'html.parser')
+        
+        cp = Courses_Page.Courses_Page(soup)
         courses_page_title_courses_dl_d[cp.title] = cp.course_dl
         
     return courses_page_title_courses_dl_d
@@ -83,7 +88,10 @@ def main():
     
     tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
 
+    # write a csv for each course area
     log_courses_pages_csvs(courses_page_title_courses_dl_d)
+    
+    bcc_approved_courses_to_csv_utils.get_thing()
         
 
 # # Making a get request 
