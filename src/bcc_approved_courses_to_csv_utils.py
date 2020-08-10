@@ -39,23 +39,19 @@ def get_thing(soup):
         return area_of_inquiry_td_attr_ll
         
         
+    def get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll):
+        get_course_cat_area_of_inquiry_ld = []
+        
+        print(len(course_category_l), len(area_of_inquiry_td_attr_ll)) 
+        
         
         
         
         
     page_data = {}
     
-#     print(soup.prettify())
-
-#     h3_attr_l = soup.find_all('h2', class_='h3')
-#     h3_attr_l = soup.find_all('h2 class="h3"')
-#     h3_attr_l = soup.find_all('h2')
-    
     course_category_l = get_course_category_l(soup)
     
-#     print(tu.p_print(h3_attr_l))
-    print((h3_attr_l))
-    print(len(h3_attr_l))
     
     table_attr_l = soup.find_all('table', class_ = 'table table-hover')
     
@@ -72,18 +68,23 @@ def get_thing(soup):
         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
             
         
-#         for td_attr in td_attr_l:
-#             td_attr_text = td_attr.get_text()
-#         print('\n', td_attr_text)
-
-        course_group_d = {}
         
-        if td_attr_l[0] != None:
-            course_group_d['area_of_inquiry'] =  td_attr_l[0].get_text()
-    
-
-        print('--------------' , len(td_attr_l))
-        tu.p_print(course_group_d)
+        course_cat_area_of_inquiry_tll = get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll)
+        tu.p_print(course_cat_area_of_inquiry_tll)
+        
+#         
+# #         for td_attr in td_attr_l:
+# #             td_attr_text = td_attr.get_text()
+# #         print('\n', td_attr_text)
+# 
+#         course_group_d = {}
+#         
+#         if td_attr_l[0] != None:
+#             course_group_d['area_of_inquiry'] =  td_attr_l[0].get_text()
+#     
+# 
+#         print('--------------' , len(td_attr_l))
+#         tu.p_print(course_group_d)
 
 
 
