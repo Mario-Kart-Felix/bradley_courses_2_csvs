@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import Courses_Page 
 import bcc_approved_courses_to_csv_utils
 
-
 from sms.testing_utils import testing_utlils as tu
 from sms.logger        import txt_logger
 from sms.logger        import logger
@@ -27,8 +26,7 @@ COURSES_PAGES_CSVS_HEADER_RENAME_D = {
                                        'prereqs'     : 'Prerequisites',
                                        'descrip'     : 'Description' 
                                      }
-# COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip', ]
-# COURSES_PAGES_CSVS_HEADER_EQUIV_D = ['num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'
 
    
    
@@ -86,12 +84,17 @@ def main():
     else:
         courses_page_title_courses_dl_d = json_logger.read(COURSES_PAGE_TITLE_COURSES_DL_D_JSON_PATH)
     
-    tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
+#     tu.p_print(courses_page_title_courses_dl_d)#````````````````````````````````````````````````````````````
 
     # write a csv for each course area
     log_courses_pages_csvs(courses_page_title_courses_dl_d)
     
-    bcc_approved_courses_to_csv_utils.get_thing()
+    ##########################
+    # BCC Approved Courses
+    ##########################
+    
+    soup = BeautifulSoup(requests.get(BCC_APPROVED_COURSES_URL).content, 'html.parser')
+    bcc_approved_courses_to_csv_utils.get_thing(soup)
         
 
 # # Making a get request 
