@@ -12,6 +12,18 @@ from sms.testing_utils import testing_utlils as tu
 
 def get_thing(soup):
     
+    def get_course_category_l(soup):
+        course_category_l = []
+        
+        h3_attr_l = soup.find_all('h2')
+        
+        for h3_attr in h3_attr_l: 
+            course_category_l.append(h3_attr.get_text())
+                                     
+        return course_category_l
+        
+        
+    
     def get_area_of_inquiry_td_attr_ll(td_attr_l):
         area_of_inquiry_td_attr_ll = []
         
@@ -20,7 +32,7 @@ def get_thing(soup):
             if 1 + td_attr_num % 3 == 1:
                 area_of_inquiry_td_attr_ll.append([])
                 
-            area_of_inquiry_td_attr_ll[-1].append(td_attr)
+            area_of_inquiry_td_attr_ll[-1].append(td_attr.get_text())
             
 #         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
         
@@ -37,7 +49,10 @@ def get_thing(soup):
 
 #     h3_attr_l = soup.find_all('h2', class_='h3')
 #     h3_attr_l = soup.find_all('h2 class="h3"')
-    h3_attr_l = soup.find_all('h2')
+#     h3_attr_l = soup.find_all('h2')
+    
+    course_category_l = get_course_category_l(soup)
+    
 #     print(tu.p_print(h3_attr_l))
     print((h3_attr_l))
     print(len(h3_attr_l))
@@ -53,13 +68,6 @@ def get_thing(soup):
         # build area_of_inquiry_td_attr_l
         # each 3 elm is a new area of inquiry
         area_of_inquiry_td_attr_ll = get_area_of_inquiry_td_attr_ll(td_attr_l)
-        
-#         for td_attr_num, td_attr in enumerate(td_attr_l):
-#             print( 1 + td_attr_num % 3)
-#             if 1 + td_attr_num % 3 == 1:
-#                 area_of_inquiry_td_attr_ll.append([])
-#                 
-#             area_of_inquiry_td_attr_ll[-1].append(td_attr)
             
         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
             
