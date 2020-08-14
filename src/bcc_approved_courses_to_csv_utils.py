@@ -10,7 +10,7 @@ from sms.testing_utils import testing_utlils as tu
 
 
 
-def get_thing(soup):
+def get_approved_bcc_course_page_data(soup):
     
     def get_course_category_l(soup):
         course_category_l = []
@@ -222,19 +222,10 @@ def get_thing(soup):
     course_cat_area_of_inquiry_tlll_w_formatted_class_l = format_class_l(course_cat_area_of_inquiry_tlll)
     
     tu.tp_print(course_cat_area_of_inquiry_tlll_w_formatted_class_l, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
-#         
-# #         for td_attr in td_attr_l:
-# #             td_attr_text = td_attr.get_text()
-# #         print('\n', td_attr_text)
-# 
-#         course_group_d = {}
-#         
-#         if td_attr_l[0] != None:
-#             course_group_d['area_of_inquiry'] =  td_attr_l[0].get_text()
-#     
-# 
-#         print('--------------' , len(td_attr_l))
-#         tu.p_print(course_group_d)
+    
+    
+    return course_cat_area_of_inquiry_tlll_w_formatted_class_l
+
 
 
 

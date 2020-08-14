@@ -94,7 +94,9 @@ def main():
     ##########################
     
     soup = BeautifulSoup(requests.get(BCC_APPROVED_COURSES_URL).content, 'html.parser')
-    bcc_approved_courses_to_csv_utils.get_thing(soup)
+    approved_bcc_course_page_data = bcc_approved_courses_to_csv_utils.get_approved_bcc_course_page_data(soup)
+    
+    tu.tp_print(approved_bcc_course_page_data, 'approved_bcc_course_page_data:')
         
 
 # # Making a get request 
