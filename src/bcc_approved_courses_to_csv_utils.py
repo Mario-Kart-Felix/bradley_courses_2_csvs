@@ -85,11 +85,21 @@ def get_thing(soup):
                     
                     # if string contains any letters
                     if re.search('[a-zA-Z]', class_num):
+                        cur_dept_code = ''.join([i for i in class_num if not i.isdigit()]).strip().lstrip() # removes all non-digit chars and trims whitespace
+                        dept_code_class_l.append(class_num.replace('  ', ' ')) # also removes double spaces
                         print(class_num)
                     else:
-                        print('heeeeeeeeeeeeeeere')
+                        dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
+                        
 
-        
+                print('dept_code_class_l: ', dept_code_class_l)
+                
+                # set formatted class list
+                course_cat_area_of_inquiry_t[2] = dept_code_class_l
+                
+        return course_cat_area_of_inquiry_tlll
+                
+                
         
     page_data = {}
     
@@ -172,6 +182,8 @@ def get_thing(soup):
     print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
     course_cat_area_of_inquiry_tlll_w_formatted_class_l = format_class_l(course_cat_area_of_inquiry_tlll)
+    
+    tu.tp_print(course_cat_area_of_inquiry_tlll, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
 #         
 # #         for td_attr in td_attr_l:
 # #             td_attr_text = td_attr.get_text()
