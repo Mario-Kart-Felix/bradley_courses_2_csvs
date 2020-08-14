@@ -28,8 +28,21 @@ COURSES_PAGES_CSVS_HEADER_RENAME_D = {
                                      }
 BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'
 BCC_APPROVED_COURSES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//bcc_approved_courses_page_CSVs'
+BCC_APPROVED_COURSES_CSVS_HEADER_L = ['area_of_inquiry', 'code', 'note', 'num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D = {
+                                               'area_of_inquiry' : 'Area of Inquiry',
+                                               'code'            : 'Code',
+                                               'note'            : 'Note',
+                                               'num'             : 'Num.',
+                                               'name'            : 'Course Name',
+                                               'hours'           : 'Hours',
+                                               'gen_ed'          : 'Gen. Ed.',
+                                               'core_curr'       : 'Core. Curr.',
+                                               'prereqs'         : 'Prerequisites',
+                                               'descrip'         : 'Description' 
+                                             }
 
-CLASS_NOT_FOUND_JSON_PATH = 'class_not_found.json'
+CLASS_NOT_FOUND_JSON_PATH = BCC_APPROVED_COURSES_CSVS_DIR_PATH + '//class_not_found.json'
    
    
 def get_url_l():   
@@ -65,7 +78,7 @@ def get_courses_page_title_courses_dl_d(url_l):
 
 def log_courses_pages_csvs(courses_page_title_courses_dl_d):    
     for title, courses_dl in courses_page_title_courses_dl_d.items():
-        csv_path = COURSES_PAGES_CSVS_DIR_PATH + '//{}.csv'.format(title)
+        csv_path = COURSES_PAGES_CSVS_DIR_PATH + ('//{}.csv'.format(title))
         print('logging to ', csv_path)#``````````````````````````````````````````````````````````````````
         logger.write2CSV(courses_dl, csv_path, headerList = COURSES_PAGES_CSVS_HEADER_L, headerReplaceDict = COURSES_PAGES_CSVS_HEADER_RENAME_D)
 
@@ -96,12 +109,7 @@ def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class
         course_cat_name    = course_cat_area_of_inquiry_tlt[0]
         area_of_inquiry_tl = course_cat_area_of_inquiry_tlt[1]
         
-        csv_path = '{}//{}.csv'.format(BCC_APPROVED_COURSES_CSVS_DIR_PATH, course_cat_name[0]) # category name
-        
-        
-#         area_of_inquiry = area_of_inquiry_code_class_tl[0]
-#         code            = area_of_inquiry_code_class_tl[1]
-#         class_tl        = area_of_inquiry_code_class_tl[2]
+        csv_path = '{}//{}.csv'.format(BCC_APPROVED_COURSES_CSVS_DIR_PATH, course_cat_name) # category name
                  
         for area_of_inquiry_t in area_of_inquiry_tl:
             area_of_inquiry = area_of_inquiry_t[0]
@@ -137,6 +145,8 @@ def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class
                 print('.')
             
         tu.p_print(log_dl)
+        
+        logger.write2CSV(log_dl, csv_path, BCC_APPROVED_COURSES_CSVS_HEADER_L, BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D)
         
    
    
