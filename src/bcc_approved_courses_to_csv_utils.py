@@ -1,6 +1,6 @@
 
 
-
+import re
 import requests 
 from bs4 import BeautifulSoup
 
@@ -48,14 +48,23 @@ def get_thing(soup):
         
         
 
-    def format_class_l(course_cat_area_of_inquiry_tlll):
+    def format_class_l(course_cat_area_of_inquiry_tlll):     
         
         for course_cat_area_of_inquiry_tll in course_cat_area_of_inquiry_tlll:
             for course_cat_area_of_inquiry_t in course_cat_area_of_inquiry_tll[1]:
                 tu.p_print(course_cat_area_of_inquiry_t)
                 print('^^^^^^^^^^^^^^^^^^^^^')
-        
-
+                
+                raw_class_l_str = course_cat_area_of_inquiry_t[2]
+                print(raw_class_l_str)
+                
+                # format raw_clas_l_str into VVV
+                formatted_class_l = []
+                
+                # remove \u00a0 on bold
+                cleaned_class_l_str = raw_class_l_str.replace('\u00a0', '')
+                
+                s_1 = re.split('; , ', cleaned_class_l_str)
 
 
         
