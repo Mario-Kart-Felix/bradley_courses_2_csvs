@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .project
 .pydevproject
+outputs/master_course_list.csv

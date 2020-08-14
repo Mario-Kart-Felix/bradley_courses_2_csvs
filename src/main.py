@@ -44,6 +44,8 @@ BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D = {
 
 CLASS_NOT_FOUND_JSON_PATH = BCC_APPROVED_COURSES_CSVS_DIR_PATH + '//class_not_found.json'
    
+MASTER_COURSE_CSV_PATH = OUTPUTS_DIR_PATH + '//master_course_list.csv'
+   
    
 def get_url_l():   
     raw_lines = txt_logger.read(URL_TXT_FILE_PATH)
@@ -148,6 +150,22 @@ def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class
         
         logger.write2CSV(log_dl, csv_path, BCC_APPROVED_COURSES_CSVS_HEADER_L, BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D)
         
+
+
+########################
+# Log Master Course CSV
+########################
+   
+def log_master_course_csv(class_num_class_data_dd):
+    log_dl = []
+    
+    for class_num, class_data_d in sorted(class_num_class_data_dd.items()):
+        log_d = class_data_d
+        log_d['num'] = class_num
+        log_dl.append(log_d)
+    
+#     logger.write2CSV(log_dl, MASTER_COURSE_CSV_PATH, COURSES_PAGES_CSVS_HEADER_L, COURSES_PAGES_CSVS_HEADER_RENAME_D)
+    logger.write2CSV(log_dl, MASTER_COURSE_CSV_PATH, BCC_APPROVED_COURSES_CSVS_HEADER_L, BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D)
    
    
 def main():
@@ -191,9 +209,11 @@ def main():
     
     log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class_data_dd)
     
+    ########################
+    # Log Master Course CSV
+    ########################
     
-    
-    
+    log_master_course_csv(class_num_class_data_dd)
     
     
     
