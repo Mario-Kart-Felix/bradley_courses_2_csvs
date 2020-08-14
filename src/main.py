@@ -28,7 +28,7 @@ COURSES_PAGES_CSVS_HEADER_RENAME_D = {
                                      }
 BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'
 BCC_APPROVED_COURSES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//bcc_approved_courses_page_CSVs'
-BCC_APPROVED_COURSES_CSVS_HEADER_L = ['area_of_inquiry', 'code', 'note', 'num', 'name', 'hours', 'gen_ed', 'core_curr', 'prereqs', 'descrip']
+BCC_APPROVED_COURSES_CSVS_HEADER_L = ['gen_ed', 'area_of_inquiry', 'code', 'core_curr', 'note', 'num', 'name', 'hours', 'prereqs', 'descrip']
 BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D = {
                                                'area_of_inquiry' : 'Area of Inquiry',
                                                'code'            : 'Code',
@@ -36,7 +36,7 @@ BCC_APPROVED_COURSES_CSVS_HEADER_RENAME_D = {
                                                'num'             : 'Num.',
                                                'name'            : 'Course Name',
                                                'hours'           : 'Hours',
-                                               'gen_ed'          : 'Gen. Ed.',
+                                               'gen_ed'          : 'Gen. Ed. (Does not apply if you started after Fall 2016)',
                                                'core_curr'       : 'Core. Curr.',
                                                'prereqs'         : 'Prerequisites',
                                                'descrip'         : 'Description' 
