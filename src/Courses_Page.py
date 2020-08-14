@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 
 class Courses_Page:
     def __init__(self, soup):
-        self.soup = BeautifulSoup(requests.get(url).content, 'html.parser')
+#         self.soup = BeautifulSoup(requests.get(url).content, 'html.parser')
+        self.soup = soup
         
 #         self.raw_html_str = self.page.text
         self.title = self.get_title()
