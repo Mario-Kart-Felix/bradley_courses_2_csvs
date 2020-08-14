@@ -108,9 +108,14 @@ def get_thing(soup):
                 for class_num in dept_code_class_l:
                     if '*' in class_num:
                         print('reeeeeeeeeeeeeeeeeee')
+                        
+                        if class_num == '400/M L 452****':
+                            formatted_class_l.append(('BUS 400', '****'))
+                            formatted_class_l.append(('M L 452', '****'))
+                        
                     
                     else:
-                        formatted_class_l.append(class_num)
+                        formatted_class_l.append((class_num, ''))
                 
                 
                 
