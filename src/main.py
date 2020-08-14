@@ -27,6 +27,8 @@ COURSES_PAGES_CSVS_HEADER_RENAME_D = {
                                        'descrip'     : 'Description' 
                                      }
 BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'
+BCC_APPROVED_COURSES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//bcc_approved_courses_page_CSVs'
+
 
    
    
@@ -84,6 +86,47 @@ def get_class_num_class_data_d(courses_page_title_courses_dl_d):
     return class_num_class_data_dd
    
    
+def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class_data_dd):
+    
+    for course_cat_area_of_inquiry_tlt in approved_bcc_course_page_data:
+        log_dl = []
+
+        print('area_of_inquiry_code_class_tl:  ', course_cat_area_of_inquiry_tlt)
+        
+        course_cat_name    = course_cat_area_of_inquiry_tlt[0]
+        area_of_inquiry_tl = course_cat_area_of_inquiry_tlt[1]
+        
+        csv_path = '{}//{}.csv'.format(BCC_APPROVED_COURSES_CSVS_DIR_PATH, course_cat_name[0]) # category name
+        
+        
+#         area_of_inquiry = area_of_inquiry_code_class_tl[0]
+#         code            = area_of_inquiry_code_class_tl[1]
+#         class_tl        = area_of_inquiry_code_class_tl[2]
+                 
+        for area_of_inquiry_t in area_of_inquiry_tl:
+            area_of_inquiry = area_of_inquiry_t[0]
+            code            = area_of_inquiry_t[1]
+            class_tl        = area_of_inquiry_t[2]
+            
+#             log_d = {}
+            
+            for class_t in class_tl:
+                class_num = class_t[0]
+                note      = class_t[1]
+                
+                log_d = class_num_class_data_dd[class_num]
+                log_d['note']             = note
+                log_d['num']              = class_num
+                log_d['code']             = code
+                log_d['area_of_inquiry']  = area_of_inquiry
+
+                tu.p_print(log_d)
+                log_dl.append(log_d)
+                
+                print('.')
+            
+        tu.p_print(log_dl)
+        
    
    
 def main():
@@ -121,6 +164,15 @@ def main():
     class_num_class_data_dd = get_class_num_class_data_d(courses_page_title_courses_dl_d)
     
     tu.p_print(class_num_class_data_dd)
+    
+    log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class_data_dd)
+    
+    
+    
+    
+    
+    
+    
 
 # # Making a get request 
 # response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/las-mthcourses.dot') 
