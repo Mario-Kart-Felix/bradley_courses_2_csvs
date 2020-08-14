@@ -62,7 +62,7 @@ def get_thing(soup):
                 formatted_class_l = []
                 
                 # remove \u00a0 on bold
-                cleaned_class_l_str = raw_class_l_str.replace('\u00a0', '').replace(';', ',')
+                cleaned_class_l_str = raw_class_l_str.replace('\u00a0', ' ').replace(';', ',').replace('.', ',')
                 
 #                 s_1 = re.split('; , ', cleaned_class_l_str)
 
@@ -82,6 +82,8 @@ def get_thing(soup):
                 cur_dept_code = None # assumes 1st will always have a dept code
                 
                 for class_num in whitespace_trimmed_class_l:
+                    
+                    class_num = class_num.replace('PLS PLS', 'PLS') # fix typo
                     
                     # if string contains any letters
                     if re.search('[a-zA-Z]', class_num):
