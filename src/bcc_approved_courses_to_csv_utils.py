@@ -39,7 +39,7 @@ def get_thing(soup):
         return area_of_inquiry_td_attr_ll
         
         
-#     def get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll):
+#     def get_course_cat_area_of_inquiry_tlll(course_category_l, area_of_inquiry_td_attr_ll):
 #         course_cat_area_of_inquiry_ld = []
 #         
 #         print(len(course_category_l), len(area_of_inquiry_td_attr_ll)) 
@@ -47,7 +47,17 @@ def get_thing(soup):
 #         print(area_of_inquiry_td_attr_ll) 
         
         
+
+    def format_class_l(course_cat_area_of_inquiry_tlll):
         
+        for course_cat_area_of_inquiry_tll in course_cat_area_of_inquiry_tlll:
+            for course_cat_area_of_inquiry_t in course_cat_area_of_inquiry_tll[1]:
+                tu.p_print(course_cat_area_of_inquiry_t)
+                print('^^^^^^^^^^^^^^^^^^^^^')
+        
+
+
+
         
         
     page_data = {}
@@ -57,7 +67,55 @@ def get_thing(soup):
     
     table_attr_l = soup.find_all('table', class_ = 'table table-hover')
     
-    course_cat_area_of_inquiry_tll = []
+    # build course_cat_area_of_inwuiry_tll:
+    
+#    [
+#         [
+#             "Communication",
+#             [
+#                 [
+#                     "Writing 1",
+#                     "W1",
+#                     "ENG 101; CIV 111/112**"
+#                 ],
+#                 [
+#                     "Writing 2",
+#                     "W2",
+#                     "ENG 300, 301, 302, 304, 305, 306"
+#                 ],
+#                 [
+#                     "Oral Communication",
+#                     "OC",
+#                     "COM 103"
+#                 ]
+#             ]
+#         ],
+#         [
+#             "Fine Arts",
+#             [
+#                 [
+#                     "",
+#                     "FA",
+#                     "ART 107, 109, 131; CIV 113/114**; MUS 109; PHL 350; THE 131, 141; WLF 351; WLG 352; WLT 151, 152"
+#                 ]
+#             ]
+#         ],
+#
+#         ...
+#         
+#         [
+#             "Writing Intensive",
+#             [
+#                 [
+#                     "",
+#                     "EL",
+#                     "ART 317, 406, 310, 421; ATG 430, 461; BUS 301, 400; CHM 283, 299, 499; CIS 59, 475, 491; COM 360, 414, 480; CS 390, 490, 491; ECE 200, 402; ECO 498, 499; EGT 210, 310, 410; EHS 301; ENC 305; ENG 302; ETE  227, 228, 301, 302, 303, 304, 305, 306, 307, 308, 313, 491, 493, 496, 497, 498, 499; FCS 311, 375, 475; H S 230, 300; IME 200; IMT 200; I M 440, 441, 459, 460, 461; I S 495, 498; LAS 301; M E 410, 411, 498, 499; MTH 495; NUR 207, 307, 309, 315, 317, 403, 409, 411, 413, 417; PLS PLS 480, 485; PLW 300; PSY 295, 341, 342, 495; WGS 300, 400; WLF 301; WLS 306, 307"
+#                 ]
+#             ]
+#         ]
+#     ]
+
+    course_cat_area_of_inquiry_tlll = []
     for table_attr in table_attr_l:
         
         
@@ -70,14 +128,19 @@ def get_thing(soup):
             
         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
             
-        course_cat_area_of_inquiry_tll.append((course_category_l.pop(0), area_of_inquiry_td_attr_ll))
+        course_cat_area_of_inquiry_tlll.append((course_category_l.pop(0), area_of_inquiry_td_attr_ll))
         
-#         course_cat_area_of_inquiry_tll = get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll)
+#         course_cat_area_of_inquiry_tlll = get_course_cat_area_of_inquiry_tlll(course_category_l, area_of_inquiry_td_attr_ll)
+#         
+#         print('course_cat_area_of_inquiry_tlll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
+#         tu.p_print(course_cat_area_of_inquiry_tlll)
+#         print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
-        print('course_cat_area_of_inquiry_tll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
-        tu.p_print(course_cat_area_of_inquiry_tll)
-        print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
+    print('course_cat_area_of_inquiry_tlll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
+    tu.p_print(course_cat_area_of_inquiry_tlll)
+    print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
+    course_cat_area_of_inquiry_tlll_w_formatted_class_l = format_class_l(course_cat_area_of_inquiry_tlll)
 #         
 # #         for td_attr in td_attr_l:
 # #             td_attr_text = td_attr.get_text()
