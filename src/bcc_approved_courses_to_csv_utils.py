@@ -6,7 +6,100 @@ from bs4 import BeautifulSoup
 
 from sms.testing_utils import testing_utlils as tu
 
-
+#     [
+#         [
+#             "Communication",
+#             [
+#                 [
+#                     "Writing 1",
+#                     "W1",
+#                     [
+#                         [
+#                             "ENG 101",
+#                             ""
+#                         ],
+#                         [
+#                             "CIV 111",
+#                             "**"
+#                         ],
+#                         [
+#                             "CIV 112",
+#                             "**"
+#                         ]
+#                     ]
+#                 ],
+#                 [
+#                     "Writing 2",
+#                     "W2",
+#                     [
+#                         [
+#                             "ENG 300",
+#                             ""
+#                         ],
+#                         [
+#                             "ENG 301",
+#                             ""
+#                         ],
+#                         [
+#                             "ENG 302",
+#                             ""
+#                         ],
+#                         [
+#                             "ENG 304",
+#                             ""
+#                         ],
+#                         [
+#                             "ENG 305",
+#                             ""
+#                         ],
+#                         [
+#                             "ENG 306",
+#                             ""
+#                         ]
+#                     ]
+#                 ],
+#                 [
+#                     "Oral Communication",
+#                     "OC",
+#                     [
+#                         [
+#                             "COM 103",
+#                             ""
+#                         ]
+#                     ]
+#                 ]
+#             ]
+#         ],
+#
+#         ...
+#
+#         [
+#             "Writing Intensive",
+#             [
+#                 [
+#                     "",
+#                     "EL",
+#                     [
+#                         [
+#                             "ART 317",
+#                             ""
+#                         ],
+#
+#                         ...
+#
+#                         [
+#                             "WLS 306",
+#                             ""
+#                         ],
+#                         [
+#                             "WLS 307",
+#                             ""
+#                         ]
+#                     ]
+#                 ]
+#             ]
+#         ]
+#     ]
 
 
 
@@ -205,7 +298,7 @@ def get_approved_bcc_course_page_data(soup):
         # each 3 elm is a new area of inquiry
         area_of_inquiry_td_attr_ll = get_area_of_inquiry_td_attr_ll(td_attr_l)
             
-        print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
+#         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
             
         course_cat_area_of_inquiry_tlll.append((course_category_l.pop(0), area_of_inquiry_td_attr_ll))
         
@@ -215,13 +308,13 @@ def get_approved_bcc_course_page_data(soup):
 #         tu.p_print(course_cat_area_of_inquiry_tlll)
 #         print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
-    print('course_cat_area_of_inquiry_tlll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
-    tu.p_print(course_cat_area_of_inquiry_tlll)
-    print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
+#     print('course_cat_area_of_inquiry_tlll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
+#     tu.p_print(course_cat_area_of_inquiry_tlll)
+#     print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
     course_cat_area_of_inquiry_tlll_w_formatted_class_l = format_class_l(course_cat_area_of_inquiry_tlll)
     
-    tu.tp_print(course_cat_area_of_inquiry_tlll_w_formatted_class_l, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
+#     tu.tp_print(course_cat_area_of_inquiry_tlll_w_formatted_class_l, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
     
     
     return course_cat_area_of_inquiry_tlll_w_formatted_class_l
