@@ -88,10 +88,31 @@ def get_thing(soup):
                     # if string contains any letters
                     if re.search('[a-zA-Z]', class_num):
                         cur_dept_code = ''.join([i for i in class_num if not i.isdigit()]).strip().lstrip() # removes all non-digit chars and trims whitespace
-                        dept_code_class_l.append(class_num.replace('  ', ' ')) # also removes double spaces
+                        
+                        dept_code_class_num = class_num.replace('  ', ' ')
+                        
+                        dept_code_class_l.append(dept_code_class_num) # also removes double spaces
+                            
                         print(class_num)
                     else:
-                        dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
+                        # for fixing typos like "RLS 320 321"
+                        s_1 = class_num.split(' ')
+                         
+                        for class_num in s_1:
+                            if elm != '':
+                                
+                        
+                                dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
+                        
+                        
+# #                         # for fixing typos like "RLS 320 321"
+# #                         s_1 = class_num.split(' ')
+# #                         
+# #                         for class_num in s_1:
+# #                             if elm != '':
+#                                 
+#                         
+#                         dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
                         
 
                 print('dept_code_class_l: ', dept_code_class_l)
