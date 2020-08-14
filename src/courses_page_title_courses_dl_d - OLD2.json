@@ -28,24 +28,6 @@
             "prereqs":"ATG 157"
         },
         {
-            "hours":"1",
-            "num":"ATG 201",
-            "name":"Accounting Principles-Accounting Techniques",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Procedures and systems of modern accounting through case studies.",
-            "prereqs":"ATG 158 or consent of the department chairperson"
-        },
-        {
-            "hours":"1",
-            "num":"ATG 226",
-            "name":"Introduction to Fraud Examination",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to fraud covering the nature of fraud, who commits fraud and why, and basic fraud prevention and detection techniques.",
-            "prereqs":"ATG 157 or consent of the department chairperson"
-        },
-        {
             "hours":"3",
             "num":"ATG 268",
             "name":"Business Ethics",
@@ -53,15 +35,6 @@
             "core_curr":"WI",
             "descrip":"Investigate the basic ethical frameworks from which business decisions can be made. Application of the frameworks to practical problems which arise in normal business activities.",
             "prereqs":"BUS 100 or equivalent"
-        },
-        {
-            "hours":"1",
-            "num":"ATG 290",
-            "name":"Accounting Careers Exploration",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"The purpose of the course is to develop student awareness of career opportunities in the accounting profession.  The course develops a comprehensive framework through exposure to talented accounting professionals and experienced fellow students.  The course enables students to explore and better understand career opportunities that may be pursued through an internship and full-time employment; gain perspective on career opportunities for long-term planning purposes; improve their professionalism.",
-            "prereqs":"ATG 158"
         },
         {
             "hours":"3",
@@ -390,15 +363,6 @@
             "prereqs":"Not open to College of Business majors"
         },
         {
-            "hours":"1",
-            "num":"ECO 101",
-            "name":"Economics and Contemporary Issues",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Application of economic method to analysis of contemporary issues. Emphasizes student participation in applications of economic principles to analysis of contemporary problems and policies.",
-            "prereqs":"concurrent enrollment in ECO 100"
-        },
-        {
             "hours":"3",
             "num":"ECO 199",
             "name":"Foundational Topics in Economics",
@@ -442,15 +406,6 @@
             "core_curr":null,
             "descrip":"This course combines the economic analysis of the environment with the economics of sustainability. Environmental and sustainability economics considers the efficient and equitable use of society's scarce resources. Cannot receive credit for both ECO 240 and 340. Prerequisite:",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"ECO 300",
-            "name":"Economics Colloquium for Juniors",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Student-faculty discussion of books and articles concerning significant economic ideas and issues not examined in depth in other courses.",
-            "prereqs":"Economics major, junior standing"
         },
         {
             "hours":"3",
@@ -606,15 +561,6 @@
             "prereqs":"junior/senior standing"
         },
         {
-            "hours":"1",
-            "num":"ECO 400",
-            "name":"Economics Colloquium for Seniors",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of Economics 300, with more difficult and challenging readings.",
-            "prereqs":"economics major; senior standing"
-        },
-        {
             "hours":"3",
             "num":"ECO 418",
             "name":"Mathematical Economics",
@@ -631,15 +577,6 @@
             "core_curr":null,
             "descrip":"Individual readings for qualified students under the guidance of a member of the economics staff.",
             "prereqs":"Approval of the department chair; junior/senior standing"
-        },
-        {
-            "hours":"1",
-            "num":"ECO 498",
-            "name":"Senior Seminar in Economics, Part I",
-            "gen_ed":null,
-            "core_curr":"WI,EL",
-            "descrip":"Student begins to explore an area of economics in which he or she has a particular interest and plans to write a senior thesis. Required for all economics majors. Pass/Fail.",
-            "prereqs":"Economics major and senior standing (junior standing with consent of instructor)"
         },
         {
             "hours":"3",
@@ -667,15 +604,6 @@
             "core_curr":null,
             "descrip":"Examination of global macroeconomics and its application to the modern business environment, the business cycle and economic policies, major linkages between economies, domestic and international economic indicators, institutions and cultural aspects of business, sustainable development.",
             "prereqs":" Foster College of Business Graduate Student or Consent of Associate Dean"
-        },
-        {
-            "hours":"1",
-            "num":"ECO 603",
-            "name":"Economic Markets: Competition and Monopoly",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduces the learner to the basic workings of the economic market.  Included are concepts addressing consumer and producer motivations in the market; surpluses and shortages; and third-party intervention into markets.  Also the importance of competitive markets will be emphasized with a discussion of a lack of competition such as monopoly and the consequences for society.",
-            "prereqs":"Graduate standing"
         },
         {
             "hours":"3",
@@ -1076,15 +1004,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"ENT 281",
-            "name":"The Entrepreneurial Career",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"This course is designed to give students a feel for an entrepreneurial career.  The course will consist of entrepreneurs and investors as guest speakers, case studies, and opportunity recognition theory and activities.  By the end of the course, students should have an understanding of the benefits and risks of being an entrepreneur and how entrepreneurs recognize opportunities",
-            "prereqs":null
-        },
-        {
             "hours":"1-3",
             "num":"ENT 289",
             "name":"Topics in Entrepreneurship",
@@ -1200,15 +1119,6 @@
             "core_curr":null,
             "descrip":"Individual readings for qualified students, under the guidance of a member of the faculty. 1-3 hours, may be repeated up to 6 hours under different titles/topics.",
             "prereqs":"Advancement to candidacy; consent of instructor and director of graduate programs"
-        },
-        {
-            "hours":"1",
-            "num":"ENT 680",
-            "name":"Entrepreneurial Creativity",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students will develop the tools necessary to think more creatively and generate creative entrepreneurial ideas. Students will gain knowledge of various theories of creativity and innovation and will learn how to rebuild cognitive models for creativity.",
-            "prereqs":null
         },
         {
             "hours":"3",
@@ -1656,15 +1566,6 @@
     ],
     "International Business Courses":[
         {
-            "hours":"1",
-            "num":"I B 101",
-            "name":"International Intellectual and Cultural Events",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to international events, other cultures, and the globalized nature of business environments. Presentations from various international groups on campus. Participation in international cultural events in the community. Pass/Fail.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"I B 204",
             "name":"Business in Chinese Culture",
@@ -2045,15 +1946,6 @@
             "prereqs":"Foster College of Business Graduate Student or Consent of Associate Dean"
         },
         {
-            "hours":"1",
-            "num":"M L 655",
-            "name":"Organizational Change",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"The need for change and building a readiness for organizational change. Models for implementing change that build employee support and commitment. Practical approaches and unique health care related situations of seminar participants are discussed.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"M L 657",
             "name":"Executive Development",
@@ -2391,24 +2283,6 @@
     ],
     "CFA Courses":[
         {
-            "hours":"1",
-            "num":"CFA 100",
-            "name":"Intellectual and Cultural Events",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Attendance at a variety of intellectual and cultural events approved by the University's Intellectual and Cultural Activities Committee. Up to two hours of credit can be earned.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"CFA 101",
-            "name":"Arts and Ideas Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Seminar on selected intellectual and artistic topics which may vary each time the course is offered. Topic stated in current Schedule of Classes. May be repeated under a different topic. Maximum of three hours credit may be earned.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"CFA 221",
             "name":"Media Aesthetics",
@@ -2427,39 +2301,12 @@
             "prereqs":"THE 141 or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"CFA 300",
-            "name":"CFA International Option Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Seminar topics of special interest relevant to enhancement of study abroad and integration of International Option certificate program. Topics may vary each time course is offered. May be repeated under different topics for a total of 2 semester hours. Topic and prerequisites stated in current Schedule of Classes.",
-            "prereqs":null
-        },
-        {
             "hours":"0-6",
             "num":"CFA 301",
             "name":"Cooperative Education/Internship in Communications And Fine Arts",
             "gen_ed":null,
             "core_curr":"EL",
             "descrip":"Appropriately supervised cooperative education or internship experience in communications and fine arts. May be repeated for a maximum of 6 hours credit. Maximum 6 hours of Co-op or internship credit allowed toward graduation hours. Pass/fail. Prerequisite:",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"CFA 305",
-            "name":"Study Abroad Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study of the cultural and historical contexts of study abroad site.",
-            "prereqs":"registration for study abroad interim session"
-        },
-        {
-            "hours":"1",
-            "num":"CFA 311",
-            "name":"Introduction to Copyright Law",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Creative, social, cultural, and legal contexts and challenges surrounding the protection of intellectual property, creativity and creative environments, particularly with regard to copyright law.",
             "prereqs":null
         },
         {
@@ -2578,15 +2425,6 @@
             "core_curr":null,
             "descrip":"Masters of Hollywood is a master course offering a series of interactive lectures taught by entertainment industry guest experts.   Each two week guest session will consist of three hours of teaching for two consecutive weeks.   Industry guests will offer an instructional lecture for one three hour session.  The second week is an interactivity assignment based on the topic area and supervised by the guest lecturer.  The Masters of Hollywood course is designed to engage students in a hands-on learning experience with a variety of focused topics.  Topics and speakers may vary each semester.",
             "prereqs":"Students must be enrolled in the Bradley University Hollywood Semester in Los Angeles, California"
-        },
-        {
-            "hours":"1",
-            "num":"CFA 360",
-            "name":"Hollywood Semester Boot Camp",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"The six-week mandatory course is designed to provide advance preparation to students who plan to attend the Bradley University Hollywood Semester in Los Angeles.  The students will gain enhanced experience in the development of resumes and cover letters, interviewing skills, assimilation into the Los Angeles culture, and tips to enhance their semester experience.  This is a Satisfactory/Unsatisfactory course.",
-            "prereqs":""
         },
         {
             "hours":"3",
@@ -3284,15 +3122,6 @@
             "prereqs":"BFA candidacy; senior standing"
         },
         {
-            "hours":"1",
-            "num":"ART 421",
-            "name":"BFA Seminar II",
-            "gen_ed":null,
-            "core_curr":"EL",
-            "descrip":"Continuation of ART 420; resume and portfolio preparation, exhibition design management, culminating B.F.A. exhibition.",
-            "prereqs":"ART 420"
-        },
-        {
             "hours":"3-6",
             "num":"ART 426",
             "name":"Photographic Portfolio",
@@ -3381,15 +3210,6 @@
             "core_curr":null,
             "descrip":"Development of advanced technical, aesthetic and conceptual concerns through experimentation within the photographic media relating to appropriate historical and contemporary references.  Repeatable to a maximum of 33 hours.",
             "prereqs":"Graduate Standing"
-        },
-        {
-            "hours":"1",
-            "num":"ART 605",
-            "name":"Critique Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Critique seminar, repeatable to a maximum of six hours.",
-            "prereqs":"Graduate standing"
         },
         {
             "hours":"1-6",
@@ -3565,15 +3385,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"COM 112",
-            "name":"Introduction to Media Production",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Tools and aesthetics of media production: word processing and photography. The desktop computer interface. Desktop publishing, presentation software, multimedia documents. Internet navigation and page production. Credit by examination available. Not available for credit to students who have credit in IM 113.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"COM 160",
             "name":"Sports, Media and Society",
@@ -3617,15 +3428,6 @@
             "core_curr":null,
             "descrip":"Study and practice in the operation of basic audio production equipment. Production techniques and production criticism.",
             "prereqs":"COM 101, 201; or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"COM 209",
-            "name":"Forensics",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Research and performance laboratory for students who participate in intercollegiate and community speech activities. Repeatable to a maximum of 6 credit hours.",
-            "prereqs":"COM 103; consent of Forensics Director"
         },
         {
             "hours":"3",
@@ -4233,15 +4035,6 @@
     ],
     "Interactive Media Courses":[
         {
-            "hours":"1",
-            "num":"I M 101",
-            "name":"User Experience Design Orientation",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Provides an overview of the functions, responsibilities, design thinking, and culture of the User Experience Design discipline.",
-            "prereqs":"User Experience Design major; or consent of Department Chair"
-        },
-        {
             "hours":"3",
             "num":"I M 110",
             "name":"Introduction to Game Development",
@@ -4847,15 +4640,6 @@
             "prereqs":"elementary education major or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"MUS 107",
-            "name":"The Language of Music",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to elements of music, notational terminology, and music styles (Baroque, Classic, and Romantic). Taught by 7 videotapes viewed in Cullom-Davis Library. Not open to students with credit in MUS 109.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"MUS 109",
             "name":"Music Appreciation",
@@ -4863,15 +4647,6 @@
             "core_curr":"FA",
             "descrip":"Detailed study of elements of music, and music notation; general survey of music and composers. How music expresses and communicates feelings and ideas: listening to compositions from various periods. Performance by faculty artists in class, and outside listening experiences. Satisfies fine arts general education requirement.",
             "prereqs":"Non-music majors only"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 115",
-            "name":"Voice Class",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"For freshman elementary education majors and instrumental music majors.",
-            "prereqs":"MUS 105 or music major; consent of instructor"
         },
         {
             "hours":"2",
@@ -4883,66 +4658,12 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"MUS 140",
-            "name":"Piano Class for Adult Beginners",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Elementary piano for non-music majors.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 141",
-            "name":"Orchestra",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Participation in Bradley Symphony Orchestra, Peoria Symphony Orchestra, or Knox-Galesburg Symphony. One hour credit for each ensemble. Two sections may be taken each semester; may be repeated for a maximum of 16 hours credit.  Open to all students by audition.  Separate auditions required for each orchestra.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 142",
-            "name":"University Bands",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Participation in the Bradley Symphonic Winds and/or Bradley Symphonic Band.  Concerts on and off campus.  Two sections may be repeated for a maximum of 16 hours credit.  Open to all students by audition.",
-            "prereqs":null
-        },
-        {
             "hours":"0.5",
             "num":"MUS 143",
             "name":"Bradley Community Chorus",
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Presents two major choral works with orchestra each year. Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 144",
-            "name":"Bradley Chorale",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study and performance of choral music from all periods of music history: accompanied and unaccompanied works.  Concerts on and off campus.  Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 145",
-            "name":"Cantus",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study and performance of choral music for treble voices. Concerts on and off campus.  Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 146",
-            "name":"Jazz Band",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Bradley Jazz Ensemble and Jazz Lab Band.  Study and performance of jazz from all eras.  Concerts on and off campus.  Two sections may be repeated for a maximum of 16 credits.  Open to all students by audition.",
             "prereqs":null
         },
         {
@@ -4961,24 +4682,6 @@
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Continuation of MUS 161: chord structures, decorative pitches, harmonic successions, four-voice combinations, inversions, seventh chords, secondary dominants, and modulations.",
-            "prereqs":"music major or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 163",
-            "name":"Elementary Ear-Training and Sightsinging",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Aural theory; intervals, triads, and inversions; rhythmic, melodic, and harmonic dictation.",
-            "prereqs":"music major or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 164",
-            "name":"Elementary Ear-Training and Sightsinging",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Aural theory; intervals, triads, and inversions; rhythmic, melodic, and harmonic dictation.",
             "prereqs":"music major or consent of instructor"
         },
         {
@@ -5090,24 +4793,6 @@
             "prereqs":"MUS 261 or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"MUS 263",
-            "name":"Advanced Ear-Training and Sightsinging",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of MUS 163, 164: aural recognition of various types of seventh and ninth chords; melodic and harmonic dictation, including chromatically altered chords and modulation.",
-            "prereqs":"MUS 163, 164; or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 264",
-            "name":"Advanced Ear-Training and Sightsinging",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of MUS 163, 164: aural recognition of various types of seventh and ninth chords; melodic and harmonic dictation, including chromatically altered chords and modulation.",
-            "prereqs":"MUS 163, 164; or consent of instructor"
-        },
-        {
             "hours":"2",
             "num":"MUS 265",
             "name":"Advanced Keyboard Skills-Class Piano",
@@ -5207,24 +4892,6 @@
             "prereqs":"MUS 101 - Introduction to Music Business"
         },
         {
-            "hours":"1",
-            "num":"MUS 309",
-            "name":"Ensemble",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Repertoire for small ensembles (vocal or instrumental), including Collegium Musicum. Workshop recitals.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 310",
-            "name":"Ensemble",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Repertoire for small ensembles (vocal or instrumental), including Collegium Musicum. Workshop recitals.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"MUS 312",
             "name":"Music in Media",
@@ -5241,33 +4908,6 @@
             "core_curr":null,
             "descrip":"Compositions in smaller forms for voice, piano, and instruments in various combinations.",
             "prereqs":"MUS 262 or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 323",
-            "name":"Marching Band Techniques",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Techniques in organization, training, and performance of marching bands in public schools and colleges. Five hours observation in public schools.",
-            "prereqs":"Junior standing in music or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 327",
-            "name":"Accompanying",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Vocal and instrumental accompanying, for piano and organ students. Requires minimum of 3 hours per week studio accompanying, and accompanying in recital workshops for these students.",
-            "prereqs":"Consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 328",
-            "name":"Accompanying",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Vocal and instrumental accompanying, for piano and organ students. Requires minimum of 3 hours per week studio accompanying, and accompanying in recital workshops for these students.",
-            "prereqs":"Consent of instructor"
         },
         {
             "hours":"2",
@@ -5297,57 +4937,12 @@
             "prereqs":"Music major or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"MUS 341",
-            "name":"Orchestra",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Participation in the Bradley Symphony Orchestra, Peoria Symphony Orchestra, or Knox-Galesburg Symphony. One hour credit for each ensemble. Two sections may be taken each semester; may be repeated for a maximum of 16 hours credit.  Open to all students by audition.  Separate auditions required for each orchestra.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 342",
-            "name":"University Bands",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Participation in the Bradley Symphonic Winds and/or Bradley Symphonic Band. Concerts on and off campus.  Two sections may be repeated for a maximum of 16 hours credit.  Open to all students by audition.",
-            "prereqs":null
-        },
-        {
             "hours":"0.5",
             "num":"MUS 343",
             "name":"Bradley Community Chorus",
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Presents two major choral works with orchestra each year. Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 344",
-            "name":"Bradley Chorale",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study and performance of choral music from all periods of music history: accompanied and unaccompanied works.  Concerts on and off campus.  Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 345",
-            "name":"Cantus",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study and performance of choral music for treble voices. Concerts on and off campus. Open to all students by audition.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MUS 346",
-            "name":"Jazz Band",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Bradley Jazz Ensemble and Jazz Lab Band.  Study and performance of jazz from all eras.  Concerts on and off campus.  Two sections may be repeated for a maximum of 16 credits.  Open to all students by audition.",
             "prereqs":null
         },
         {
@@ -5378,15 +4973,6 @@
             "prereqs":"MUS 360"
         },
         {
-            "hours":"1",
-            "num":"MUS 375",
-            "name":"Opera Workshop",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Operatic literature, style, stage deportment, and presentation of scenes. May be repeated for a maximum of 4 credit hours.",
-            "prereqs":"Vocal music concentration or consent of instructor"
-        },
-        {
             "hours":"2",
             "num":"MUS 401",
             "name":"Orchestration",
@@ -5403,24 +4989,6 @@
             "core_curr":null,
             "descrip":"Introduction to analytical and compositional techniques of atonal music, with emphasis on pitch-class set theory.",
             "prereqs":"MUS 262 or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 421",
-            "name":"Advanced Choral Conducting",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of Conducting II. Emphasis on full score reading and practical experience conducting the chorus or chorale.",
-            "prereqs":"MED 322"
-        },
-        {
-            "hours":"1",
-            "num":"MUS 422",
-            "name":"Advanced Instrumental Conducting",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of Conducting I. Emphasis on full score reading and practical experience conducting the band or orchestra.",
-            "prereqs":"MED 321"
         },
         {
             "hours":"2",
@@ -5855,15 +5423,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"MED 101",
-            "name":"Introduction to Music Education",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"This introductory music education course will provide an overview of music programs in the public schools and roles of professional music educators. The class will include reading, observation, teaching, experiential learning using technology, and discussion of contemporary trends and practices.",
-            "prereqs":"Music Education major or consent of instructor"
-        },
-        {
             "hours":"2",
             "num":"MED 155",
             "name":"Brass Technique, Materials and Methods",
@@ -5880,15 +5439,6 @@
             "core_curr":null,
             "descrip":"Methods of teaching strings; participation in group performance on all string instruments.",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MED 252",
-            "name":"Advanced String Technique, Materials and Methods",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of MED 251: specialization in one of the string instruments. Evaluation of grade school materials.",
-            "prereqs":"MED 251 or consent of instructor"
         },
         {
             "hours":"2",
@@ -5925,15 +5475,6 @@
             "core_curr":null,
             "descrip":"Study of clarinet, flute, and oboe; emphasis on teaching techniques and literature.",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"MED 355",
-            "name":"Advanced Woodwind Technique, Materials and Methods",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of MED 354: bassoon, saxophone, and continued study of clarinet. Evaluation of grade school materials and methods. At least 5 hours observation of woodwind teaching.",
-            "prereqs":"MED 354 or audition"
         }
     ],
     "Theatre Courses":[
@@ -6345,15 +5886,6 @@
     ],
     "EHS Courses":[
         {
-            "hours":"1",
-            "num":"EHS 120",
-            "name":"The University Experience",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Assists new students to adjust to the university environment, through gaining or developing an appreciation for higher education and the value of a Bradley University education. Pass/Fail.",
-            "prereqs":"Open only to students in their first year at Bradley"
-        },
-        {
             "hours":"1-3",
             "num":"EHS 300",
             "name":"Professionalism Across Cultures",
@@ -6370,15 +5902,6 @@
             "core_curr":"EL",
             "descrip":"Cooperative education or internship experience. May be repeated to a combined total of 9 credit hours. Pass/Fail.",
             "prereqs":"Sophomore standing in the College of Education and Health Sciences, 2.0 Bradley overall grade point average and EHS cumulative grade point average, consent of EHS Co-op and Internship coordinator and Co-op and Internship faculty advisor"
-        },
-        {
-            "hours":"1",
-            "num":"EHS 305",
-            "name":"Study Abroad Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study of the cultural and historical contexts of study abroad site.",
-            "prereqs":"registration for study abroad interim session"
         }
     ],
     "20-21 Education, Counseling, and Leadership Courses":[
@@ -6410,15 +5933,6 @@
             "prereqs":"ENC 200"
         },
         {
-            "hours":"1",
-            "num":"ENC 301",
-            "name":"Planning Employment Strategy",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Prepares students for finding internships and full-time employment after graduation. Develops a systematic approach to long-term career planning including occupational research, organizational research, and practice of job-seeking skills. Pass/Fail.",
-            "prereqs":null
-        },
-        {
             "hours":"1-3",
             "num":"ENC 305",
             "name":"Service Learning: Outreach & Engagement",
@@ -6435,15 +5949,6 @@
             "core_curr":null,
             "descrip":"Basic literature, research findings, and techniques of the lay and professional helper; effect of the lay helper on human relations.",
             "prereqs":"PSY 101 (or PSY 104) or ETE 225, or consent of instructor. Corequisite: ENC 375"
-        },
-        {
-            "hours":"1",
-            "num":"ENC 375",
-            "name":"Human Relations Development Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Supplemental practice sessions and exercises in skills of EHC 370. To be taken concurrently with EHC 370 CoRequisite: ENC 370",
-            "prereqs":null
         },
         {
             "hours":"1-3",
@@ -6491,15 +5996,6 @@
             "prereqs":"ENC 200, ENC 300"
         },
         {
-            "hours":"1",
-            "num":"ETE 100",
-            "name":"Technology Applications",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Application of technology concepts and skills to human service professionals. Database construction; linear and nonlinear multimedia projects. Using graphics, text, sound, animation, and other media resources.",
-            "prereqs":"Major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership"
-        },
-        {
             "hours":"3",
             "num":"ETE 107",
             "name":"Conceptualizing Math for Teachers I",
@@ -6527,30 +6023,12 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"ETE 116",
-            "name":"Introductory Field Experience",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Exhibit professional and ethical behaviors, engage in a minimum of 25 hrs of directed observations throughout the semester in an academic setting. Besides observing within a classroom, candidates work with a group of children at an appropriate level, depending on the individual areas of licensure. Collaborate with professionals to develop foundational knowledge related to planning for instruction and assessment, a sense of the whole school culture including an awareness of the social and emotional development of children. Introduced to the language of teaching and apply the knowledge in their reflections analyzing the setting. Preparation for Teacher Performance Assessment. Weekly seminar",
-            "prereqs":"Major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership; ETE 115 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"ETE 120",
             "name":"Early Childhood Professional Roles and Responsibilities",
             "gen_ed":null,
             "core_curr":"WI",
             "descrip":"Meeting education needs of children from birth through age eight. Care for the whole child including an awareness of the social and emotional development of children. Career opportunities, roles, and responsibilities. Preparation for Teacher Performance Assessment. This is a Writing Intensive course.",
-            "prereqs":"Major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership"
-        },
-        {
-            "hours":"1",
-            "num":"ETE 194",
-            "name":"Physical Education for P-6 Schools",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Content and pedagogy for physical education in grades P-6 to meet the needs of diverse learners. Introduction to physical education in the regular classroom.",
             "prereqs":"Major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership"
         },
         {
@@ -6588,15 +6066,6 @@
             "core_curr":null,
             "descrip":"The study of key teaching frameworks with fundamental instructional strategies developed within the construct of planning lesson segments and units of study, including an awareness of exceptionality and diversity, an awareness of the social and emotional development of children. Application of brain research, methods to facilitate higher order, critical and creative thinking, problem solving, and decision-making. Other topics include instructional management, collaboration in curriculum design and delivery and with stakeholders, teacher leadership, decision-making, and the needs of 21st Century middle school students are addressed. Preparation for Teacher Performance Assessment.",
             "prereqs":"ETE 115 or concurrent enrollment; ETE 116 or concurrent enrollment; ETE 210 or concurrent enrollment"
-        },
-        {
-            "hours":"1",
-            "num":"ETE 219",
-            "name":"Human Development and Effective Field Experience",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Engage in a minimum of twenty-five hours of directed observations in an appropriate, academic setting, where they teach a small group of students and collaborate with the classroom teacher to implement instructional and assessment plans for one student. Candidates are introduced to the language and dispositions of teaching, apply this knowledge in their reflections analyzing the learning environment, incorporate issues of equity and diversity including an awareness of the social and emotional development of children, and apply the knowledge in the creation on a developmental case study of one student. Weekly seminar.",
-            "prereqs":"ETE 115 or concurrent enrollment; ETE 116 or concurrent enrollment; ETE 210 or concurrent enrollment; one of: Music Education Major, ETE 215, OR ETE 216, or concurrent enrollment in either ETE 215 or ETE 216"
         },
         {
             "hours":"3",
@@ -6680,15 +6149,6 @@
             "prereqs":"ETE 235 or concurrent enrollment"
         },
         {
-            "hours":"1",
-            "num":"ETE 237",
-            "name":"Practicum for Teaching English Learners I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Candidates engage in a minimum of 40 hours of directed observations and teaching of English Language Learners in an appropriate PK-12 academic setting. Candidates collaborate with the classroom teacher or ESL teacher to plan and implement instruction for small groups and individuals. Candidates complete weekly reflections analyzing the learning environment of their classroom, specifically addressing issues of language development for English learners. Weekly seminar.",
-            "prereqs":"ETE 235 or concurrent enrollment"
-        },
-        {
             "hours":"2",
             "num":"ETE 240",
             "name":"Practicum for Teaching English Learners Part 2",
@@ -6716,15 +6176,6 @@
             "prereqs":"Major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership"
         },
         {
-            "hours":"1",
-            "num":"ETE 270",
-            "name":"Physical Development and Health",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"A variety of health and nutrition topics about which teachers all levels must be knowledgeable. Must document certification in CPR and First Aid, and plan lessons for health instruction as part of the requirements. Topics examine nutrition; communicable diseases; relationship between fitness and systems of the body; principles of personal, interpersonal, and community health; mental health; and safety. Preparation for Teacher Performance Assessment.",
-            "prereqs":"Must be enrolled in education program"
-        },
-        {
             "hours":"3",
             "num":"ETE 280",
             "name":"Exploring Diversity: Learners, Families, And Communities",
@@ -6741,24 +6192,6 @@
             "core_curr":null,
             "descrip":"Addresses the assistive technology (AT) evaluation, selection, and application process for individuals with disabilities in school, the workplace and the community. Emphasis on assessment of the individual, environment, and tasks required of the person prior to evaluation of technologies and adaptations that enable the individual to function as fully as possible in his/her daily lives. Through illustrations and case examples students will obtain knowledge and skills required for the use of AT devices or adaptations and factors to consider in the selection and implementation processes. Preparation for Teacher Performance Assessment.",
             "prereqs":"ETE 115; ETE 116; ETE 210; one of: ETE 215, ETE 216, or concurrent enrollment"
-        },
-        {
-            "hours":"1",
-            "num":"ETE 301",
-            "name":"Novice Teaching Experiences in Music Classrooms K-8",
-            "gen_ed":null,
-            "core_curr":"EL",
-            "descrip":"Engage in a supervised teaching experience in a K-8 school music learning environment. Collaborate with the classroom teacher to plan and implement formative assessments and instruction for whole class, small groups, and individuals. Candidates complete weekly reflections analyzing the learning environment of their classroom, specifically addressing issues of equity, diversity and social and emotional awareness. Includes Teacher Performance Assessment. Weekly seminar.",
-            "prereqs":"Advancement to degree candidacy in the Department of Education, Counseling, and Leadership; ETE 345 or concurrent enrollment; concurrent enrollment in ETE 351; concurrent enrollment in ETE 310"
-        },
-        {
-            "hours":"1",
-            "num":"ETE 302",
-            "name":"Novice Teaching Experience in High School Music",
-            "gen_ed":null,
-            "core_curr":"EL",
-            "descrip":"Engage in a supervised teaching experience in a high school music learning environment. Collaborate with the classroom teacher to plan and implement formative assessments and instruction for whole class, small groups, and individuals. Candidates complete weekly reflections analyzing the learning environment of their classroom, specifically addressing issues of equity, diversity, and social and emotional awareness. Includes Teacher Performance Assessment. Weekly seminar.",
-            "prereqs":"Advancement to degree candidacy in the Department of Education, Counseling, and Leadership; concurrent enrollment in ETE 352; ETE 345 or concurrent enrollment; ETE 310 or concurrent enrollment"
         },
         {
             "hours":"3",
@@ -6813,15 +6246,6 @@
             "core_curr":"EL",
             "descrip":"Engage in a supervised teaching experience in a high school learning environment. Collaborate with the classroom teacher to plan and implement formative assessments and instruction for whole class, small groups, and individuals. Candidates complete weekly reflections analyzing the learning environment of their classroom, specifically addressing issues of equity, diversity and social and emotional awareness. Includes Teacher Performance Assessment. Weekly seminar.",
             "prereqs":"Advancement to degree candidacy in the Department of Education, Counseling, and Leadership; ETE 345 or concurrent enrollment; concurrent enrollment in content-specific methods course appropriate to the student's teaching area (ETE 373, ETE 374, ETE 375, ETE 378, or ENG 472); concurrent enrollment in ETE 310, or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership"
-        },
-        {
-            "hours":"1",
-            "num":"ETE 310",
-            "name":"Teacher Performance Assessment",
-            "gen_ed":null,
-            "core_curr":"WI",
-            "descrip":"Prepares preservice teacher to complete the education teacher performance assessment (edTPA) required for licensure. Gain skills needed to complete a TPA based upon integration of education program objectives and the novice teaching experience. Analyze the context for learning in the classroom, plan a unit of instruction including adaptations for diverse learners, teach the unit while attending to academic language, assess student learning. Make video recording of the unit teaching and collect student work samples. Reflect on the pedagogical decisions in a formal manner, citing research as justification for the choices. Completed edTPA is evaluated locally and feedback is provided to the candidate. Satisfactory/Unsatisfactory",
-            "prereqs":"Advancement to degree candidacy in the Department of Education, Counseling, and Leadership; major in an education program or consent of Associate Dean & Director of the Department of Education, Counseling, and Leadership.; concurrent enrollment in one of: ETE 301, ETE 302, ETE 303, ETE 304, ETE 305, ETE 306, ETE 307, ETE 308"
         },
         {
             "hours":"3",
@@ -7177,15 +6601,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"FCS 102",
-            "name":"Profession of Dietetics",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"An introduction to the profession of dietetics including history of the profession, career opportunities, role in a healthcare team, scope of practice, code of ethics, and professional associations.",
-            "prereqs":"Nutrition and Dietetics major or consent of instructor"
-        },
-        {
             "hours":"3",
             "num":"FCS 103",
             "name":"Food Resource Management",
@@ -7193,15 +6608,6 @@
             "core_curr":null,
             "descrip":"Application of concepts related to decision-making, planning and budgeting, and preparation of food.",
             "prereqs":"FCS major or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"FCS 120",
-            "name":"Foundations in Public Health Education",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to public health education including historical, philosophical, and ethical foundations, core concepts and values. Covers professional roles and responsibilities of public health educators.",
-            "prereqs":"Public Health Education major or instructor consent"
         },
         {
             "hours":"3",
@@ -7237,15 +6643,6 @@
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Introduction to the history, growth, and development of global tourism and the hospitality industry including the leadership, ownership, management, organization, and structure of hotels and food service operations, and the many diverse hospitality venues;  professional associations; hospitality labor trends; promotional practices; and best practices in hospitality.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"FCS 171",
-            "name":"Sanitation, Health, and Safety",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Sanitation and safety principles and regulations as related to the hospitality industry including Hazard Analysis Critical Control Point (HACCP) principles and procedures, safety and security issues and procedures, and associated health issues related to sanitation and safety in the hospitality industry. Students must take an ANSI-CFP accredited food safety sanitation certification examination to receive credit.",
             "prereqs":null
         },
         {
@@ -7402,15 +6799,6 @@
             "prereqs":"FCS 202, FCS 301 or FCS 303; junior standing"
         },
         {
-            "hours":"1",
-            "num":"FCS 305",
-            "name":"Experimental Foods",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Scientific principles of food composition, preparation, and preservation.",
-            "prereqs":"FCS 103 or 104, FCS 171 or ANSI-CFP accredited Food Protection Manager Certification, and FCS 202"
-        },
-        {
             "hours":"3",
             "num":"FCS 307",
             "name":"Life Cycle Nutrition",
@@ -7463,15 +6851,6 @@
             "core_curr":null,
             "descrip":"Merchandising: organization, operation, and interrelationship of major facets of textile and clothing industry.",
             "prereqs":"FCS 131"
-        },
-        {
-            "hours":"1",
-            "num":"FCS 331",
-            "name":"Fashion Merchandising Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Experimental work related to fashion merchandising.",
-            "prereqs":"FCS 131; concurrent enrollment in FCS 330"
         },
         {
             "hours":"3",
@@ -7600,15 +6979,6 @@
             "prereqs":"FCS 170 and FCS 272"
         },
         {
-            "hours":"1",
-            "num":"FCS 376",
-            "name":"Hospitality Seminar I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Exploration of current issues in the hospitality industry including discussions with current leaders in the hospitality industry and/or members of the FCS Hospitality Leadership Advisory Council.",
-            "prereqs":"Junior standing in HLP"
-        },
-        {
             "hours":"1-3",
             "num":"FCS 401",
             "name":"Readings in Family and Consumer Sciences",
@@ -7697,15 +7067,6 @@
             "core_curr":null,
             "descrip":"Analysis of policies including laws, regulations, and decisions by government and other organizations influencing public health.",
             "prereqs":"FCS 220 and 320; or instructor consent"
-        },
-        {
-            "hours":"1",
-            "num":"FCS 421",
-            "name":"Public Health Education Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Exploration of selected contemporary issues within the public health profession.",
-            "prereqs":"Senior standing and Public Health Education major; or instructor consent"
         },
         {
             "hours":"3",
@@ -7805,15 +7166,6 @@
             "core_curr":"EL",
             "descrip":"Intensive active leadership responsibilities in the hospitality profession.   This includes a minimum of 320 hours of approved practice.",
             "prereqs":"Senior standing, FCS 375 or consent of department chair"
-        },
-        {
-            "hours":"1",
-            "num":"FCS 476",
-            "name":"Hospitality Seminar II",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study of leadership topics in the hospitality industry; students will also explore issues based on their personal interests and experiences to date.",
-            "prereqs":"Senior standing in HLP"
         },
         {
             "hours":"3",
@@ -7916,15 +7268,6 @@
         }
     ],
     "Kinesiology and Health Science Courses":[
-        {
-            "hours":"1",
-            "num":"H S 110",
-            "name":"Introduction to Health Science",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Health care professions, terminology, concepts in health science, and basic knowledge and skills of those in health science.",
-            "prereqs":"HS major or consent of department Chair"
-        },
         {
             "hours":"3",
             "num":"H S 210",
@@ -8072,15 +7415,6 @@
     ],
     "Nursing Courses":[
         {
-            "hours":"1",
-            "num":"NUR 100",
-            "name":"Introduction to the Nursing Profession",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students explore contemporary issues within the nursing profession. Historical development of the roles in nursing, perspectives on current delivery of health care, nursing education, nursing literature, professional licensing, ethics, and legal issues will be discussed.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"NUR 163",
             "name":"Health of the School Age Child",
@@ -8169,15 +7503,6 @@
             "core_curr":null,
             "descrip":"Psychosocial and physiological impact of substance abuse on the individual, family, and society: self-awareness, culture, tolerance, withdrawal, and motivation.",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"NUR 233",
-            "name":"Sexually Transmitted Infections",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Issues pertinent to common sexually transmitted infections (STIs), including the social and physical factors contributing to the current epidemic occurrence rate, prevention measures, and treatment approaches will be reviewed.",
-            "prereqs":""
         },
         {
             "hours":"3",
@@ -8324,15 +7649,6 @@
             "prereqs":"NUR 263 or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"NUR 391",
-            "name":"Medical Terminology",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Terminology used in all areas of medical and paramedical specialties. Emphasis on word building, techniques, and understanding typical medical reports.",
-            "prereqs":null
-        },
-        {
             "hours":"2.5",
             "num":"NUR 403",
             "name":"Community Health Nursing - Practicum",
@@ -8421,15 +7737,6 @@
             "core_curr":"WI,EL",
             "descrip":"Selected practicum experiences correlate with theoretical content of NUR 418 that foster adaptive responses of clients in complex health care settings. Emphasis is on application of leadership and management principles. Satisfactory/Unsatisfactory",
             "prereqs":"Nursing majors only; senior standing; NUR 404 (minimum grade of C) or concurrent enrollment; NUR 403 (minimum grade of S) or concurrent enrollment; NUR 408 (minimum grade of C); NUR 409 and / or NUR 411 (minimum grade of S)"
-        },
-        {
-            "hours":"1",
-            "num":"NUR 414",
-            "name":"Senior Seminar: Preparation for Professional Nursing",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Emphasis on NCLEX preparation, including the NCLEX-RN test plan, test taking skills, critical thinking skills, and computer usage skills for test-taking.",
-            "prereqs":"Nursing majors only, senior standing"
         },
         {
             "hours":"0-2",
@@ -8592,15 +7899,6 @@
             "core_curr":null,
             "descrip":"Introduces the learner to concepts in health informatics and provides the foundation for practice in the healthcare technology field. Explores healthcare data, clinical information management systems, security, personal productivity applications, consumer informatics, legal issues, and professional skills, knowledge, and certifications related to health informatics.",
             "prereqs":"Nursing major"
-        },
-        {
-            "hours":"1",
-            "num":"NUR 625",
-            "name":"DNP Practice Seminar I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Provides for a student-initiated endeavor culminating in a scholarly proposal. The project will provide an opportunity for leadership in healthcare policy resulting in safe and effective nursing and healthcare practice. An emphasis on healthcare financing, regulation, and/or delivery is required. Students will choose a clinical setting to assess the needs of healthcare providers, consumers, and stakeholders in the development of the proposal. Student will choose and collaborate with a faculty project advisor and committee of scholars and experts in the field.",
-            "prereqs":"DNP Major"
         },
         {
             "hours":"3",
@@ -9075,15 +8373,6 @@
     ],
     "Civil Engineering Courses":[
         {
-            "hours":"1",
-            "num":"C E 100",
-            "name":"Introduction to Civil Engineering",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to the civil engineering professions. Introduction to fundamental engineering concepts; engineering design; engineering ethics; professional societies; introduction to computers and computer applications.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"C E 150",
             "name":"Mechanics I",
@@ -9100,15 +8389,6 @@
             "core_curr":null,
             "descrip":"Full-time cooperative education assignment for civil engineering students who alternate periods of full-time school with periods of full-time academic or career-related work in industry. Satisfactory/Unsatisfactory.",
             "prereqs":"sophomore standing in the College of Engineering and Technology, 2.0 overall grade point average at Bradley, approval of engineering and technology Co-op coordinator and Co-op faculty advisor"
-        },
-        {
-            "hours":"1",
-            "num":"C E 205",
-            "name":"Computing in Civil Engineering",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to computing in civil engineering using MATLAB and other software. Arrays, vectors, and matrices, programming in MATLAB, analyzing numeric data, vectors and matrices, analyzing and visualizing data, plotting and graphics.",
-            "prereqs":"Sophomore standing"
         },
         {
             "hours":"2",
@@ -9219,15 +8499,6 @@
             "prereqs":"CE 359"
         },
         {
-            "hours":"1",
-            "num":"C E 383",
-            "name":"Ethics and Sustainability",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Engineering ethics with applications to sustainable civil infrastructure.  Ethical responsibilities to public, clients, and employers.  Social responsibility and public participation for civil infrastructure.",
-            "prereqs":null
-        },
-        {
             "hours":"2",
             "num":"C E 393",
             "name":"Sustainability and Public Policy",
@@ -9235,15 +8506,6 @@
             "core_curr":null,
             "descrip":"Introduction to engineering economics with applications to assessment of sustainable alternatives in infrastructure, ability to engage in life-long learning, knowledge of contemporary issues, understanding professional and ethical responsibility, and ability to function on multi-disciplinary teams. Applications of systems engineering concepts including optimization.",
             "prereqs":"MTH 122"
-        },
-        {
-            "hours":"1",
-            "num":"C E 401",
-            "name":"Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Papers, reviews, and discussion of current technical literature.",
-            "prereqs":"senior standing in civil engineering"
         },
         {
             "hours":"3",
@@ -9635,24 +8897,6 @@
     ],
     "Construction Courses":[
         {
-            "hours":"1",
-            "num":"CON 100",
-            "name":"Introduction to Construction",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to the construction profession. Computer applications, problem solving concepts, design concepts and visualization, industry ethics, professional societies, and university services.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"CON 114",
-            "name":"Ethics in Construction",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Ethical and professional issues in the construction industry including an overview of applicable codes of ethical behavior and principles of professional conduct; introduction to ethical decision making; understanding of professional development opportunities; legal versus ethical responsibilities; written and oral communication practices and case studies.",
-            "prereqs":null
-        },
-        {
             "hours":"2",
             "num":"CON 132",
             "name":"Construction Graphics",
@@ -9894,15 +9138,6 @@
             "core_curr":null,
             "descrip":"Topics of special interest which may vary each time course is offered. Topics are stated in the current Schedule of Classes.",
             "prereqs":"consent of advisor"
-        },
-        {
-            "hours":"1",
-            "num":"CON 493",
-            "name":"Senior Project Planning",
-            "gen_ed":null,
-            "core_curr":"WI",
-            "descrip":"First of a two-semester course design project sequence.  Discussions of the relationship between the owner, architect, consultant, superintendent, construction manager, general contractor, and subcontractors.  Methods of project delivery, project concept through construction, design phases and project challenges.  Leadership, ethics, public policy issues, LEED, and basic business management practices.  Oral and written report of preliminary plan.",
-            "prereqs":"CON 380 and consent of advisor"
         },
         {
             "hours":"3",
@@ -10148,24 +9383,6 @@
             "core_curr":null,
             "descrip":"Laboratory sequence with focus on design of electronic interfaces to embedded devices. Topics include: transistor switches, analog-to-digital conversion, digital-to-analog conversion, pulse-width modulation, communication interfaces. Culminates in a design project.",
             "prereqs":"A minimum grade of C in: ECE 205, ECE 221 Corequisite: Concurrent enrollment in ECE 303"
-        },
-        {
-            "hours":"1",
-            "num":"ECE 401",
-            "name":"Undergraduate Design Seminar I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Multidisciplinary team effort to identify a market need based on realistic constraints; propose an electrical or electronic product to meet the need; prepare a feasibility study assessing economic and technical viability of the product. CoRequisite: ECE 497.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"ECE 402",
-            "name":"Undergraduate Design Seminar II",
-            "gen_ed":null,
-            "core_curr":"EL,WI",
-            "descrip":"Continuation of multidisciplinary team effort to prepare a business plan for the launch of a venture based on the electronic product proposed and analyzed in ECE 401.  Each student will also gain insight into the critical importance of professional ethics by identifying and analyzing a case in which flawed ethical decisions lead to negative outcomes for individuals and their company. Both deliverables require significant writing, the quality of which will have a major impact on the student's grade.",
-            "prereqs":"ECE401 with a minimum grade of C"
         },
         {
             "hours":"1-6",
@@ -10472,15 +9689,6 @@
             "core_curr":null,
             "descrip":"Architecture of microprocessor systems: Evolution, external memory, Input & Output, Operating Systems, etc. Design trade-offs investigated. Cross-listed as ECE 584.",
             "prereqs":"A minimum grade of C in ECE 205"
-        },
-        {
-            "hours":"1",
-            "num":"ECE 497",
-            "name":"Capstone Project System Level Design",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"The primary goal of this course is to have the student (and partner) choose a senior project and use a top-down design approach prior to implementation in senior lab. In addition, the student will serve on a Design Review Team (DRT) that will analyze other senior projects.",
-            "prereqs":"A minimum grade of C in ECE 301, ECE 302, ECE 303, and ECE 322.  Concurrent enrollment in two core courses"
         },
         {
             "hours":"2",
@@ -10835,15 +10043,6 @@
         }
     ],
     "Industrial Engineering and Manufacturing Courses":[
-        {
-            "hours":"1",
-            "num":"IME 101",
-            "name":"Introduction to Industrial & Manufacturing Engr",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Survey of industrial and manufacturing engineering. Introduction to IME and MFE techniques and tools. Not open to students with credit in any 200-level or above IME, IME, or MFE course.",
-            "prereqs":null
-        },
         {
             "hours":"2",
             "num":"IME 103",
@@ -11639,15 +10838,6 @@
             "prereqs":"IMT 232"
         },
         {
-            "hours":"1",
-            "num":"IMT 333",
-            "name":"Materials Science Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory practices and experience for basic materials science investigations. Mechanical testing, metallographic examination and thermal treatment of metals, non-destructive and destructive testing of non-metallic materials.",
-            "prereqs":"IME 331 or IMT 232"
-        },
-        {
             "hours":"3",
             "num":"IMT 342",
             "name":"Advanced Manufacturing Processes I",
@@ -12372,15 +11562,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"LAS 125",
-            "name":"Global Topics in Liberal Arts and Sciences",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Selected topics with a special emphasis on globally-focused subjects that introduce students to diverse perspectives and to forces of worldwide scope.",
-            "prereqs":null
-        },
-        {
             "hours":"3",
             "num":"LAS 300",
             "name":"Belief Systems: Truth versus Proof",
@@ -12397,15 +11578,6 @@
             "core_curr":"EL",
             "descrip":"Cooperative education or internship experience. Non-departmental credit in LAS, not intended to satisfy departmental or major program requirements. May be repeated for a total of 9 hours credit with a combined total of 9 hours available for all Cooperative Education & Internship work assignments. The number of hours awarded for the work assignment will be dependent upon the number of total hours worked during the semester. Pass/Fail.",
             "prereqs":"Sophomore standing in the College of Liberal Arts and Sciences, 2.0 Bradley overall grade point average and LAS cumulative grade point average, consent of LAS Co-op and internship coordinator and Co-op and internship faculty advisor"
-        },
-        {
-            "hours":"1",
-            "num":"LAS 305",
-            "name":"Study Abroad Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Study of the cultural and historical contexts of the study abroad site.",
-            "prereqs":"registration for study abroad interim session"
         },
         {
             "hours":"0-9",
@@ -12556,15 +11728,6 @@
             "core_curr":"SB",
             "descrip":"Sociological insight into study of humans, society, and culture.",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"SOC 200",
-            "name":"Sociology Proseminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Overview of the discipline of sociology.  Focus on specializations within the field, possible career paths, and options for graduate study.  Introduction to discipline-specific research and writing skills.  Discussion of faculty members' ongoing research activities.  Satisfactory/Unsatisfactory.",
-            "prereqs":"Major in sociology or consent of instructor"
         },
         {
             "hours":"3",
@@ -13012,15 +12175,6 @@
             "prereqs":"B or better in BMS 465 or B or better in BIO 310; or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"BMS 490",
-            "name":"Biomedical Science Capstone",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students will apply the skills and knowledge developed in the Biomedical Science major to complete collaborative projects with guidance from a team of faculty. Required for all Biomedical Science majors.",
-            "prereqs":"Senior standing (junior standing with consent of chair)"
-        },
-        {
             "hours":"3",
             "num":"BIO 101",
             "name":"Diseases of Life",
@@ -13057,24 +12211,6 @@
             "prereqs":null
         },
         {
-            "hours":"1",
-            "num":"BIO 113",
-            "name":"Introduction to Cell Biology Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Emphasizes the concept of biological molecules and discusses the role of these molecules in the genetics and cell biology of the organism though inquiry based laboratory exercises.",
-            "prereqs":"Allied health majors such as nursing, health science and dietetics. Biology minors can also enroll in this course with an approved Course Reserve Form"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 114",
-            "name":"Introduction to Ecology and Evolution Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Emphasizes the basic principles of evolutionary and ecological processes through inquiry based laboratory exercises. CoRequisite: BIO 112",
-            "prereqs":null
-        },
-        {
             "hours":"2",
             "num":"BIO 150",
             "name":"Introduction to Biology",
@@ -13091,42 +12227,6 @@
             "core_curr":null,
             "descrip":"Introduces the concept of biological molecules and discusses the role of these molecules in the genetics and cell biology of the organism.",
             "prereqs":"Biology, chemistry or LSM major; permission of the instructor.  Credit will not be given for both BIO 151 and BIO 111. Corequisite: BIO 152 Molecules to Cells laboratory"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 152",
-            "name":"Molecules to Cells Laboratory",
-            "gen_ed":null,
-            "core_curr":"WI",
-            "descrip":"Emphasizes the concept of biological molecules and discusses the role of these molecules in the genetics and cell biology of the organism though inquiry based laboratory exercises.",
-            "prereqs":"Biology, chemistry, or LSM major, or permission of instructor. Corequisite: BIO 151"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 153",
-            "name":"Introduction to Research Immersion",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Emphasizes the skills and concepts required to be successful in research immersion in biology core courses.  Designed for students that are transferring into the biology curriculum.",
-            "prereqs":"Biology major"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 155",
-            "name":"Integration of Biological Concepts",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"An inquiry-based approach will be used to expose students to the skills necessary to integrate biological concepts across key content in sub-cellular and cellular biology.",
-            "prereqs":"Biology, Biomedical Science or Environmental Science Major"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 190",
-            "name":"Biology Freshman Scholars",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students that are invited to participate in this program will examine the unique and integrated nature of sub-organismal, organismal and supra-organismal sub-disciplines of the field of biology through discussions and demonstrations of the scientific method and experimental approaches used across breadth of biology. In the second semester students will continue discussion as a group and will begin to explore hands on research through research experiences with faculty mentors in their research lab.",
-            "prereqs":"ACT score greater than or equal to 30, SAT score greater than or equal to 1340, or consent of chair"
         },
         {
             "hours":"4",
@@ -13156,15 +12256,6 @@
             "prereqs":"C or better in BIO 111 or permission of department chair"
         },
         {
-            "hours":"1",
-            "num":"BIO 231",
-            "name":"Human Anatomy and Physiology Laboratory I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Covers anatomical positions and gross anatomy of skeletal muscles, selected nerves, soft anatomy (including the digestive, respiratory, urogenital, excretory, and endocrine systems), systemic, pulmonary, and cardiac circulation, the hepatic portal system, and heart anatomy. Dissected specimens and human models are used.",
-            "prereqs":"BIO 230 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"BIO 232",
             "name":"Human Anatomy and Physiology II (Lecture)",
@@ -13172,15 +12263,6 @@
             "core_curr":null,
             "descrip":"A continuation of BIO 230 designed to provide students with a comprehensive understanding of human physiology and pathophysiology.  Lectures will address the function of all major organ systems of the body from a molecular and cellular perspective.  Students gain an understanding of organ system integration in supporting homeostasis and also of how the disease process interrupts physiological systems.",
             "prereqs":"C or better in BIO 111 and BIO 230 or permission of department chair"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 233",
-            "name":"Human Anatomy and Physiology Laboratory II",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Covers histology and function of the following tissues: integument, blood vessels, and muscle, connective, lymphoid, respiratory, excretory, digestive, endocrine, reproductive, and nervous tissues. Content includes axial and appendicular skeletal anatomy, brain anatomy and function, cardiac function, spirometry, and origin and activity of selected hormones. Gross anatomy and anatomical features are covered or reviewed from BIO 231. Dissected specimens and human models are used.",
-            "prereqs":"BIO 230, 231, and 232 or concurrent enrollment in BIO 232"
         },
         {
             "hours":"4",
@@ -13199,24 +12281,6 @@
             "core_curr":null,
             "descrip":"An introduction to evolutionary and ecological processes and the diversity of life that these processes have generated.",
             "prereqs":"C or better in BIO 151 and BIO 152"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 252",
-            "name":"Ecology, Evolution and Biodiversity Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"An introduction to evolutionary and ecological processes and the diversity of life through inquiry based laboratory exercises.",
-            "prereqs":"C or better in BIO 151 Corequisite: BIO 251"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 260",
-            "name":"Biological Statistics I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to statistics including basic skills for summarizing data, basic probability theory and probability distributions necessary to understand and evaluate variation in environmental systems.",
-            "prereqs":"Biology, Biomedical Science or Environmental Science major; Biology Minor; or consent of instructor"
         },
         {
             "hours":"2",
@@ -13280,15 +12344,6 @@
             "core_curr":null,
             "descrip":"Strengthens the understanding of Mendelian genetics and introduces the topic of non-Mendelian genetics. Modern molecular genetics concepts of DNA replication, transcription, and translation, primarily in prokaryotes, will be included. An introduction to molecular genetic techniques will be provided. The laboratory will include experiments designed to characterize genetic crosses through phenotypic as well as molecular approaches in prokaryotes and eukaryotes.",
             "prereqs":"CHM 110, CHM 111; C or better in MTH 115 or MTH 121; C or better in BIO 150, BMS 150 or CHM 292; BIO 151, BIO 152, and BIO 250; or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 311",
-            "name":"Genetics laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"The genetics laboratory will provide a demonstration of Mendelian genetics as well as an introduction into molecular genetic techniques through guided experiments as well as group research projects.  Laboratory exercises will demonstrate DNA cloning, sequencing, restriction digestion and the polymerase chain reaction.  Additional experiments demonstrating other aspects of genetics, gene regulation and molecular biology will be employed.",
-            "prereqs":"Enrollment in BIO 310 or consent of instructor"
         },
         {
             "hours":"4",
@@ -13570,15 +12625,6 @@
             "prereqs":"C or better in BIO 151 and CHM 110, or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"BIO 470",
-            "name":"Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Selected topics in biological sciences. May be repeated under different topics.  Repeatable to a maximum of six hours.",
-            "prereqs":"2.0 grade point average in student's major; junior or senior standing; consent of instructor"
-        },
-        {
             "hours":"2-4",
             "num":"BIO 475",
             "name":"Special Topics Biol",
@@ -13631,24 +12677,6 @@
             "core_curr":null,
             "descrip":"Individual research for qualified students in special areas of biology.",
             "prereqs":"3.0 grade point average in student's major; either a minimum of 3 credit hours in BIO 385 or senior standing; or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 490",
-            "name":"Biology Capstone",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students will apply the skills and knowledge developed in the Biology major to complete collaborative projects with guidance from a team of faculty. Required for all Biology majors.",
-            "prereqs":"Senior standing (junior standing with consent of chair)"
-        },
-        {
-            "hours":"1",
-            "num":"BIO 500",
-            "name":"Thesis Proposal Preparation",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Designed to prepare students to write and present their graduate thesis proposal. The instructor will work with students to develop the appropriate timeline and give a general outline of relevant information for a thesis proposal and instruction on developing and giving presentations. Students will also be directed to the CITI site to complete an ethics training module. The student will work with the thesis advisor to develop and edit the thesis proposal. The course will serve as a mechanism to organize proposal development and presentation. Ultimate responsibility for student grade and confirmation of completion of the work will reside with the faculty advisor who will report to the instructor of record. It is intended that students will present their written proposal to their chosen thesis committee and present their thesis proposal orally to the committee and department at the end of the semester they are enrolled in this course.",
-            "prereqs":"Graduate standing or consent of Graduate Advisor"
         },
         {
             "hours":"3",
@@ -13822,15 +12850,6 @@
             "prereqs":"BIO 564 or equivalent, or consent of instructor.  Students who have credit for BIO 396 or BIO 468 may not enroll in BIO 568"
         },
         {
-            "hours":"1",
-            "num":"BIO 570",
-            "name":"Seminar",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Selected topics in biological sciences.  May be repeated under different topics for a maximum of 3 credit hours.",
-            "prereqs":"3.0 grade point average in student's major; senior or graduate standing; consent of instructor"
-        },
-        {
             "hours":"2-3",
             "num":"BIO 575",
             "name":"Special Graduate Topics in Biology",
@@ -13923,15 +12942,6 @@
             "prereqs":"Education majors, Engineering Technology majors, and allied health majors such as Nursing and Dietetics"
         },
         {
-            "hours":"1",
-            "num":"CHM 101",
-            "name":"Fundamentals of General Chemistry Lab",
-            "gen_ed":"FS",
-            "core_curr":null,
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 100. Topics include: measurements; stoichiometry; thermochemistry; molecular structure and bonding; properties of gases, liquids, solids, and solutions; acids and bases. Not open to students who are currently enrolled or have credit in CHM 111.",
-            "prereqs":"CHM 100 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"CHM 102",
             "name":"Chemistry and Civilization",
@@ -13959,30 +12969,12 @@
             "prereqs":"The mathematics placement exam score is sufficient for placement into MTH 115; high school chemistry or C or better in CHM 100 or CHM 104"
         },
         {
-            "hours":"1",
-            "num":"CHM 111",
-            "name":"General Chemistry I Lab",
-            "gen_ed":"FS",
-            "core_curr":"NS",
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 110.  Topics include: measurements; stoichiometry; spectrophotometry; thermochemistry; periodic properties; molecular structure and bonding; properties of gases, liquids, solids, and solutions; equilibria; acids and bases.",
-            "prereqs":"CHM 110 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"CHM 112",
             "name":"Engineering Chemistry",
             "gen_ed":"FS",
             "core_curr":"NS",
             "descrip":"Continuation of CHM 110. For students majoring in engineering and related disciplines. Topics include: thermodynamics; equilibria; electrochemistry and corrosion; descriptive chemistry of metals and nonmetals; properties of metallic and silicon-based materials; organic and polymer chemistry; nuclear chemistry; environmental chemistry.",
-            "prereqs":"C or better in CHM 110"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 114",
-            "name":"Chemistry of the Elements",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of CHM 110. For students majoring in Chemistry and Biochemistry and related disciplines. Topics include the chemistry of solids, nonmetals, and metal-containing compounds.",
             "prereqs":"C or better in CHM 110"
         },
         {
@@ -13995,24 +12987,6 @@
             "prereqs":"C or better in CHM 110"
         },
         {
-            "hours":"1",
-            "num":"CHM 117",
-            "name":"General Chemistry II Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 116. Topics include: acid-base equilibria; spectrophotometry; complexation; electrochemistry; inorganic reaction chemistry.",
-            "prereqs":"C or better in CHM 111; CHM 116 or concurrent enrollment"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 122",
-            "name":"Introduction to Medical Laboratory Science",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Overview of the medical laboratory science profession, including classroom instruction to introduce students to the clinical areas of hematology, clinical chemistry, diagnostic microbiology, immunohematology, serology, and phlebotomy. Scope of practice, career opportunities, and current issues along with a tour of a large hospital laboratory will be included.",
-            "prereqs":"Medical Laboratory Science major, Biology major with Medical Technology concentration, or consent of program coordinator"
-        },
-        {
             "hours":"4",
             "num":"CHM 162",
             "name":"Fundamentals of Organic and Biochemistry",
@@ -14020,15 +12994,6 @@
             "core_curr":null,
             "descrip":"Structure and reactivity of organic compounds as related to biochemistry.  Structure, function, and metabolism of carbohydrates, lipids, and proteins. May not be counted for credit in programs offered within the Department of Chemistry and Biochemistry.  Not open to students with credit in CHM 150 and CHM 160 or with credit in CHM 360.",
             "prereqs":"C or better in CHM 100, CHM 104, or CHM 110"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 163",
-            "name":"Fundamentals of Organic and Biochemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 162. Introduction to synthesis, purification and identification of organic compounds. Basic analytical techniques for the characterization of biologically important compounds such as amino acids, proteins, enzymes, and lipids. May not be counted for credit in programs offered within the Department of Chemistry and Biochemistry. Not open to students who have credit in CHM 361.",
-            "prereqs":"CHM 162 or concurrent enrollment"
         },
         {
             "hours":"3",
@@ -14049,15 +13014,6 @@
             "prereqs":"C or better in CHM 116 and CHM 117"
         },
         {
-            "hours":"1",
-            "num":"CHM 253",
-            "name":"Organic Chemistry Laboratory I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory to accompany CHM 252 emphasizing the synthesis, purification, and identification of organic compounds.",
-            "prereqs":"concurrent enrollment in CHM 252"
-        },
-        {
             "hours":"3",
             "num":"CHM 256",
             "name":"Organic Chemistry II",
@@ -14065,15 +13021,6 @@
             "core_curr":null,
             "descrip":"Continuation of CHM 252.",
             "prereqs":"C or better in CHM 252"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 257",
-            "name":"Organic Chemistry Laboratory II",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory to accompany CHM 256.",
-            "prereqs":"C or better in CHM 253 and concurrent enrollment in CHM 256"
         },
         {
             "hours":"0",
@@ -14085,15 +13032,6 @@
             "prereqs":"CHM 110 and CHM 111"
         },
         {
-            "hours":"1",
-            "num":"CHM 292",
-            "name":"Chemical Informatics",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"A survey of the tools employed in obtaining, analyzing, and presenting chemical information; an introduction to the chemical literature; computer applications; ethics.",
-            "prereqs":"C or better in CHM 252 or concurrent enrollment"
-        },
-        {
             "hours":"0-6",
             "num":"CHM 299",
             "name":"Directed Studies in Chemistry and Biochemistry",
@@ -14101,15 +13039,6 @@
             "core_curr":"EL",
             "descrip":"Studies undertaken by freshman or sophomore students under the guidance of faculty mentors. Maximum of 3 hours per semester; repeatable for up to 6 hrs credit. At the completion of the semester, students are required to submit a research report, describing the goals, methods, and results of the study. Zero credit course graded Satisfactory/Unsatisfactory.",
             "prereqs":"C or better in CHM 110 and CHM 111; consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 302",
-            "name":"Medical Terminology",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Terminology relevant to the medical and paramedical disciplines and interpreting typical medical reports.",
-            "prereqs":"CHM 116 or 162 and BIO 111 or 151"
         },
         {
             "hours":"4",
@@ -14139,15 +13068,6 @@
             "prereqs":"C or better in CHM 256; BIO 151 or BIO 111"
         },
         {
-            "hours":"1",
-            "num":"CHM 361",
-            "name":"Biochemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":"WI",
-            "descrip":"Techniques and methods of macromolecular purification and characterization; refining skills of record collecting, data analysis, and presentation of results in manuscript form.",
-            "prereqs":"ENG 101, or CIV 111 and CIV 112; C or better in CHM 360 and CHM 292 or concurrent enrollment. "
-        },
-        {
             "hours":"0",
             "num":"CHM 380",
             "name":"Seminar I in Chemistry and Biochemistry",
@@ -14155,33 +13075,6 @@
             "core_curr":null,
             "descrip":"Students attend weekly seminars pertaining to all aspects of Chemistry.  Course graded Satisfactory/Unsatisfactory.",
             "prereqs":"CHM 256"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 386",
-            "name":"Seminar II in Chemistry and Biochemistry",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Students attend and write summaries of weekly seminars pertaining to all aspects of Chemistry.  Course graded Satisfactory/Unsatisfactory.",
-            "prereqs":"Chemistry or Biochemistry major; CHM 360 and CHM 380"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 412",
-            "name":"Molecular Modeling",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"An introduction to computational chemistry with an emphasis on the structures and energies of organic systems. Cross listed with CHM 512.",
-            "prereqs":"C or better in CHM 256"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 414",
-            "name":"Chemical Group Theory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Application of symmetry and group theory to chemical systems. Topics include point groups, character tables, spectroscopic selection rules, and molecular orbital theory. Cross listed with CHM 514.",
-            "prereqs":"C or better in CHM 256"
         },
         {
             "hours":"3",
@@ -14220,15 +13113,6 @@
             "prereqs":"C or better in CHM 114 or concurrent enrollment; C or better in CHM 256"
         },
         {
-            "hours":"1",
-            "num":"CHM 437",
-            "name":"Inorganic Chemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Synthesis and instrumental characterization of main group, coordination, organometallic, and bioinorganic compounds. Cross listed with CHM 537.",
-            "prereqs":"C or better in CHM 332 or CHM 436 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"CHM 440",
             "name":"Materials Chemistry",
@@ -14236,24 +13120,6 @@
             "core_curr":null,
             "descrip":"Study of unit cells, band theory, and the structure, function, and characterization (diffraction, microscopy, and spectroscopy) of metals, polymers, glasses, concrete, ceramics, and biomaterials.  Cross listed with CHM 540.",
             "prereqs":"C or better in CHM 256 and CHM 257 or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 441",
-            "name":"Materials Chemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 440. Emphasis on methods of fabrication and characterization of various types of materials. Cross listed with CHM 541.",
-            "prereqs":"C or better in CHM 440 or CHM 540 or concurrent enrollment"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 450",
-            "name":"Industrial Organic Chemistry",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Survey of industrial organic chemistry with an emphasis on petroleum derivatives. Cross listed with CHM 550.",
-            "prereqs":"C or better in CHM 256"
         },
         {
             "hours":"3",
@@ -14283,15 +13149,6 @@
             "prereqs":"Grade of C or better in: CHM 116, CHM 256, MTH 122 or MTH 116, PHY 201 or 108"
         },
         {
-            "hours":"1",
-            "num":"CHM 471",
-            "name":"Physical Chemistry Laboratory I",
-            "gen_ed":null,
-            "core_curr":"WI",
-            "descrip":"Experimental and computational studies of the physical properties of matter. Cross listed with CHM 571.",
-            "prereqs":"C or better in CHM 470 or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"CHM 476",
             "name":"Physical Chemistry II",
@@ -14299,15 +13156,6 @@
             "core_curr":null,
             "descrip":"Topics include quantum mechanics, spectroscopy, and statistical thermodynamics. Cross listed with CHM 576. It is recommended that students take CHM 326 before taking this course.",
             "prereqs":"Grade of C or better in: CHM 116, CHM 256, MTH 122 or MTH 116, PHY 201 or 108"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 480",
-            "name":"Seminar III in Chemistry and Biochemistry",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Each student presents a seminar under the supervision of a faculty member.",
-            "prereqs":"CHM 386"
         },
         {
             "hours":"0-6",
@@ -14325,24 +13173,6 @@
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Topic stated in the current Schedule of Classes. Maximum of 3 hours per semester; may be repeated under different topics for a maximum of six credits.",
-            "prereqs":"C or better in CHM 256"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 512",
-            "name":"Molecular Modeling",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"An introduction to computational chemistry with an emphasis on the structures and energies of organic systems. Cross listed with CHM 412. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
-            "prereqs":"C or better in CHM 256"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 514",
-            "name":"Chemical Group Theory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Application of symmetry and group theory to chemical systems. Topics include point groups, character tables, spectroscopic selection rules, and molecular orbital theory. Cross listed with CHM 414. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
             "prereqs":"C or better in CHM 256"
         },
         {
@@ -14418,15 +13248,6 @@
             "prereqs":"C or better in CHM 114 or concurrent enrollment; C or better in CHM 256"
         },
         {
-            "hours":"1",
-            "num":"CHM 537",
-            "name":"Inorganic Chemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Synthesis and instrumental characterization of main group, coordination, organometallic, and bioinorganic compounds. Students conduct independent projects. Cross listed with CHM 437. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
-            "prereqs":"C or better in CHM 532 or CHM 536 or concurrent enrollment"
-        },
-        {
             "hours":"1-6",
             "num":"CHM 538",
             "name":"Topics in Inorganic Chemistry",
@@ -14445,15 +13266,6 @@
             "prereqs":"C or better in CHM 256 and CHM 257 or consent of instructor"
         },
         {
-            "hours":"1",
-            "num":"CHM 541",
-            "name":"Materials Chemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory that reinforces and expands upon concepts covered in CHM 440/540. Emphasis on methods of fabrication and characterization of various types of materials. Cross listed with CHM 441. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
-            "prereqs":"C or better in CHM 440 or CHM 540 or concurrent enrollment"
-        },
-        {
             "hours":"1-6",
             "num":"CHM 548",
             "name":"Topics in Materials Chemistry",
@@ -14461,15 +13273,6 @@
             "core_curr":null,
             "descrip":"Topic stated in the current Schedule of Classes. Maximum of 3 hours per semester; may be repeated under different topics for a maximum of six credits.",
             "prereqs":"C or better in CHM 540"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 550",
-            "name":"Industrial Organic Chemistry",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Survey of industrial organic chemistry with an emphasis on petroleum derivatives. Cross listed with CHM 450. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
-            "prereqs":"C or better in CHM 256"
         },
         {
             "hours":"3",
@@ -14506,15 +13309,6 @@
             "core_curr":null,
             "descrip":"Survey of the structural and functional properties of the major classes of biological macromolecules (proteins, nucleic acids, carbohydrates and lipids) and their roles in biological systems. Topics include enzyme kinetics and mechanisms, selected metabolic pathways, and the role of nucleic acids in the flow of genetic information.",
             "prereqs":"Graduate standing and consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 561",
-            "name":"Principles of Biochemistry Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Techniques and methods of macromolecular purification and characterization; refining skills of record collecting, data analysis, and presentation of results in manuscript form.",
-            "prereqs":"C or better in CHM 360 or CHM 560"
         },
         {
             "hours":"3",
@@ -14562,15 +13356,6 @@
             "prereqs":"Grade of C or better in: CHM 116, CHM 256, MTH 122 or MTH 116, PHY 201 or 108"
         },
         {
-            "hours":"1",
-            "num":"CHM 571",
-            "name":"Physical Chemistry Laboratory I",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Experimental and computational studies of the physical properties of matter. Cross listed with CHM 471. For cross-listed undergraduate/graduate courses, the graduate-level course will have additional academic requirements beyond those of the undergraduate course.",
-            "prereqs":"C or better in CHM 470 or concurrent enrollment in CHM 570"
-        },
-        {
             "hours":"3",
             "num":"CHM 576",
             "name":"Physical Chemistry II",
@@ -14586,15 +13371,6 @@
             "gen_ed":null,
             "core_curr":null,
             "descrip":"Topic stated in the current Schedule of Classes. Maximum of 3 hours per semester; may be repeated under different topics for a maximum of six credits.",
-            "prereqs":"consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 580",
-            "name":"Literature Seminar in Chemistry & Biochemistry",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Each student presents a literature-based seminar under the supervision of a faculty member.",
             "prereqs":"consent of instructor"
         },
         {
@@ -14614,15 +13390,6 @@
             "core_curr":null,
             "descrip":"Research in an area of interest to the student, repeatable for up to 8 hours credit. At the completion of the semester, students are required to submit a research report, describing the goals, methods, and results of the study. Zero-credit course graded. Satisfactory/Unsatisfactory.",
             "prereqs":"consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"CHM 686",
-            "name":"Literature Review",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Each student will prepare a concise, up-to-date, well-written review paper and present a seminar to the Department on a literature topic that is chosen in consultation with the course instructor and the student's academic advisor.",
-            "prereqs":"Consent of instructor"
         },
         {
             "hours":"0-10",
@@ -15803,15 +14570,6 @@
             "prereqs":"Not open to College of Business majors"
         },
         {
-            "hours":"1",
-            "num":"ECO 101",
-            "name":"Economics and Contemporary Issues",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Application of economic method to analysis of contemporary issues. Emphasizes student participation in applications of economic principles to analysis of contemporary problems and policies.",
-            "prereqs":"concurrent enrollment in ECO 100"
-        },
-        {
             "hours":"3",
             "num":"ECO 199",
             "name":"Foundational Topics in Economics",
@@ -15855,15 +14613,6 @@
             "core_curr":null,
             "descrip":"This course combines the economic analysis of the environment with the economics of sustainability. Environmental and sustainability economics considers the efficient and equitable use of society's scarce resources. Cannot receive credit for both ECO 240 and 340. Prerequisite:",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"ECO 300",
-            "name":"Economics Colloquium for Juniors",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Student-faculty discussion of books and articles concerning significant economic ideas and issues not examined in depth in other courses.",
-            "prereqs":"Economics major, junior standing"
         },
         {
             "hours":"3",
@@ -16019,15 +14768,6 @@
             "prereqs":"junior/senior standing"
         },
         {
-            "hours":"1",
-            "num":"ECO 400",
-            "name":"Economics Colloquium for Seniors",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Continuation of Economics 300, with more difficult and challenging readings.",
-            "prereqs":"economics major; senior standing"
-        },
-        {
             "hours":"3",
             "num":"ECO 418",
             "name":"Mathematical Economics",
@@ -16044,15 +14784,6 @@
             "core_curr":null,
             "descrip":"Individual readings for qualified students under the guidance of a member of the economics staff.",
             "prereqs":"Approval of the department chair; junior/senior standing"
-        },
-        {
-            "hours":"1",
-            "num":"ECO 498",
-            "name":"Senior Seminar in Economics, Part I",
-            "gen_ed":null,
-            "core_curr":"WI,EL",
-            "descrip":"Student begins to explore an area of economics in which he or she has a particular interest and plans to write a senior thesis. Required for all economics majors. Pass/Fail.",
-            "prereqs":"Economics major and senior standing (junior standing with consent of instructor)"
         },
         {
             "hours":"3",
@@ -16080,15 +14811,6 @@
             "core_curr":null,
             "descrip":"Examination of global macroeconomics and its application to the modern business environment, the business cycle and economic policies, major linkages between economies, domestic and international economic indicators, institutions and cultural aspects of business, sustainable development.",
             "prereqs":" Foster College of Business Graduate Student or Consent of Associate Dean"
-        },
-        {
-            "hours":"1",
-            "num":"ECO 603",
-            "name":"Economic Markets: Competition and Monopoly",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduces the learner to the basic workings of the economic market.  Included are concepts addressing consumer and producer motivations in the market; surpluses and shortages; and third-party intervention into markets.  Also the importance of competitive markets will be emphasized with a discussion of a lack of competition such as monopoly and the consequences for society.",
-            "prereqs":"Graduate standing"
         },
         {
             "hours":"3",
@@ -16198,24 +14920,6 @@
             "gen_ed":null,
             "core_curr":"GP WC,HU",
             "descrip":"The study of representation of human values in literatures emerging from regions such as the Middle East, Africa, Asia, and Latin America.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"ENG 180",
-            "name":"Introduction to English Education",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to the curriculum, state and national standards, and professional expectations for English Education in secondary schools; registration open only to English Education majors or by consent of instructor.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"ENG 181",
-            "name":"Introduction to English Studies",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Introduction to the English major curriculum, professional expectations, curriculum planning (concentrations, minors, internships and practicum), and career exploration.",
             "prereqs":null
         },
         {
@@ -16934,15 +15638,6 @@
             "prereqs":""
         },
         {
-            "hours":"1",
-            "num":"GES 102",
-            "name":"Principles of Earth Science Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Laboratory related to GES 101. One two-hour laboratory per week.",
-            "prereqs":"GES 101 or equivalent, or concurrent enrollment"
-        },
-        {
             "hours":"3",
             "num":"GES 110",
             "name":"Principles of Historical Geology",
@@ -16950,15 +15645,6 @@
             "core_curr":null,
             "descrip":"Introduction to history of the earth and its life forms; methods used by geologists to decipher earth history using rocks and fossils. Theory of evolution, origins of life, fossilization, animal and plant extinctions, mountain building, plate tectonics, and the Ice Age.",
             "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"GES 111",
-            "name":"Principles of Historical Geology Laboratory",
-            "gen_ed":"FS",
-            "core_curr":null,
-            "descrip":"Laboratory related to GES 110. Study and interpretation of topographic and geologic maps, earth history, and fossils. One two-hour laboratory per week.",
-            "prereqs":"GES 110 or equivalent, or concurrent enrollment"
         },
         {
             "hours":"3",
@@ -17529,15 +16215,6 @@
             "gen_ed":"SF",
             "core_curr":"GP GS",
             "descrip":"Great international forces influencing the contemporary world: secular and religious nationalism, global terrorism, international conflict and cooperation, poverty, and climatic changes. Understanding and evaluating the impact of these forces on national society and world affairs.",
-            "prereqs":null
-        },
-        {
-            "hours":"1",
-            "num":"I S 101",
-            "name":"Participation in Model United Nations",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Preparation for and participation in a model United Nations program. May be repeated for a maximum of 4 hours credit provided a different country and issues are addressed with each participation.",
             "prereqs":null
         },
         {
@@ -18530,15 +17207,6 @@
             "prereqs":"High school physics or PHY 100; MTH 119 or MTH 121 Corequisite: PHY 110"
         },
         {
-            "hours":"1",
-            "num":"PHY 199",
-            "name":"Physics Seminar for New Physics Majors",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Orientation for students interested in a physics career.",
-            "prereqs":null
-        },
-        {
             "hours":"4",
             "num":"PHY 201",
             "name":"University Physics II",
@@ -19056,15 +17724,6 @@
     ],
     "Pre-Law Courses":[
         {
-            "hours":"1",
-            "num":"PLW 101",
-            "name":"Introduction to the Legal Profession",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Survey course introducing students to various aspects of the legal profession. Intended for students with potential interest in a legal career.",
-            "prereqs":null
-        },
-        {
             "hours":"2",
             "num":"PLW 102",
             "name":"Introduction to Legal Research",
@@ -19389,15 +18048,6 @@
             "core_curr":null,
             "descrip":"Physiological bases of behavior; emphasis on the neural structure and functional concomitants of receptor and effector processes, motivation, emotion, and learning.",
             "prereqs":"PSY 101 (C or better), PSY 201, and PSY 206; or consent of instructor"
-        },
-        {
-            "hours":"1",
-            "num":"PSY 365",
-            "name":"Behavioral Neuroscience Laboratory",
-            "gen_ed":null,
-            "core_curr":null,
-            "descrip":"Optional laboratory course for students concurrently enrolled in PSY 364. Includes sheep brain dissection.",
-            "prereqs":"Concurrent enrollment in PSY 364"
         },
         {
             "hours":"3",
