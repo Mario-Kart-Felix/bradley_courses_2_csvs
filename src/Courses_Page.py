@@ -32,13 +32,19 @@ class Courses_Page:
 
         p_attr_l = self.soup.find_all('p')
         
+        
+#         print(self.soup.prettify())
+        
         for p_attr in p_attr_l:
+            
+#             if 'ART 421' in p_attr.get_text():
+#                 print('here')
             
             
             em_attr = p_attr.find('em')
             
             # if this then its a real course
-            if em_attr != None and ' hours)' in str(em_attr):
+            if em_attr != None and (' hours)' in str(em_attr) or 'hour)' in str(em_attr)):
                 course_d = {'hours'     : None,
                             'num'       : None,
                             'name'      : None,
@@ -46,6 +52,9 @@ class Courses_Page:
                             'core_curr' : None,
                             'descrip'   : None,
                             'prereqs'   : None}
+                
+#                 print('!!!!!!!!!!!!! em_attr:', em_attr)
+                
                 
                 # hours
                 course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
