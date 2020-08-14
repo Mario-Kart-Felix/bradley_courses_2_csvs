@@ -44,7 +44,7 @@ class Courses_Page:
             em_attr = p_attr.find('em')
             
             # if this then its a real course
-            if em_attr != None and (' hours)' in str(em_attr) or 'hour)' in str(em_attr)):
+            if em_attr != None and (' hours)' in str(em_attr) or ' hour)' in str(em_attr)):
                 course_d = {'hours'     : None,
                             'num'       : None,
                             'name'      : None,
@@ -57,7 +57,7 @@ class Courses_Page:
                 
                 
                 # hours
-                course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0]
+                course_d['hours'] = em_attr.get_text().split('(')[1].split(' hours)')[0].split(' hour)')[0]
                 
                 # strong
                 
