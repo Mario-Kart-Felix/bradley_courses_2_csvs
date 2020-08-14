@@ -113,6 +113,20 @@ def get_thing(soup):
                             formatted_class_l.append(('BUS 400', '****'))
                             formatted_class_l.append(('M L 452', '****'))
                         
+                        # for stuff like:  "CHM 110/111***"
+                        else:
+                            s_1 = class_num.split('/')
+                            second_num_str = s_1[1][0:3]
+                            astericies_str = s_1[1][3:]
+                            first_class_num = s_1[0]
+                            
+                            dept_code = ''.join([i for i in first_class_num if not i.isdigit()]).strip().lstrip() # removes all non-digit chars and trims whitespace
+
+                            second_class_num = dept_code + ' ' + second_num_str
+                            
+                            formatted_class_l.append((first_class_num, astericies_str))
+                            formatted_class_l.append((second_class_num, astericies_str))
+                            print('.')
                     
                     else:
                         formatted_class_l.append((class_num, ''))
