@@ -1,4 +1,465 @@
 {
+    "Course Descriptions":[
+        {
+            "hours":"0",
+            "num":"P T 600",
+            "name":"Physical Therapy Professional Seminar",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A forum for students in all stages of the curriculum.  Faculty, clinicians, and students will lead discussions and provide presentations on a variety of topics, including areas of current research, professional practice issues, and issues pertaining to clinical education. Satisfactory/unsatisfactory.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 612",
+            "name":"Functional Anatomy I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A lecture and laboratory study of human movement and applied kinesiology along with the introduction of physical therapy techniques to assess components of human movement.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 614",
+            "name":"Gross Anatomy I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Cadaveric dissection and study of the musculoskeletal, vascular, and peripheral nervous systems of the extremities.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 622",
+            "name":"Functional Anatomy II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A lecture and laboratory study of human movement and applied kinesiology along with introduction of physical therapy techniques to assess components of human movement.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 624",
+            "name":"Gross Anatomy II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Cadaveric dissection and study of the structures of the nervous, cardiovascular, pulmonary, gastrointestinal, genitoutinary, and integumentary systems.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 630",
+            "name":"Foundations of Physical Therapy",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"An introduction to clinical applications in physical therapy. Topics covered in this course include basic physical therapy examination procedures, professional documentation and communication, therapeutic exercise, physical agents and mechanical modalities, and patient care skills.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 636",
+            "name":"Musculoskeletal Physical Therapy I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The study and application of orthopaedic basic science in the examination, evaluation, and management of dysfunctions and disabilities of the appendicular skeleton.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 640",
+            "name":"Clinical Science I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The anatomical, biomechanical, physiological, and histological basis of the normal and pathological musculoskeletal system, along with specialized examination, assessment, and intervention strategies for the musculoskeletal system.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"2",
+            "num":"P T 646",
+            "name":"Research Methods",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Research design, methods, and ethical implications; exploration of research topics with review of appropriate literature; and introduction to components of the research proposal.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"1",
+            "num":"P T 655",
+            "name":"Experiential Learning",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Students will work collaboratively with department faculty and fellow students to provide physical therapy services to individuals from within the community.  Client interview, assessment and treatment progression, and discharge planning will be emphasized.  Students will gain experience in supervising students with less experience, including the provision of constructive feedback.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 662",
+            "name":"Neurological Physical Therapy I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The study and application of neurological basic science in the examination, evaluation, and management of dysfunctions and disabilities in physical therapy patient care.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"2",
+            "num":"P T 666",
+            "name":"The Research Process",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A course composed of lecture/discussion on the scientific basis and evidence supporting the use of various exercise techniques, as well as practical application and hands-on experience performing and completing these exercise techniques and applications correctly.  Therapeutic, training, and performance enhancement approaches to exercise will be addressed.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 670",
+            "name":"Human Development Throughout the Lifespan",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A multi-system analysis of the many facets of individual development from conception to death.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"2",
+            "num":"P T 680",
+            "name":"Clinical Science II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The anatomical, physiological, and histological basis of the normal and pathological neuromuscular system, and foundations of pharmacology as it relates to intervention strategies for patients with neuromuscular impairments.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"1",
+            "num":"P T 686",
+            "name":"Supervised Research I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Development of a research product under the guidance of a research advisor.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 700",
+            "name":"Musculoskeletal Physical Therapy II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The study and application of orthopaedic basic science in the examination, evaluation, and management of dysfunctions and disabilities of the axial skeleton.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"8",
+            "num":"P T 710",
+            "name":"Clinical Education I",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The first of four full-time supervised clinical experiences requiring utilization of communication skills and teaching interpersonal and evaluative skills. This course provides the opportunity to advance physical therapy procedures and to continue to develop professional socialization.  Satisfactory/unsatisfactory.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"1",
+            "num":"P T 716",
+            "name":"Supervised Research II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Data collection and preliminary statistical analysis of the student research report.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 720",
+            "name":"Teaching and Learning Theory in Physical Therapy",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Discussion and application of teaching and learning theories as related to the classroom and clinical setting, including student clinical education, staff inservice, and patient education.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 730",
+            "name":"Neurological Physical Therapy II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Applied neurological examination, evaluation, and intervention theories and strategies in physical therapy patient care.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"2",
+            "num":"P T 740",
+            "name":"Clinical Science III",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The management of a variety of disorders resulting in physical, emotional, and cognitive impairments and their physical therapy implications.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"0-6",
+            "num":"P T 760",
+            "name":"Independent Study",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Individual study and investigations through selected readings, discussions, and/or written assignments.  May be repeated for a maximum of six semester hours.",
+            "prereqs":"Physical Therapy majors; non-majors by permission of the Department of Physical Therapy and Health Science chair"
+        },
+        {
+            "hours":"2",
+            "num":"P T 761",
+            "name":"Advanced Dry Needling Lower Quarter Integration",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"This lecture and laboratory course is designed to provide the students with the abilities to appropriately and safely integrate dry needling intervention as it relates to orthopedic physical therapy practice. The focus of this course is the examination and evaluation techniques, as well as the application of dry needling for a variety of musculoskeletal disorders involving the lower quarter.",
+            "prereqs":""
+        },
+        {
+            "hours":"2",
+            "num":"P T 762",
+            "name":"Advanced Dry Needling Upper Quarter Integration",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"This lecture and laboratory course is designed to provide the students with the advanced abilities to appropriately and safely integrate dry needling intervention as it relates to orthopedic physical therapy practice. The focus of this course is the examination and evaluation techniques, as well as the application of dry needling for a variety of musculoskeletal disorders involving the upper quarter.",
+            "prereqs":""
+        },
+        {
+            "hours":"1",
+            "num":"P T 766",
+            "name":"Supervised Research III",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Data analysis and interpretation; presentation of preliminary research findings to peers and internal and external constituents.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 770",
+            "name":"Applied Exercise Principles",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A course composed of lecture/discussion on the scientific basis and evidence supporting the use of various exercise techniques, as well as practical application and hands-on experience performing and completing these exercise techniques and applications correctly.  Therapeutic, training, and performance enhancement approaches to exercise will be addressed.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 790",
+            "name":"Cardiovascular, Pulmonary, and Integumentary PT",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The anatomical, physiological, and histological basis of the normal and pathological cardiac, pulmonary, vascular, and integumentary systems. Normal and abnormal metabolic processes and their physical therapy implications.",
+            "prereqs":null
+        },
+        {
+            "hours":"8",
+            "num":"P T 800",
+            "name":"Clinical Education II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The second of four full-time supervised clinical experiences offering the opportunity for continued development of clinical management of patients in one of a variety of clinical settings. This course allows for continued professional socialization and growth as well as further development of professional behaviors.  Satisfactory/unsatisfactory.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 810",
+            "name":"Health and Wellness",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Physical therapy implications of common health issues in a variety of physical therapy clients, and the role of screening and prevention in dealing with these issues.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"1",
+            "num":"P T 816",
+            "name":"Supervised Research IV",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Emphasis of this course is on final revisions of poster and platform presentations for dissemination at the state and national level, grant writing for conference-related travel, and preparation of manuscript for submission to a peer-reviewed journal.",
+            "prereqs":"Physical Therapy majors only"
+        },
+        {
+            "hours":"3",
+            "num":"P T 820",
+            "name":"Physical Therapy Administration and Professional Issues",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Overview of the utilization of health care policies, community resources, program development, professional issues and administrative principles encountered in providing health care in today's settings.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"4",
+            "num":"P T 830",
+            "name":"Physical Therapy Differential Diagnosis",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The curriculum's capstone course that emphasizes the role of the physical therapist in managing the patient with multi-system dysfunctions.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"10",
+            "num":"P T 850",
+            "name":"Clinical Education III",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The third of four full-time supervised clinical experiences offering the opportunity for continued development of clinical management of patients in one of a variety of clinical settings. Allows for continued professional socialization and growth as well as further development of professional behaviors. Satisfactory/unsatisfactory.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"10",
+            "num":"P T 860",
+            "name":"Clinical Education IV",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"The last of four full-time, supervised clinical experiences or second half of the final clinical education experience requiring utilization of advanced communication skills and teaching interpersonal and evaluative skills. Students have the opportunity to further develop clinical management of patients in a different clinical setting. Furthermore, continued professional socialization and growth as well as continued development of professional behaviors are expected.  Satisfactory/unsatisfactory.",
+            "prereqs":"Physical therapy majors only"
+        },
+        {
+            "hours":"1",
+            "num":"H S 110",
+            "name":"Introduction to Health Science",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Health care professions, terminology, concepts in health science, and basic knowledge and skills of those in health science.",
+            "prereqs":"HS major or consent of department Chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 210",
+            "name":"Concepts in Personal Wellness and Fitness",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"An overview of topics designed to provide students with skills and knowledge needed to incorporate concepts of personal wellness and physical fitness. Focusing on the health benefits of personal wellness and fitness, students will participate in exploring concepts critically and in lab activities designed to engage the student actively in planning personalized programs for physical activity, nutrition, and other wellness concepts.",
+            "prereqs":"BIO 111, BIO 112, BIO 113, BIO 114"
+        },
+        {
+            "hours":"3",
+            "num":"H S 220",
+            "name":"Consumer Issues in Health Care",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Possible care obtained, level of health care, and how to access care for persons from birth to death. Cross listed as FCS 220.",
+            "prereqs":"HS 110 and HS major or consent of a cross-listed Department Chair (PT, FCS)"
+        },
+        {
+            "hours":"3",
+            "num":"H S 230",
+            "name":"Measurement in Physical Activity",
+            "gen_ed":null,
+            "core_curr":"EL",
+            "descrip":"Methods of assessing health, fitness, and tolerance during physical activity for program development, group assessment, and research.",
+            "prereqs":"H S Major or consent of instructor"
+        },
+        {
+            "hours":"1-4",
+            "num":"H S 300",
+            "name":"Experiential Learning in Healthcare",
+            "gen_ed":null,
+            "core_curr":"EL",
+            "descrip":"The Experiential Learning in Health Science course provides an engaging opportunity for direct experience in healthcare. Students choose an area of focus to increase knowledge, develop skills, clarify values and develop student?s capacity to contribute to their communities.",
+            "prereqs":"Health Science major"
+        },
+        {
+            "hours":"3",
+            "num":"H S 306",
+            "name":"Health Science Applications for Sports",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Integration of the understanding of basic human structure and function with common conditions and injuries that impact the athlete.",
+            "prereqs":"BIO 230, 231, 232, 233"
+        },
+        {
+            "hours":"3",
+            "num":"H S 310",
+            "name":"Statistical Procedures in Health Sciences",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Principles and procedures for statistical interpretation of data. Study of measures and control tendency, variability, correlation, and introductory predictive and inferential statistics.",
+            "prereqs":"Junior Standing or consent of instructor"
+        },
+        {
+            "hours":"3",
+            "num":"H S 320",
+            "name":"Applied Physiology of Exercise",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"A systems approach to the study of the human body's response to exercise and physical activity.",
+            "prereqs":"BIO 111, 112; CHM 110, 111, 116, 117; PHY 107; HS major and junior/senior standing or consent of department chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 343",
+            "name":"Ethics of Healthcare",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"This course is designed to expand the undergraduate student's basic understanding of ethics to promote ethical awareness in healthcare.  Students will be exposed to typical ethical issues encountered in healthcare and practice making difficult decisions.  Students will be asked to synthesize and implement strategies for applying morals, values, and ethics in the various settings in which healthcare is delivered, and will be called to consider the perspectives of all stakeholders, including the role of the healthcare researcher, provider, patient advocate, and consumer of medical care.",
+            "prereqs":"HS major"
+        },
+        {
+            "hours":"3",
+            "num":"H S 345",
+            "name":"Motor Control and Motor Learning",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"This course provides an overview of the sensorimotor physiological events related to motor control and motor learning. Concepts of how healthy individuals initiate and execute movement will be discussed as well as strategies for learning novel movements.",
+            "prereqs":"BIO 230, BIO 232, or consent of Department Chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 350",
+            "name":"Special Topics in Health Science",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Selected topics in the various fields of health science. May be repeated under different topics for a total of six hours.",
+            "prereqs":"cumulative grade point average of 2.75; at least junior standing or consent of department chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 380",
+            "name":"Disability and Health in a Global Society",
+            "gen_ed":null,
+            "core_curr":"GP WC,WI",
+            "descrip":"This course will explore health and disability issues affecting individuals around the world and across the lifespan.  Students will develop a greater understanding of the ways in which physical disabilities and health issues impact an individual's ability to participate at home, in the community, and in the workplace.  The influence of health care availability, education, cultural practices, and the physical environment will be explored.",
+            "prereqs":"ENG 101 or CIV 111/112"
+        },
+        {
+            "hours":"3",
+            "num":"H S 402",
+            "name":"Educational Methods, Strategies, and Evaluation Techniques",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Designed to increase theoretical knowledge and practical skill for teaching persons with different learning styles. Classroom experiences include a focus on methods, strategies, and evaluation techniques to meet different learning styles. Cross listed as ETE 402.",
+            "prereqs":"HS or ETE major or consent of instructor"
+        },
+        {
+            "hours":"1-3",
+            "num":"H S 425",
+            "name":"Independent Study",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Individual study and investigations through selected readings, discussion, and/or written assignment(s). May be repeated up to a total of three hours.",
+            "prereqs":"Health science major and/or permission of the Department of Physical Therapy chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 460",
+            "name":"Kinesiology",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Basic science principles and functional applications that govern function of normal musculoskeletal system.",
+            "prereqs":"HS major and junior/senior standing or consent of PT Department chair"
+        },
+        {
+            "hours":"3",
+            "num":"H S 470",
+            "name":"Health Science Application of Exercise Prescription",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Lab-based course focused on utilization of scientific knowledge related to increasing flexibility, strength, power, and endurance for practical application in exercise prescription.",
+            "prereqs":"Health Science Major; H S 230, H S 320, H S 460"
+        },
+        {
+            "hours":"3",
+            "num":"H S 480",
+            "name":"Motion Analysis",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Analysis of the kinetic and kinematic principles influencing human motion with emphasis on sport and fitness activity from a health science perspective.",
+            "prereqs":"HS major and junior/senior standing; HS 320; HS 460; or consent of PT Department Chair"
+        }
+    ],
     "Accounting Courses":[
         {
             "hours":"3",
@@ -377,6 +838,305 @@
             "core_curr":null,
             "descrip":"Preparation for and completion of the comprehensive assessment required for the Master of Science in Accounting. Pass/Fail.",
             "prereqs":"18 hours of graduate credit, including twelve semester hours from ATG 601, 614, 657, and 677"
+        }
+    ],
+    "BUS Courses":[
+        {
+            "hours":"3",
+            "num":"BUS 100",
+            "name":"Contemporary Business",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Business in a changing society. Ethics and social responsibility, financing, production, and distribution of goods and services.",
+            "prereqs":"Freshmen/sophomore standing only or consent of the Foster College of Business Dean's office"
+        },
+        {
+            "hours":"1",
+            "num":"BUS 220",
+            "name":"Career Planning Strategies",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Prepares students for internship positions and employment after graduation; research career opportunities in business; and develops a systematic approach to employment planning. Pass/fail. Credit will not be given for both BUS 220 and ELH 301.",
+            "prereqs":"Business major"
+        },
+        {
+            "hours":"0-6",
+            "num":"BUS 301",
+            "name":"Cooperative Education/Internship in Business",
+            "gen_ed":null,
+            "core_curr":"EL",
+            "descrip":"Cooperative education or internship experience. Credit applies to non-departmental Foster College of Business electives. Pass/Fail. Repeatable to a combined total of six credit hours for BUS 301.",
+            "prereqs":"Sophomore in Foster College of Business; 2.0 grade point average at Bradley; 2.0 grade point in Foster College of Business; and consent of Foster College career advisor"
+        },
+        {
+            "hours":"0-3",
+            "num":"BUS 302",
+            "name":"Junior Business Practicum",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Solving technically challenging problems under faculty supervision, with a near-term economic benefit. May involve research in collaboration with FCB faculty, for up to three hours credit. Repeatable to a combined total of three credit hours. Not eligible for cooperative education/internship credit. Elective credit toward major will only be granted with prior approval of a FCB department chair or program director.",
+            "prereqs":"Junior/senior standing; approval by the FCB Associate Dean"
+        },
+        {
+            "hours":"3",
+            "num":"BUS 361",
+            "name":"Collaboration in Organizations",
+            "gen_ed":null,
+            "core_curr":"MI",
+            "descrip":"Designed to provide students some of the knowledge and skills required to adapt to a formal team setting, where collaboration among cross-functional members occurs. Students will study leadership skills and traits, sensemaking and inventing techniques, group effectiveness tactics, and team building methods as applied within the context of product development.",
+            "prereqs":"Junior standing"
+        },
+        {
+            "hours":"3",
+            "num":"BUS 362",
+            "name":"Innovation in Organizations",
+            "gen_ed":null,
+            "core_curr":"MI",
+            "descrip":"Designed to provide students with knowledge related to developing a product or product enhancement based on the assessment of competitive environments and the strategic needs of the organization. Students will study methods for assessing customer needs, evaluating competitive environments, project planning, feasibility analysis, as well as product and process planning. The course will duly focus on the application of collaboration processes, applying methods of effective team interactions using peer feedback, accountability, and leadership skills.",
+            "prereqs":"BUS 361 or consent of instructor"
+        },
+        {
+            "hours":"2",
+            "num":"BUS 400",
+            "name":"Senior Consulting Project",
+            "gen_ed":null,
+            "core_curr":"EL,MI,WI",
+            "descrip":"Participation in a Senior Consulting Project, where students form cross-functional teams and apply knowledge to address the organizational needs of local business owners and organizational executives. Concurrent enrollment with M L 452 required.",
+            "prereqs":"FIN 322; M L 350; MTG 315; senior standing Corequisite: M L 452"
+        },
+        {
+            "hours":"3",
+            "num":"BUS 401",
+            "name":"Senior Consulting Project II",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Participation in a Senior Consulting Project, where students form cross-functional teams and apply knowledge to address organizational needs.",
+            "prereqs":"BUS 400; senior standing"
+        },
+        {
+            "hours":"0-9",
+            "num":"BUS 490",
+            "name":"Business Topics",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Topics of special interest which may vary each time course is offered. Topic and course requirements stated in current Schedule of Classes. May be repeated under different topics for a maximum of nine hours credit. May count towards a Foster College of Business degree requirement upon approval of the department chair.",
+            "prereqs":"Approval of the Foster College of Business Associate Dean"
+        },
+        {
+            "hours":"1",
+            "num":"BUS 511",
+            "name":"Communicating Quantitative Information",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Present quantitative information and explain it to a nontechnical audience in nontechnical language. Selection of appropriate formats for graphic and tabular displays of information.",
+            "prereqs":"MIS 570"
+        },
+        {
+            "hours":"1-6",
+            "num":"BUS 599",
+            "name":"Independent Study",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Studies undertaken by academically qualified students under the guidance of a faculty member, with the approval of the Associate Dean.",
+            "prereqs":"With approval of the Associate Dean"
+        },
+        {
+            "hours":"0-3",
+            "num":"BUS 610",
+            "name":"Graduate Business Practicum",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"This course helps the business consultant develop the statistical and decision analysis skills required for evidence-based management, providing training in the application of statistical and decision analysis tools that students need for preparation of two consultant reports.  The course relies on an interactive, experiential approach, performed through simulation in an on-line context.",
+            "prereqs":"Graduate student in good standing and approval of FCB Associate Dean"
+        },
+        {
+            "hours":"1",
+            "num":"BUS 615",
+            "name":"Executive Coaching",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"To effectively lead today's organizations, executives need ongoing support to navigate interpersonal and organizational challenges while developing their leadership skills and competencies. While immersed in the EMBA program, students also face challenges in negotiating coursework, learning team dynamics, and work-life balance, all while their leadership skills undergo scrutiny and transformation. Executive coaching is a personalized experience to support students while in the intensely developmental EMBA program.",
+            "prereqs":null
+        },
+        {
+            "hours":"2.5",
+            "num":"BUS 621",
+            "name":"Leadership Immersion: Awareness, Connection, Impact",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Internalization of self-awareness perspectives through consideration of various leadership models, discussion, and practice. In-depth analysis of the strengths and development needs of participants through 360-degree feedback. Important interpersonal skill foundations in communication, conflict resolution, and trust building are emphasized.",
+            "prereqs":""
+        },
+        {
+            "hours":"0.5",
+            "num":"BUS 623",
+            "name":"Scanning the Environment",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Uncertainty in business planning caused by the external environment. Utilization of a conceptual model to organize and frame the discussions of the macroenvironment in which the firm operates. Graded Satisfactory/ Unsatisfactory.",
+            "prereqs":null
+        },
+        {
+            "hours":"1",
+            "num":"BUS 625",
+            "name":"External Economic Environment",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Provide a broad overview of the economic environment in which business firms and consumers carry out their individual economic activities. Review the institutional structure, the social goals, and implicit values of the market system and how they establish the parameters within which choices are made. Overview of how and why business cycles occur. How economic policy, both monetary and fiscal, have impacted the business cycle.",
+            "prereqs":null
+        },
+        {
+            "hours":"1",
+            "num":"BUS 627",
+            "name":"Managing Product & Process Technology",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Exposure to processes for shaping product technology and process technology decisions within firms.  The course centers on skills related to identifying and managing a firm's technology platforms and their deployment in products and services; mapping and improving processes; managing the cross-functional interactions associated with product and process improvement; and communicating technology issues effectively to senior leaders. Prerequisite:",
+            "prereqs":null
+        },
+        {
+            "hours":"1.5-2",
+            "num":"BUS 629",
+            "name":"Cost Management",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Analysis of the nature of cost. Techniques for accumulation of costs incurred in production and assignment of those costs to products. Methods for reduction and management of non-value-added costs.",
+            "prereqs":null
+        },
+        {
+            "hours":"1",
+            "num":"BUS 631",
+            "name":"Competition and Pricing",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Elasticity measurement of market response to price, income, and other influences on competitive structure from commodities to monopoly; pricing strategies based on competitive environment; price, output, and product development for competition among few firms; the techniques of Cournot, Stackelberg, and Von Neumann.",
+            "prereqs":null
+        },
+        {
+            "hours":"3",
+            "num":"BUS 633",
+            "name":"Creating & Maintaining Customer Satisfaction",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Customer-focused topics, including effective and efficient product delivery, identifying customer segments that can be served by the firm, offering customer value, and building brand and corporate loyalty.",
+            "prereqs":null
+        },
+        {
+            "hours":"2",
+            "num":"BUS 635",
+            "name":"Communication Workshop",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Business writing and presentation skills will be learned and strengthened through practice and coaching. In addition to in-class assignments, students will be coached through various writing and presentation opportunities throughout the EMBA curriculum in order to reinforce the tools developed.  Executive communication internal to the organization and to external stakeholders, utilizing various media outlets, will receive primary emphasis.",
+            "prereqs":null
+        },
+        {
+            "hours":"1.5-2",
+            "num":"BUS 637",
+            "name":"Attracting & Developing Talent",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Expose students to the challenges of attracting talent and provide advice on how to develop talent within an organization. Complexities of recruiting in difficult labor markets. Continuous improvement mechanisms to stimulate ongoing talent development.",
+            "prereqs":null
+        },
+        {
+            "hours":"1.5-2",
+            "num":"BUS 639",
+            "name":"Building Employee Commitment",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Key themes and practical approaches for enhancing motivation and building high levels of commitment and continuing dedication throughout the workforce. Financial and intrinsic reward systems are emphasized, as are the keys to developing a culture of involvement and credibility.",
+            "prereqs":null
+        },
+        {
+            "hours":"1",
+            "num":"BUS 643",
+            "name":"Legal Issues in Business",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"General overview of the legal principles and concepts that enable executives to understand and address legal issues they frequently encounter in business.  It provides practical, real world approaches to important employment, contractual and other issues facing employers and executives, including the hiring/recruiting process,employee behaviors, discipline and termination, and starting a business.",
+            "prereqs":null
+        },
+        {
+            "hours":"3",
+            "num":"BUS 645",
+            "name":"Acquiring Capital & Making Investment Decisions",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Planning and strategies involved in identifying value-enhancing capital projects. Interpreting cash flow figures, identifying risk factors, and employing risk analysis techniques. Strategies for acquiring capital and understanding the impact of capital structure on firm value.",
+            "prereqs":""
+        },
+        {
+            "hours":"3",
+            "num":"BUS 647",
+            "name":"Global Environment & Issues",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Provide an understanding of the forces shaping the international economy. Provide frameworks and guidelines for gathering, sorting, and assessing complex global and regional information to contribute to understanding organizations\u2039\u00a8\u00ab strategies and tactics. Emphasis on leadership issues and diverse cultures.",
+            "prereqs":null
+        },
+        {
+            "hours":"2",
+            "num":"BUS 649",
+            "name":"Developing Strategy",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Provide an effective planning framework to integrate strategies with different functional areas. All of the functional areas will be integrated within the strategic planning framework. Emphasis on strategic planning as an ongoing, fluid process that evolves over time and adapts to environmental changes.",
+            "prereqs":null
+        },
+        {
+            "hours":"2",
+            "num":"BUS 651",
+            "name":"Performance Measurement & Control Systems",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Techniques for creation of profit plans and monitoring of success. Design and use of broad-based performance measures such as the balanced scorecard. Identification and control of risks that threaten the attainment of objectives.",
+            "prereqs":null
+        },
+        {
+            "hours":"2.5",
+            "num":"BUS 653",
+            "name":"Strategic Positioning & Maximizing Performance",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Expose managers to factors that impact different performance measures and provide strategies that maximize performance. Achieve balance at many different levels; incremental/radical strategies, flexibility/control, resources/capabilities, and growth/continuous improvement.",
+            "prereqs":null
+        },
+        {
+            "hours":"1-1.5",
+            "num":"BUS 655",
+            "name":"Leading Successful Change",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Background, insights, and skills in how to effectively challenge the status quo, create new directions, and lead organizations to embrace and successfully implement needed change. Examination of the forces for change and dynamics of resistance. Participants examine their personal style of change and apply change management and project management strategies to their respective organizations.",
+            "prereqs":null
+        },
+        {
+            "hours":"0.5-5",
+            "num":"BUS 658",
+            "name":"EMBA Topics",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Topics of special interest which may vary each time course is offered. May be repeated under different topics for a maximum of 5.0 hours credit. Topic stated in current Schedule of Classes. Graded Satisfactory/Unsatisfactory.",
+            "prereqs":null
+        },
+        {
+            "hours":"1",
+            "num":"BUS 672",
+            "name":"Assessing Privacy & Security Threats",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Current and emerging threats to personal privacy and organizational security. Topics will include proper account management, social media use, risks of the internet of things, surveillance capitalism, and how to anonymize your digital life to avoid becoming a victim of data breaches. Techniques hackers use to exploit common vulnerabilities will be demonstrated. An introduction to the various technical and administrative aspects of information security and assurance will be discussed to provide a foundation for protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent information security posture.",
+            "prereqs":""
+        },
+        {
+            "hours":"1-3",
+            "num":"BUS 681",
+            "name":"Professional Development",
+            "gen_ed":null,
+            "core_curr":null,
+            "descrip":"Apply professional knowledge and skills in a team environment on not-for-profit, international, or research project. May be repeated for a maximum of three hours credit.",
+            "prereqs":"consent of graduate program director"
         }
     ],
     "Economics Courses":[

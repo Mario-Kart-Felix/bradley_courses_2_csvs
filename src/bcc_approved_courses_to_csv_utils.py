@@ -201,6 +201,8 @@ def get_approved_bcc_course_page_data(soup):
                 
                 for class_num in dept_code_class_l:
                     
+                    class_num = class_num.replace('P T HS', 'HS')
+                    
                     # first exceptions
                     if class_num == '400/M L 452****':
                         formatted_class_l.append(('BUS 400', '****'))

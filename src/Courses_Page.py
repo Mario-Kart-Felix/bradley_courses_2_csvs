@@ -33,7 +33,7 @@ class Courses_Page:
         p_attr_l = self.soup.find_all('p')
         
         
-#         print(self.soup.prettify())
+        print(self.soup.prettify())
         
         for p_attr in p_attr_l:
             

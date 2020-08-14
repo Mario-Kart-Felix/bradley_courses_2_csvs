@@ -1,4 +1,6 @@
+https://www.bradley.edu/academic/departments/pths/courses/
 https://www.bradley.edu/academic/undergradcat/20202021/fcba-atgcourses.dot
+https://www.bradley.edu/academic/undergradcat/20202021/fcba-buscourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/fcba-econcourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/fcba-etlcourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/fcba-fqmcourses.dot
@@ -55,7 +57,6 @@ https://www.bradley.edu/academic/undergradcat/20202021/las-wgscourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/las-wgscourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/las-wlccourses.dot
 https://www.bradley.edu/academic/undergradcat/20202021/turner-entrepreneur-courses.dot
-
 
 
 
