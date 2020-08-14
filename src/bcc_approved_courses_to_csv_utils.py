@@ -56,16 +56,38 @@ def get_thing(soup):
                 print('^^^^^^^^^^^^^^^^^^^^^')
                 
                 raw_class_l_str = course_cat_area_of_inquiry_t[2]
-                print(raw_class_l_str)
+#                 print(raw_class_l_str)
                 
                 # format raw_clas_l_str into VVV
                 formatted_class_l = []
                 
                 # remove \u00a0 on bold
-                cleaned_class_l_str = raw_class_l_str.replace('\u00a0', '')
+                cleaned_class_l_str = raw_class_l_str.replace('\u00a0', '').replace(';', ',')
                 
-                s_1 = re.split('; , ', cleaned_class_l_str)
+#                 s_1 = re.split('; , ', cleaned_class_l_str)
 
+                s_1 = cleaned_class_l_str.split(',')
+                print('s_1: ', s_1)
+               
+                # trim whitespace
+                whitespace_trimmed_class_l = []
+                
+                for elm in s_1:
+                    whitespace_trimmed_class_l.append(elm.strip().lstrip())
+                
+                print('whitespace_trimmed_class_l: ', whitespace_trimmed_class_l)
+                
+                # give all class nums their dept. code
+                dept_code_class_l = []
+                cur_dept_code = None # assumes 1st will always have a dept code
+                
+                for class_num in whitespace_trimmed_class_l:
+                    
+                    # if string contains any letters
+                    if re.search('[a-zA-Z]', class_num):
+                        print(class_num)
+                    else:
+                        print('heeeeeeeeeeeeeeere')
 
         
         
