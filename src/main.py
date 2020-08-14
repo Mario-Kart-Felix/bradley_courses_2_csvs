@@ -66,6 +66,24 @@ def log_courses_pages_csvs(courses_page_title_courses_dl_d):
         csv_path = COURSES_PAGES_CSVS_DIR_PATH + '//{}.csv'.format(title)
         print('logging to ', csv_path)#``````````````````````````````````````````````````````````````````
         logger.write2CSV(courses_dl, csv_path, headerList = COURSES_PAGES_CSVS_HEADER_L, headerReplaceDict = COURSES_PAGES_CSVS_HEADER_RENAME_D)
+
+
+##########################
+# BCC Approved Courses
+##########################
+
+   
+def get_class_num_class_data_d(courses_page_title_courses_dl_d):
+    class_num_class_data_dd = {}
+   
+    for course_page_title, courses_dl in courses_page_title_courses_dl_d.items():
+        for courses_d in courses_dl:
+            class_num_class_data_dd[courses_d['num']] = courses_d
+            del class_num_class_data_dd[courses_d['num']]['num']
+            
+    return class_num_class_data_dd
+   
+   
    
    
 def main():
@@ -97,7 +115,12 @@ def main():
     approved_bcc_course_page_data = bcc_approved_courses_to_csv_utils.get_approved_bcc_course_page_data(soup)
     
     tu.tp_print(approved_bcc_course_page_data, 'approved_bcc_course_page_data:')
+    
+    tu.tp_print(courses_page_title_courses_dl_d, 'courses_page_title_courses_dl_d:')
         
+    class_num_class_data_dd = get_class_num_class_data_d(courses_page_title_courses_dl_d)
+    
+    tu.p_print(class_num_class_data_dd)
 
 # # Making a get request 
 # response = requests.get('https://www.bradley.edu/academic/undergradcat/20202021/las-mthcourses.dot') 
