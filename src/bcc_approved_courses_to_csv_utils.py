@@ -57,9 +57,7 @@ def get_thing(soup):
                 
                 raw_class_l_str = course_cat_area_of_inquiry_t[2]
 #                 print(raw_class_l_str)
-                
-                # format raw_clas_l_str into VVV
-                formatted_class_l = []
+
                 
                 # remove \u00a0 on bold
                 cleaned_class_l_str = raw_class_l_str.replace('\u00a0', ' ').replace(';', ',').replace('.', ',')
@@ -104,7 +102,20 @@ def get_thing(soup):
                         
                                 dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
                         
-                        
+                # format *'s
+                formatted_class_l = []
+                
+                for class_num in dept_code_class_l:
+                    if '*' in class_num:
+                        print('reeeeeeeeeeeeeeeeeee')
+                    
+                    else:
+                        formatted_class_l.append(class_num)
+                
+                
+                
+                
+                
 # #                         # for fixing typos like "RLS 320 321"
 # #                         s_1 = class_num.split(' ')
 # #                         
@@ -115,7 +126,7 @@ def get_thing(soup):
 #                         dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
                         
 
-                print('dept_code_class_l: ', dept_code_class_l)
+                print('dept_code_class_l: ', formatted_class_l)
                 
                 # set formatted class list
                 course_cat_area_of_inquiry_t[2] = dept_code_class_l
