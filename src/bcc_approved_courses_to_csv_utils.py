@@ -73,7 +73,7 @@ def get_thing(soup):
                 for elm in s_1:
                     whitespace_trimmed_class_l.append(elm.strip().lstrip())
                 
-                print('whitespace_trimmed_class_l: ', whitespace_trimmed_class_l)
+#                 print('whitespace_trimmed_class_l: ', whitespace_trimmed_class_l)
                 
                 # give all class nums their dept. code
                 dept_code_class_l = []
@@ -126,10 +126,10 @@ def get_thing(soup):
 #                         dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
                         
 
-                print('dept_code_class_l: ', formatted_class_l)
+#                 print('formatted_class_l: ', formatted_class_l)
                 
                 # set formatted class list
-                course_cat_area_of_inquiry_t[2] = dept_code_class_l
+                course_cat_area_of_inquiry_t[2] = formatted_class_l
                 
         return course_cat_area_of_inquiry_tlll
                 
@@ -217,7 +217,7 @@ def get_thing(soup):
         
     course_cat_area_of_inquiry_tlll_w_formatted_class_l = format_class_l(course_cat_area_of_inquiry_tlll)
     
-    tu.tp_print(course_cat_area_of_inquiry_tlll, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
+    tu.tp_print(course_cat_area_of_inquiry_tlll_w_formatted_class_l, 'course_cat_area_of_inquiry_tlll_w_formatted_class_l: ')
 #         
 # #         for td_attr in td_attr_l:
 # #             td_attr_text = td_attr.get_text()
