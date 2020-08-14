@@ -130,22 +130,7 @@ def get_thing(soup):
                     
                     else:
                         formatted_class_l.append((class_num, ''))
-                
-                
-                
-                
-                
-# #                         # for fixing typos like "RLS 320 321"
-# #                         s_1 = class_num.split(' ')
-# #                         
-# #                         for class_num in s_1:
-# #                             if elm != '':
-#                                 
-#                         
-#                         dept_code_class_l.append( cur_dept_code + ' ' + class_num ) 
-                        
 
-#                 print('formatted_class_l: ', formatted_class_l)
                 
                 # set formatted class list
                 course_cat_area_of_inquiry_t[2] = formatted_class_l
