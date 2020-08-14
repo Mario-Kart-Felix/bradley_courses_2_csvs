@@ -29,7 +29,7 @@ COURSES_PAGES_CSVS_HEADER_RENAME_D = {
 BCC_APPROVED_COURSES_URL = 'https://www.bradley.edu/sites/bcc/approved-courses/'
 BCC_APPROVED_COURSES_CSVS_DIR_PATH = OUTPUTS_DIR_PATH + '//bcc_approved_courses_page_CSVs'
 
-
+CLASS_NOT_FOUND_JSON_PATH = 'class_not_found.json'
    
    
 def get_url_l():   
@@ -108,13 +108,24 @@ def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class
             code            = area_of_inquiry_t[1]
             class_tl        = area_of_inquiry_t[2]
             
-#             log_d = {}
-            
             for class_t in class_tl:
                 class_num = class_t[0]
                 note      = class_t[1]
                 
-                log_d = class_num_class_data_dd[class_num]
+                try:
+                    log_d = class_num_class_data_dd[class_num]
+                    
+                except KeyError:
+                    
+                    tu.a_log(class_num, CLASS_NOT_FOUND_JSON_PATH)
+                    
+                    log_d = {'hours'     : None,
+                             'name'      : 'COULD NOT FIND CLASS',
+                             'gen_ed'    : None,
+                             'core_curr' : None,
+                             'descrip'   : None,
+                             'prereqs'   : None}
+                    
                 log_d['note']             = note
                 log_d['num']              = class_num
                 log_d['code']             = code
@@ -130,6 +141,9 @@ def log_approved_bcc_courses_csvs(approved_bcc_course_page_data, class_num_class
    
    
 def main():
+    
+    # reset for nest test
+    tu.o_log('These classes could not be found', CLASS_NOT_FOUND_JSON_PATH)
     
     url_l = get_url_l()
     tu.p_print(url_l) #```````````````````````````````````````````````````
