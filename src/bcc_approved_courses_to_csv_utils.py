@@ -39,10 +39,12 @@ def get_thing(soup):
         return area_of_inquiry_td_attr_ll
         
         
-    def get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll):
-        get_course_cat_area_of_inquiry_ld = []
-        
-        print(len(course_category_l), len(area_of_inquiry_td_attr_ll)) 
+#     def get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll):
+#         course_cat_area_of_inquiry_ld = []
+#         
+#         print(len(course_category_l), len(area_of_inquiry_td_attr_ll)) 
+#         print(course_category_l) 
+#         print(area_of_inquiry_td_attr_ll) 
         
         
         
@@ -55,6 +57,7 @@ def get_thing(soup):
     
     table_attr_l = soup.find_all('table', class_ = 'table table-hover')
     
+    course_cat_area_of_inquiry_tll = []
     for table_attr in table_attr_l:
         
         
@@ -67,10 +70,13 @@ def get_thing(soup):
             
         print('qqqqqqqqqqq', area_of_inquiry_td_attr_ll)
             
+        course_cat_area_of_inquiry_tll.append((course_category_l.pop(0), area_of_inquiry_td_attr_ll))
         
+#         course_cat_area_of_inquiry_tll = get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll)
         
-        course_cat_area_of_inquiry_tll = get_course_cat_area_of_inquiry_tll(course_category_l, area_of_inquiry_td_attr_ll)
+        print('course_cat_area_of_inquiry_tll: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV')
         tu.p_print(course_cat_area_of_inquiry_tll)
+        print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
         
 #         
 # #         for td_attr in td_attr_l:
